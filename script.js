@@ -80,62 +80,87 @@ document.querySelectorAll("svg path").forEach((path) => {
     {
       question: "Một hình chữ nhật có chiều dài 12 cm, chiều rộng 7 cm. Tính diện tích hình chữ nhật.",
       answers: { A: "72 cm²", B: "76 cm²", C: "94 cm²", D: "84 cm²" },
-      correct: "D",
+      correct: "D"
     },
     {
       question: "Một ô tô đi quãng đường 240 km trong 4 giờ. Hỏi mỗi giờ ô tô đi được bao nhiêu km?",
       answers: { A: "50 km", B: "55 km", C: "60 km", D: "70 km" },
-      correct: "C",
+      correct: "C"
     },
     {
       question: "Tính 3/4 của 100.",
       answers: { A: "25", B: "50", C: "75", D: "100" },
-      correct: "C",
+      correct: "C"
     },
     {
       question: "Một mảnh vườn hình vuông có cạnh dài 15 m. Tính chu vi mảnh vườn.",
       answers: { A: "45 m", B: "60 m", C: "75 m", D: "30 m" },
-      correct: "B",
+      correct: "B"
     },
     {
       question: "Từ đồng nghĩa với 'vui' là gì?",
       answers: { A: "Buồn", B: "Hạnh phúc", C: "Tức giận", D: "Sợ" },
-      correct: "B",
+      correct: "B"
     },
     {
       question: "Choose the correct article: I have ___ apple.",
       answers: { A: "a", B: "an", C: "the", D: "x" },
-      correct: "B",
+      correct: "B"
     },
     {
       question: "Fill in the blank: She ___ a cat.",
       answers: { A: "is", B: "are", C: "have", D: "has" },
-      correct: "D",
+      correct: "D"
     },
     {
       question: "Dịch nghĩa từ 'fountain'",
       answers: { A: "đài phun nước", B: "lâu đài", C: "bưu điện", D: "bảo tàng" },
-      correct: "A",
+      correct: "A"
     },
     {
       question: "Dân tộc chủ yếu sống ở đồng bằng Bắc Bộ là",
       answers: { A: "Tày", B: "Kinh", C: "Thái", D: "H'Mong" },
-      correct: "B",
+      correct: "B"
     },
     {
       question: "Cố đô Huế là công trình của thời vua nào",
       answers: { A: "Trần", B: "Lê", C: "Nguyễn", D: "Lý" },
-      correct: "C",
+      correct: "C"
     },
     {
       question: "Minecraft là trò chơi xuất hiện hình gì nhiều nhất",
       answers: { A: "tròn", B: "vuông", C: "tam giác", D: "chữ nhật" },
-      correct: "B",
+      correct: "B"
     },
     {
       question: "Có 10 hộp baby three. Trong đó chắc chắn có 3 con mắt nước, còn lại là còn mắt lác. Hỏi mở nhiều nhất bao nhiêu hộp để có 1 con mắt nước.",
-      answers: { A: "1", B: "2", C: "3 giác", D: "4" },
-      correct: "D",
+      answers: { A: "1", B: "2", C: "3", D: "4" },
+      correct: "D"
+    },
+    {
+      question: "Tính kết quả phép tính: 12/5 x 5/3 x 7/4",
+      answers: { A: "4", B: "5", C: "6", D: "7" },
+      correct: "D"
+    },
+    {
+      question: "Hình nào sau đây có nhiều góc vuông nhất",
+      answers: { A: "Hình tròn", B: "Hình chữ nhật", C: "Hình tam giác", D: "Hình thoi" },
+      correct: "B"
+    },
+    {
+      question: "Phân số nào sau đây lớn hơn 1",
+      answers: { A: "2314/4125", B: "1645/4524", C: "5345/9421", D: "4521/3687" },
+      correct: "D"
+    },
+    {
+      question: "Phân số nào sau đây nhỏ hơn 1",
+      answers: { A: "357/159", B: "456/123", C: "254/698", D: "761/349" },
+      correct: "C"
+    },
+    {
+      question: "Thỏ đi xe đạp đến nhà bà cách 30km trong vòng 2h. Hỏi Thỏ đi xe với vận tốc bao nhiêu",
+      answers: { A: "15km/h", B: "20km/h", C: "25km/h", D: "30km/h" },
+      correct: "A"
     }
   ];
 
