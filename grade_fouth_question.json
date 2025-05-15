@@ -236,7 +236,7 @@
   },
   {
     "question": "Diện tích hình vuông có cạnh 200 cm là",
-    "answers": { "A": "1m2", "B": "2m2", "C": "3m2", "D": "4m2" },
+    "answers": { "A": "1m²", "B": "2m²", "C": "3m²", "D": "4m²" },
     "correct": "D"
   },
   {
@@ -262,6 +262,56 @@
   {
     "question": "Trong một buổi tiệc sinh nhật có 8 người tham dự và 1 chiếc bánh sinh nhật. Hỏi chia đều mỗi người được ăn bao nhiêu chiếc bánh",
     "answers": { "A": "9/8", "B": "1/8", "C": "1/9", "D": "7/8" },
+    "correct": "B"
+  },
+  {
+    "question": "Mai mua 6 cái bút chì hết 24 000 đồng. Vậy số tiền Hoa mua 7 cái bút chì như thế là bao nhiêu",
+    "answers": { "A": "24 000 đồng", "B": "28 000 đồng", "C": "32 000 đồng", "D": "36 000 đồng" },
+    "correct": "B"
+  },
+  {
+    "question": "10 túi gạo nặng 150 kg gạo. Vậy 15 túi gạo như thế đựng bao nhiêu số ki-lô-gam gạo",
+    "answers": { "A": "210 kg", "B": "240 kg", "C": "255 kg", "D": "225 kg" },
+    "correct": "D"
+  },
+  {
+    "question": "Người ta rót 20 lít dầu vào 5 can như nhau. Vậy 8 can như thế đựng được bao nhiêu số lít dầu",
+    "answers": { "A": "32 lít", "B": "36 lít", "C": "28 lít", "D": "40 lít" },
+    "correct": "A"
+  },
+  {
+    "question": "60 hộp sữa đóng đều vào 15 vỉ. Hỏi 24 hộp như thế sẽ đóng được bao nhiêu vỉ",
+    "answers": { "A": "6 vỉ", "B": "5 vỉ", "C": "4 vỉ", "D": "7 vỉ" },
+    "correct": "A"
+  },
+  {
+    "question": "Xếp 24 cái bánh vào 4 hộp. Hỏi 72 cái bánh được xếp vào bao nhiêu hộp",
+    "answers": { "A": "10 hộp", "B": "11 hộp", "C": "12 hộp", "D": "13 hộp" },
+    "correct": "C"
+  },
+  {
+    "question": "Cô giáo chia đều 25 cái kẹo cho 5 bạn. Hỏi 60 cái kẹo chia được cho bao nhiêu bạn",
+    "answers": { "A": "10 bạn", "B": "11 bạn", "C": "12 bạn", "D": "13 bạn" },
+    "correct": "C"
+  },
+  {
+    "question": "Một thửa ruộng hình chữ nhật có diện tích 400m². Cứ 100m², ông Nam thu hoạch được 3 tạ khoai. Vậy ông Nam thu hoạch được tất cả bao nhiêu tạ khoai",
+    "answers": { "A": "6 tạ", "B": "8 tạ", "C": "10 tạ", "D": "12 tạ" },
+    "correct": "D"
+  },
+  {
+    "question": "Hơi nước đọng trên nắp vung khi nấu ăn là hiện tượng",
+    "answers": { "A": "ngưng tụ", "B": "bay hơi", "C": "đông đặc", "D": "nóng chảy" },
+    "correct": "A"
+  },
+  {
+    "question": "Cáo ăn gà, gà ăn dế mèn, dế mèn ăn cỏ. Chuỗi thức ăn nào sau đâu mô tả chính xác mỗi quan hệ này",
+    "answers": { "A": "Cỏ → Gà → Dế mèn → Cáo", "B": "Cáo → Dế mèn → Gà → Cỏ", "C": "Cỏ → Dế mèn → Gà → Cáo", "D": "Cáo → Gà → Dế mèn" },
+    "correct": "C"
+  },
+  {
+    "question": "Vì sao khi số lượng cú giảm thì số lượng chuột tăng",
+    "answers": { "A": "Vì cú là thức ăn của chuột", "B": "Vì chuột là thức ăn của cú", "C": "Vì cú làm chuột không thể sinh sôi phát triển", "D": "Tất cả đáp án trên đều sai" },
     "correct": "B"
   }
 ]
