@@ -77,28 +77,28 @@ document.querySelectorAll("svg path").forEach((path) => {
     return;
   }
 
-  async function loadQuestions() {
+  async function fetchQuestions() {
     try {
       const response = await fetch('./grade_fouth_question.json'); // file câu hỏi ở đây
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       questions = await response.json();
-      console.log('Đã load', questions.length, 'câu hỏi');
+      console.log('Đã fetch', questions.length, 'câu hỏi');
     } catch (err) {
-      console.error('Lỗi khi load câu hỏi:', err);
+      console.error('Lỗi khi fetch câu hỏi:', err);
     }
   }
-  loadQuestions();
+  fetchQuestions();
 
-  let usedCount = 0;
+  let usedQuestionCount = 0;
 
   function pickQuestion() {
     if (questions.length === 0) {
-      console.warn('Hết câu hỏi rồi!');
+      window.alert('Hết câu hỏi rồi!');
       return null;
     }
     const idx = Math.floor(Math.random() * questions.length);
     const qq = questions.splice(idx, 1)[0];
-    usedCount++;
+    usedQuestionCount++;
     return qq;
   }
   
@@ -107,22 +107,39 @@ document.querySelectorAll("svg path").forEach((path) => {
     location.reload();
   });
 
+  // thuật toán Fisher–Yates xáo trộn mảng random
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+  }
+
   path.addEventListener("click", () => {
-    if (!gameStarted || path.classList.contains("liberated")) return;
+    if (!gameStarted || path.classList?.contains("liberated")) return;
 
     // Lấy 1 câu hỏi ngẫu nhiên
     const q = pickQuestion();
     currentPath = path;
 
+    // Lưu lại text đáp án đúng
+    const correctAnswer = q.answers[q.correct];
+
+    // Lấy mảng tất cả text đáp án, rồi xáo nó
+    const questionArray = Object.values(q.answers);
+    shuffleArray(questionArray);
+
     // Hiện câu hỏi & đáp án
     questionText.textContent = q.question;
-    answerButtons.forEach((btn) => {
-      const key = btn.dataset.answer; // 'A','B','C','D'
-      btn.textContent = `${key}. ${q.answers[key] || ""}`;
+    answerButtons.forEach((btn, idx) => {
+      const key = btn.dataset.answer;
+      const text = questionArray[idx]; // 'A','B','C','D'
+      
+      btn.textContent = `${key}. ${text}`;
       btn.onclick = () => {
         questionDiv.style.display = "none";
-        if (key === q.correct) {
-          currentPath.classList.add("liberated");
+        if (text === correctAnswer) {
+          currentPath?.classList?.add("liberated");
           liberatedCount++;
           checkVictory();
         } else {
@@ -131,6 +148,7 @@ document.querySelectorAll("svg path").forEach((path) => {
         }
       };
     });
+
     questionDiv.style.display = "block";
   });
 });
@@ -177,12 +195,12 @@ document.getElementById("readyBtn").addEventListener("click", () => {
   // 3) Tạo iframe autoplay
   const playerDiv = document.getElementById("player");
   playerDiv.innerHTML = `
-        <iframe
-          src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&controls=0"
-          allow="autoplay"
-          frameborder="0"
-          width="0"
-          height="0">
-        </iframe>
-      `;
+    <iframe
+      src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&controls=0"
+      allow="autoplay"
+      frameborder="0"
+      width="0"
+      height="0">
+    </iframe>
+  `;
 });

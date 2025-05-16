@@ -60,9 +60,9 @@
     "correct": "D"
   },
   {
-    "question": "Tính kết quả phép tính: 12/5 x 5/3 x 7/4",
-    "answers": { "A": "4", "B": "5", "C": "6", "D": "7" },
-    "correct": "D"
+    "question": "Tính kết quả phép tính: 12/5 x 5/7 x 7/4",
+    "answers": { "A": "3", "B": "4", "C": "5", "D": "6" },
+    "correct": "A"
   },
   {
     "question": "Hình nào sau đây có nhiều góc vuông nhất",
@@ -197,7 +197,7 @@
   {
     "question": "Đâu là từ chỉ tính chất của sự vật",
     "answers": { "A": "Cao", "B": "Cũ", "C": "Nhỏ", "D": "Rộng" },
-    "correct": "A"
+    "correct": "B"
   },
   {
     "question": "Đồng bằng Bắc Bộ chủ yếu là loại đất nào sau đây",
