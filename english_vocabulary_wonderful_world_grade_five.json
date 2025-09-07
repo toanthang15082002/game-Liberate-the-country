@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Dịch nghĩa từ 'clever'",
+    "answers": { "A": "Thông minh", "B": "Kém cỏi", "C": "Hoạt bát", "D": "Hạnh phúc" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'different'",
+    "answers": { "A": "Na ná", "B": "Khác biệt", "C": "Tương đồng", "D": "So sánh" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'same'",
+    "answers": { "A": "Hào hứng", "B": "Khác biệt", "C": "Tương đồng", "D": "So sánh" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'come out of'",
+    "answers": { "A": "Đi ra", "B": "Đên với", "C": "Rời đi", "D": "Thoát ra khỏi" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'penguin'",
+    "answers": { "A": "ngỗng", "B": "hoàng đế", "C": "chim cánh cụt", "D": "vịt trời" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'stay'",
+    "answers": { "A": "đi vào", "B": "ở lại", "C": "rời đi", "D": "thoát ra khỏi" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'leave'",
+    "answers": { "A": "đi vào", "B": "ở lại", "C": "rời đi", "D": "thoát ra khỏi" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'after'",
+    "answers": { "A": "sau", "B": "trước", "C": "trên", "D": "dưới" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'building'",
+    "answers": { "A": "công trình", "B": "bảo tàng", "C": "xây dựng", "D": "tòa nhà" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'keep warming'",
+    "answers": { "A": "kiếm đồ ăn", "B": "làm lạnh", "C": "giữ ấm", "D": "lặn biển" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'thing'",
+    "answers": { "A": "đồ vật", "B": "đồ chơi", "C": "đồ ăn", "D": "đồ trang trí" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'parents'",
+    "answers": { "A": "bố mẹ", "B": "anh chị", "C": "họ hàng", "D": "người thân" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'loud'",
+    "answers": { "A": "ồn ào", "B": "im lặng", "C": "xì xào", "D": "nhẹ nhàng" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'quiet'",
+    "answers": { "A": "ồn ào", "B": "im lặng", "C": "xì xào", "D": "nhẹ nhàng" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'new'",
+    "answers": { "A": "mới", "B": "cũ", "C": "nhỏ", "D": "nhẹ" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'crazy about'",
+    "answers": { "A": "mê mẩn về", "B": "lo lắng về ", "C": "bình tĩnh trước", "D": "ghét cay ghét đắng" },
+    "correct": "B"
+  }
+]
