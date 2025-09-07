@@ -305,7 +305,7 @@
     "correct": "A"
   },
   {
-    "question": "Cáo ăn gà, gà ăn dế mèn, dế mèn ăn cỏ. Chuỗi thức ăn nào sau đâu mô tả chính xác mỗi quan hệ này",
+    "question": "Cáo ăn gà, gà ăn dế mèn, dế mèn ăn cỏ. Chuỗi thức ăn nào sau đâu mô tả chính xác mối quan hệ này",
     "answers": { "A": "Cỏ → Gà → Dế mèn → Cáo", "B": "Cáo → Dế mèn → Gà → Cỏ", "C": "Cỏ → Dế mèn → Gà → Cáo", "D": "Cáo → Gà → Dế mèn" },
     "correct": "C"
   },
