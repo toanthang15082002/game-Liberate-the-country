@@ -58,6 +58,17 @@ function checkVictory() {
   }
 }
 
+async function fetchQuestions() {
+  try {
+    const response = await fetch('./grade_fouth_question.json'); // FILE CÂU HỎI Ở ĐÂY
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    questions = await response.json();
+  } catch (err) {
+    console.error('Lỗi khi fetch câu hỏi:', err);
+  }
+}
+fetchQuestions();
+
 // --- Tooltip + Logic click hỏi ---
 document.querySelectorAll("svg path").forEach((path) => {
   const name = path.getAttribute("name") || path.getAttribute("title") || path.id;
@@ -76,18 +87,6 @@ document.querySelectorAll("svg path").forEach((path) => {
     path.classList.add("liberated");
     return;
   }
-
-  async function fetchQuestions() {
-    try {
-      const response = await fetch('./grade_fouth_question.json'); // file câu hỏi ở đây
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      questions = await response.json();
-      console.log('Đã fetch', questions.length, 'câu hỏi');
-    } catch (err) {
-      console.error('Lỗi khi fetch câu hỏi:', err);
-    }
-  }
-  fetchQuestions();
 
   let usedQuestionCount = 0;
 
@@ -115,8 +114,12 @@ document.querySelectorAll("svg path").forEach((path) => {
     }
   }
 
+  let questionOpen = false;
   path.addEventListener("click", () => {
-    if (!gameStarted || path.classList?.contains("liberated")) return;
+    if (!gameStarted || path.classList?.contains("liberated") || questionOpen) return;
+
+    questionOpen = true;
+    document.querySelectorAll("svg path").forEach(p => p.style.pointerEvents = "none");
 
     // Lấy 1 câu hỏi ngẫu nhiên
     const q = pickQuestion();
@@ -138,6 +141,8 @@ document.querySelectorAll("svg path").forEach((path) => {
       btn.textContent = `${key}. ${text}`;
       btn.onclick = () => {
         questionDiv.style.display = "none";
+        questionOpen = false;
+        document.querySelectorAll("svg path").forEach(p => p.style.pointerEvents = "auto");
         if (text === correctAnswer) {
           currentPath?.classList?.add("liberated");
           liberatedCount++;
@@ -186,6 +191,9 @@ document.getElementById("readyBtn").addEventListener("click", () => {
   document.getElementById("rulesDiv").style.display = "none";
   const youtubeLinks = [
     /* …Link nhạc youtube */
+    "https://www.youtube.com/watch?v=_lIu6T3Bp2I&list=RD_lIu6T3Bp2I&start_radio=1&pp=ygUNbeG6uSB5w6p1IGNvbqAHAQ%3D%3D",
+    "https://www.youtube.com/watch?v=tF5z8kkbzXk&list=RDtF5z8kkbzXk&start_radio=1&pp=ygUNdMO5bmcgZMawxqFuZ6AHAdIHCQmyCQGHKiGM7w%3D%3D",
+    "https://www.youtube.com/watch?v=Zv1aeqWPUv8&list=RDZv1aeqWPUv8&start_radio=1&pp=ygUNdMO5bmcgZMawxqFuZ6AHAQ%3D%3D"
   ];
   const idx = Math.floor(Math.random() * youtubeLinks.length);
   const fullLink = youtubeLinks[idx];
