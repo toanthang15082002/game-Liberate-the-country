@@ -60,7 +60,7 @@ function checkVictory() {
 
 async function fetchQuestions() {
   try {
-    const response = await fetch('./grade_fouth_question.json'); // FILE CÂU HỎI Ở ĐÂY
+    const response = await fetch('./english_vocabulary_wonderful_world_grade_five.json'); // FILE CÂU HỎI Ở ĐÂY
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     questions = await response.json();
   } catch (err) {
