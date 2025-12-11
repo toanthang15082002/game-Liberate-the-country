@@ -60,7 +60,7 @@ function checkVictory() {
 
 async function fetchQuestions() {
   try {
-    const response = await fetch('./grade_fouth_question.json'); // FILE CÂU HỎI Ở ĐÂY
+    const response = await fetch('./technology_grade_fifth.json'); // FILE CÂU HỎI Ở ĐÂY
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     questions = await response.json();
   } catch (err) {
@@ -100,7 +100,7 @@ document.querySelectorAll("svg path").forEach((path) => {
     usedQuestionCount++;
     return qq;
   }
-  
+
   const restartBtn = document.getElementById("restartBtn");
   restartBtn.addEventListener("click", () => {
     location.reload();
@@ -137,21 +137,25 @@ document.querySelectorAll("svg path").forEach((path) => {
     answerButtons.forEach((btn, idx) => {
       const key = btn.dataset.answer;
       const text = questionArray[idx]; // 'A','B','C','D'
-      
-      btn.textContent = `${key}. ${text}`;
-      btn.onclick = () => {
-        questionDiv.style.display = "none";
-        questionOpen = false;
-        document.querySelectorAll("svg path").forEach(p => p.style.pointerEvents = "auto");
-        if (text === correctAnswer) {
-          currentPath?.classList?.add("liberated");
-          liberatedCount++;
-          checkVictory();
-        } else {
-          // reset toàn bộ nếu sai
-          document.getElementById("gameOverDiv").style.display = "block";
-        }
-      };
+      if (text === undefined) {
+        btn.style.display = "none";
+      } else {
+        btn.removeAttribute("style");
+        btn.textContent = `${key}. ${text}`;
+        btn.onclick = () => {
+          questionDiv.style.display = "none";
+          questionOpen = false;
+          document.querySelectorAll("svg path").forEach(p => p.style.pointerEvents = "auto");
+          if (text === correctAnswer) {
+            currentPath?.classList?.add("liberated");
+            liberatedCount++;
+            checkVictory();
+          } else {
+            // reset toàn bộ nếu sai
+            document.getElementById("gameOverDiv").style.display = "block";
+          }
+        };
+      }
     });
 
     questionDiv.style.display = "block";

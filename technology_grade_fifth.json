@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Hoạt động đầu tiên được thực hiện để tạo ra sản phẩm công nghệ là:",
+    "answers": { "A": "Bảo dưỡng, sửa chữa", "B": "Thiết kế", "C": "Vận hành, sử dụng", "D": "Sản xuất" },
+    "correct": "B"
+  },
+  {
+    "question": "Một số ảnh hưởng tiêu cực đối với đời sống con người khi sử dụng công nghệ không đúng cách và hợp lý là:",
+    "answers": { 
+      "A": "Ảnh hưởng tới sức khỏe người dùng, gây mất an toàn thông tin",
+      "B": "Đáp ứng nhu cầu ăn ở, đi lại, giải trí của con người",
+      "C": "Đem lại sự tiện nghe, năng suất lao động được nâng cao, xử lý được các vấn đề môi trường,...",
+      "D": "Có thể bị lệ thuộc vào công nghệ, giảm tư duy sáng tạo, hạn chế giao tiếp trực tiếp, ảnh hưởng tới sưc khỏe người dùng, gây mất an toàn thông tin"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Động cơ hơi nước tạo ra cuộc cách mạng công nghiệp của thế kỷ",
+    "answers": { "A": "XX", "B": "XVIII", "C": "XIX", "D": "XVII" },
+    "correct": "C"
+  },
+  {
+    "question": "Chiếc máy tính điện tử đầu tiên có tên là:",
+    "answers": { "A": "ENIAN", "B": "ENIME", "C": "ENAC", "D": "ENIAC" },
+    "correct": "D"
+  },
+  {
+    "question": "Để thiết kế một sản phẩm công nghệ, em cần thực hiện mấy bước chính?",
+    "answers": { "A": "3 bước", "B": "4 bước", "C": "5 bước", "D": "6 bước" },
+    "correct": "B"
+  },
+  {
+    "question": "Điện thoại cố định gồm hai bộ phận cơ bản là:",
+    "answers": { "A": "Ống nghe và nói", "B": "Bàn phím", "C": "Ống nghe và nói, bàn phím", "D": "Ống nghe và bàn phím" },
+    "correct": "C"
+  },
+  {
+    "question": "Số điện thoại khẩn cấp 112 được dùng để gọi:",
+    "answers": { "A": "Dịch vụ gọi tìm kiếm, cứu nạn", "B": "Dịch vụ tổng đài điện thoại Quốc gia bảo vệ trẻ em", "C": "Dịch vụ gọi công an", "D": "Dịch vụ gọi cấp cứu y tế" },
+    "correct": "A"
+  },
+  {
+    "question": "Để sử dụng điện thoại an toàn, em cần:",
+    "answers": { 
+      "A": "Không sử dụng điện thoại khi đang sạc pin và pin yếu",
+      "B": "Chào hỏi, xưng danh và nêu mục đích của cuộc gọi",
+      "C": "Thể hiện thái độ thân thiện và lịch sự",
+      "D": "Không bất ngờ kết thúc cuộc gọi"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Theo em, việc lạm dụng máy tính cầm tay trong học môn toán thể hiện mặt trái nào?",
+    "answers": { "A": "Lệ thuộc vào sản phẩm công nghệ", "B": "Mất an toàn thông tin", "C": "Ô nhiễm môi trường", "D": "Ảnh hưởng đến sức khoẻ" },
+    "correct": "A"
+  },
+  {
+    "question": "Tủ lạnh có chức năng chính là:",
+    "answers": { "A": "Dùng để làm đá", "B": "Dùng để làm mát", "C": "Bảo quản thực phẩm ở nhiệt độ thấp", "D": "Tăng năng suất lao động" },
+    "correct": "C"
+  },
+  {
+    "question": "Phát biểu nào dưới đây không đúng khi biểu tượng máy bay đang được bật trên điện thoại di động?",
+    "answers": { "A": "Điện thoại đang ở chế độ máy bay", "B": "Không thể thực hiện được cuộc gọi", "C": "Vẫn thực hiện được cuộc gọi bình thường", "D": "Không thể gửi tin nhắn" },
+    "correct": "C"
+  },
+  {
+    "question": "Sản phẩm nào sau đây có vai trò cải thiện môi trường?",
+    "answers": { "A": "Ti vi", "B": "Máy sấy", "C": "Máy hút bụi", "D": "Điện thoại" },
+    "correct": "C"
+  },
+  {
+    "question": "Sản phẩm công nghệ đáp ứng nhu cầu đi lại của con người gồm: xe đạp, xe máy, ô tô, tàu hỏa,...",
+    "answers": { "A": "Đúng", "B": "Sai" },
+    "correct": "A"
+  },
+  {
+    "question": "Tủ lạnh là sản phẩm công nghệ giúp tăng năng suất lao động.",
+    "answers": { "A": "Đúng", "B": "Sai" },
+    "correct": "B"
+  },
+  {
+    "question": "Chiếc điện thoại là sản phẩm công nghệ giúp con người dễ dàng liên lạc với nhau từ những khoảng cách xa",
+    "answers": { "A": "Đúng", "B": "Sai" },
+    "correct": "A"
+  },
+  {
+    "question": "Mặt trái khi sử dụng công nghệ là giúp cải thiện môi trường",
+    "answers": { "A": "Đúng", "B": "Sai" },
+    "correct": "B"
+  },
+  {
+    "question": "Người sáng chế ra Ô tô là:",
+    "answers": { "A": "Giêm-Oát", "B": "Các Ben", "C": "Nô ben" },
+    "correct": "B"
+  },
+  {
+    "question": "Người sáng chế ra Bóng đèn sợi đốt là:",
+    "answers": { "A": "Giêm-Oát", "B": "Các Ben", "C": "Tô-mát Ê-đi-xơn" },
+    "correct": "C"
+  },
+  {
+    "question": "Người sáng chế ra Động cơ hơi nước là:",
+    "answers": { "A": "Giêm-Oát", "B": "A-lếch-xan-đơ Gra-Ham-Beo", "C": "Tô-mát Ê-đi-xơn" },
+    "correct": "A"
+  },
+  {
+    "question": "Người sáng chế ra Điện thoại là:",
+    "answers": { "A": "Giêm-Oát", "B": "A-lếch-xan-đơ Gra-Ham-Beo", "C": "Tô-mát Ê-đi-xơn" },
+    "correct": "B"
+  },
+  {
+    "question": "Đâu là số điện thoại khẩn cấp để gọi Tổng đài Quốc gia bảo vệ trẻ em:",
+    "answers": { "A": "111", "B": "113", "C": "114", "D": "115" },
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là số điện thoại khẩn cấp để gọi công an:",
+    "answers": { "A": "111", "B": "113", "C": "114", "D": "115" },
+    "correct": "B"
+  },
+  {
+    "question": "Đâu là số điện thoại khẩn cấp để gọi cứu hỏa:",
+    "answers": { "A": "111", "B": "113", "C": "114", "D": "115" },
+    "correct": "C"
+  },
+  {
+    "question": "Đâu là số điện thoại khẩn cấp để gọi cấp cứu y tế:",
+    "answers": { "A": "111", "B": "113", "C": "114", "D": "115" },
+    "correct": "D"
+  }
+]
