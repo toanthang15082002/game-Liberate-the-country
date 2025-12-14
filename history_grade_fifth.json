@@ -1,0 +1,244 @@
+[
+  {
+    "question": "Sự thành lập của đất nước Phù Nam gắn liền với truyền thuyết nào:",
+    "answers": {
+      "A": "Mai An Tiêm",
+      "B": "Trọng Thủy và Mị Châu",
+      "C": "Hỗn Điền và Liễu Điệp"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Vương quốc Chăm Pa được thành lập vào thời gian nào:",
+    "answers": {
+      "A": "Cuối thế kỷ I",
+      "B": "Cuối thế kỷ II",
+      "C": "Cuối thế kỷ III",
+      "D": "Cuối thế kỷ IV"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Sự ra đời của nhà nước Văn Lang gắn liền với truyền thuyết \"Con Rồng cháu Tiên\"",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Nhà nước Văn Lang đóng đô ở Thăng Long (Hà Nội)",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Nhà nước Âu Lạc ra đời và khoảng thế kỷ III TCN",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Nhà nước Âu Lạc đã phải chống ngoại xâm là quân Nam Hán",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Tên nhà nước do Lý Bí lập ra năm 544 là gì:",
+    "answers": {
+      "A": "Nhà nước Văn Lang",
+      "B": "Nhà nước Âu Lạc",
+      "C": "Nhà nước Phù Nam",
+      "D": "Nhà nước Vạn Xuân"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Ngô Quyền đánh bại quân Nam Hán ở đâu",
+    "answers": {
+      "A": "Sông Hồng",
+      "B": "Sông Mã",
+      "C": "Sông Bạch Đằng",
+      "D": "Sông Cửu Long"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Mục đích của cuộc khởi nghĩa Hai Bà Trưng là \"đền nợ nước, trả thù nhà\"",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Cuộc khởi nghĩa Hai Bà Trưng giành thắng lợi, đất nước được độc lập lâu dài",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Lý Bí lên ngôi vua, lập ra nhà nước Văn Lang, đóng đô ở Cổ Loa (Đông Anh, Hà Nội)",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Chiến thắng Bạch Đằng năm 938 đã chấm dứt hoàn toàn ách đô hộ của phong kiến phương Bắc",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ai là người sáng lập triều Lý",
+    "answers": {
+      "A": "Lý Thái Tổ",
+      "B": "Nguyên Phi Ỷ Lan",
+      "C": "Lý Thường Kiệt"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ai là người lãnh đạo kháng chiến chống quân Tống",
+    "answers": {
+      "A": "Lý Thái Tổ",
+      "B": "Nguyên Phi Ỷ Lan",
+      "C": "Lý Thường Kiệt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Ai là người giúp vua trông coi việc nước",
+    "answers": {
+      "A": "Lý Thái Tổ",
+      "B": "Nguyên Phi Ỷ Lan",
+      "C": "Lý Thường Kiệt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Ai là vị tướng tài giỏi có công lao to lớn trong ba cuộc kháng chiến chống quân xâm lược Mông - Nguyên",
+    "answers": {
+      "A": "Trần Cảnh",
+      "B": "Trần Ích Tắc",
+      "C": "Trần Thủ Độ",
+      "D": "Trần Quốc Tuấn"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Điểm độc đáo trong tổ chức bộ máy nhà nước thời Trần là",
+    "answers": {
+      "A": "Các vua Trần thường nhường ngôi sớm cho con, xưng là Thái Thượng hoàng và cùng vua quản lý đất nước",
+      "B": "Bộ máy nhà nước được tổ chức quy củ",
+      "C": "Thực hiện chính sách cai trị độc đoán",
+      "D": "Bộ máy nhà nước được hoàn thiện, thống nhất từ trung ương đến địa phương"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "'Đại Nam thống nhất toàn đồ' thể hiện điều gì?",
+    "answers": {
+      "A": "Chủ quyền của nước ta đối với quần đảo Hoàng Sa",
+      "B": "Sự hình thành và chủ quyền của nước ta đối với quần đảo Hoàng Sa",
+      "C": "Chủ quyền đối với quần đảo Trường Sa, Hoàng Sa của nước ta",
+      "D": "Sự hình thành và phát triển của đội Hoàng Sa"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Lãnh thổ của nước ta bao gồm",
+    "answers": {
+      "A": "Toàn bộ phần đất liền, các đảo và hải đảo",
+      "B": "Toàn bộ phần đất liền và các đảo, quần đảo trên Biển Đông",
+      "C": "Toàn bộ phần đất liền, biển, đảo, quần đảo thuộc phạm vi lãnh thổ Việt Nam",
+      "D": "Toàn bộ phần đất liền và các đảo, quần đảo thuộc phạm vi lãnh thổ Việt Nam"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trên phần đất liền nước ta có",
+    "answers": {
+      "A": "1/2 diện tích là đồng bằng, 1/2 diện tích là đồi núi",
+      "B": "1/4 diện tích là đồng bằng, 3/4 diện tích là đồi núi",
+      "C": "3/4 diện tích là đồng bằng, 1/4 diện tích là đồi núi",
+      "D": "2/3 diện tích là đồng bằng, 1/3 diện tích là đồi núi"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vùng biển Việt Nam là một phần của",
+    "answers": {
+      "A": "Biển Đông",
+      "B": "Biển Đỏ",
+      "C": "Biển Đen",
+      "D": "Biển Bắc"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Địa danh nào nước ta được UNESCO công nhận là Di sản thiên nhiên thế giới",
+    "answers": {
+      "A": "Vịnh Lan Hạ",
+      "B": "Vịnh Hạ Long",
+      "C": "Vịnh Vĩnh Hy",
+      "D": "Vịnh Nha Trang"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng với đặc điểm dân cư ở vùng đồng bằng nước ta",
+    "answers": {
+      "A": "Mật độ dân số nhỏ hơn miền núi",
+      "B": "Có rất nhiều dân tộc ít người",
+      "C": "Chiếm phần lớn số dân cả nước",
+      "D": "Tỉ suất sinh cao hơn miền núi"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Việt Nam có khí hậu nhiệt đới ẩm gió mùa",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Nước ta có rất nhiều sông, chủ yếu là sông lớn",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Ở miền Nam nước ta có hai mùa chính: mùa hạ nóng, mưa nhiều và mùa đông lạnh, mưa ít",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Việt Nam có hai nhóm đất chính là nhóm đất phe-ra-lít (feralit) và nhóm đất phù sa",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  }
+]

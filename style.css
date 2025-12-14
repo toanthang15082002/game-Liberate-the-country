@@ -166,7 +166,7 @@ path.liberated {
   font-weight: 600;
   margin-bottom: 16px;
   color: #333;
-  text-align: center;
+  text-align: left;
 }
 
 /* lưới 2 cột cho đáp án */
@@ -185,6 +185,7 @@ path.liberated {
   font-size: 1rem;
   cursor: pointer;
   transition: background-color 0.2s, color 0.2s;
+  text-align: left;
 }
 
 #questionDiv .answer-btn:hover {
