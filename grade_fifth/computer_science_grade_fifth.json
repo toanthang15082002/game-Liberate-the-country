@@ -1,0 +1,251 @@
+[
+  {
+    "question": "Máy tính giúp em thực hiện các hoạt động nào sau đây?",
+    "answers": {
+      "A": "Chơi trò chơi",
+      "B": "Học trực tuyến",
+      "C": "Tìm kiếm thông tin",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phần mềm nào dùng để soạn thảo văn bản",
+    "answers": {
+      "A": "Microsoft Word",
+      "B": "Zoom",
+      "C": "YouTube",
+      "D": "Paint"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Máy tính có vai trò gì trong công việc sau: Bạn An tìm kiếm thông tin về danh lam thắng cảnh ba miền trên Internet",
+    "answers": {
+      "A": "Máy tính giúp tìm kiếm thông tin",
+      "B": "Máy tính giúp trao đổi thông tin",
+      "C": "Máy tính hợp tác với bạn bè",
+      "D": "Máy tính giúp tạo ra sản phẩm số"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Máy tính có vai trò gì trong công việc sau: Bạn Khoa tìm kiếm và sao chép các tệp ảnh vào USB để mang đến nhà bạn Minh cùng làm nhiệm vụ nhóm",
+    "answers": {
+      "A": "Máy tính giúp tìm kiếm thông tin",
+      "B": "Máy tính giúp trao đổi thông tin",
+      "C": "Máy tính hợp tác với bạn bè",
+      "D": "Máy tính giúp tạo ra sản phẩm số"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Máy tính có vai trò gì trong công việc sau: Nhóm các bạn Khoa, An, Minh cùng làm bài trình chiếu trên máy tính",
+    "answers": {
+      "A": "Máy tính giúp tìm kiếm thông tin",
+      "B": "Máy tính giúp trao đổi thông tin",
+      "C": "Máy tính hợp tác với bạn bè"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Máy tính có vai trò gì trong công việc sau: Nhóm các bạn Khoa, An, Minh cùng làm bài trình chiếu trên máy tính",
+    "answers": {
+      "A": "Máy tính giúp tìm kiếm thông tin",
+      "B": "Máy tính giúp trao đổi thông tin",
+      "C": "Máy tính giúp tạo ra sản phẩm số"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Tại sao máy tính trở thành công cụ hữu ích trong học tập và làm việc",
+    "answers": {
+      "A": "Vì máy tính chỉ dùng để giải trí",
+      "B": "Vì máy tính giúp lưu trữ, tìm kiếm thông tin dễ dàng",
+      "C": "Vì máy tính thay thế được giáo viên",
+      "D": "Vì máy tính không cần kết nối Internet"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nếu muốn tìm hiểu thêm về phong tục Tết của các nước trên thế giới, em nên tìm kiếm từ khóa nào trên Google",
+    "answers": {
+      "A": "Tết Việt Nam",
+      "B": "Phong tục Tết trên thế giới",
+      "C": "Tìm kiếm thông tin thú vị",
+      "D": "Lịch sử ngày Tết"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Em nên tìm thông tin về thời tiết trên trang web nào",
+    "answers": {
+      "A": "Website thời tiết quốc gia",
+      "B": "Website học tập",
+      "C": "Website giải trí",
+      "D": "Trang mạng xã hội"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Việc tìm kiếm thông tin chính xác giúp ích gì",
+    "answers": {
+      "A": "Tiết kiệm thời gian",
+      "B": "Học tập hiệu quả hơn",
+      "C": "Đưa ra quyết định đúng đắn",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi tìm kiếm thông tin trên Internet, em cần tránh điều gì",
+    "answers": {
+      "A": "Cung cấp thông tin cá nhân",
+      "B": "Truy cập trang web không an toàn",
+      "C": "Tải xuống từ nguồn không rõ ràng",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Để chia sẻ thông tin lưu trên máy tính, em chọn những cách nào",
+    "answers": {
+      "A": "Gửi tệp qua thư điện tử",
+      "B": "Sao chép tệp vào USB",
+      "C": "Gửi tệp qua Zalo",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Tại sao cần tìm kiếm thông tin trước khi giải quyết vấn đề",
+    "answers": {
+      "A": "Để tiết kiệm thời gian",
+      "B": "Để tránh sai sót",
+      "C": "Để đưa ra quyết định chính xác",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Để quyết định việc có mang hay không mang áo mưa đi học vào sáng mai, thông tin nào sau đây là phù hợp nhất",
+    "answers": {
+      "A": "Thông tin dự báo thời tiết ngày mai tại địa phương nơi em đang sinh sống",
+      "B": "Thông tin dự báo thời tiết ngày hôm qua",
+      "C": "Thông tin dự báo thời tiết tại một địa phương khác"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Thư mục là gì",
+    "answers": {
+      "A": "Tệp tin chưa văn bản",
+      "B": "Nơi lưu trữ tệp tin và thư mục con",
+      "C": "Một phần mềm trên máy tính",
+      "D": "Một thiết bị phần cứng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Sắp xếp các việc dưới đây theo đúng thứ tự để tìm kiếm tệp và thư mục trên máy tính:\nA. Gõ từ khóa vào ô tìm kiếm\nB. Kích hoạt phần mềm File Explore\nC. Gõ phím Enter hoặc nháy chuột vào nút lệnh -> ở bên phải ô tìm kiếm\nD. Chọn phạm vi cần tìm kiếm",
+    "answers": {
+      "A": "B-D-A-C",
+      "B": "B-A-C-D",
+      "C": "D-B-A-C",
+      "D": "B-A-C-D"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Sử dụng công cụ tìm kiếm trên máy tính có lợi ích gì",
+    "answers": {
+      "A": "Dễ dàng tìm kiếm tệp và thư mục",
+      "B": "Giảm dung lượng tệp tin",
+      "C": "Tăng tốc độ máy tính",
+      "D": "Tạo giao diện đẹp"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cây thư mục hợp lý giúp ích gì",
+    "answers": {
+      "A": "Tiết kiệm thời gian",
+      "B": "Dễ dàng tím kiếm thông tin",
+      "C": "Tổ chức khoa học",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nếu trong máy tính của em có quá nhiều tệp ảnh và video, em nên làm gì để quản lý hiệu quả hơn",
+    "answers": {
+      "A": "Xóa tất cả các tệp",
+      "B": "Tạo thư mục riêng cho từng loại tệp(ảnh, video)",
+      "C": "Không cần tổ chức lại",
+      "D": "Đặt tất cả và một thư mục không tên"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bản quyền nội dung thông tin là gì",
+    "answers": {
+      "A": "Quyền sao chép tự do",
+      "B": "Quyền tác giả cho phép hoặc không cho phép người khác sử dụng nội dung",
+      "C": "Quyền tải xuống miễn phí",
+      "D": "Quyền chia sẻ nội dung không xin phép"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Tại sao phải bảo vệ bản quyền",
+    "answers": {
+      "A": "Tôn trọng tác giả",
+      "B": "Tránh vi phạm pháp luật",
+      "C": "Đảm bảo tính hợp lệ",
+      "D": "A, B, C đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi sử dụng hình ảnh từ một trang web để làm bài thuyết trình, em cần làm gì để tôn trọng bản quyền",
+    "answers": {
+      "A": "Tự tải xuống và không nói gì",
+      "B": "Sử dụng tự do mà không cần ghi nguồn",
+      "C": "Ghi rõ nguồn và tác giả của hình ảnh",
+      "D": "Chỉnh sửa hình ảnh để không giống bản gốc"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Việc sau đây nên làm hay không nên làm: Tự ý xem tin nhắn trên điện thoại của người khác",
+    "answers": {
+      "A": "Nên",
+      "B": "Không nên"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc sau đây nên làm hay không nên làm: Xóa tệp hoặc thư mục của bạn khác trên máy tính",
+    "answers": {
+      "A": "Nên",
+      "B": "Không nên"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc sau đây nên làm hay không nên làm: Không trích dẫn nguồn sao chép hình ảnh khi sử dụng",
+    "answers": {
+      "A": "Nên",
+      "B": "Không nên"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc sau đây nên làm hay không nên làm: Giữ bí mật thông tin truy cập, mật khẩu máy tính, điện thoại",
+    "answers": {
+      "A": "Nên",
+      "B": "Không nên"
+    },
+    "correct": "A"
+  }
+]

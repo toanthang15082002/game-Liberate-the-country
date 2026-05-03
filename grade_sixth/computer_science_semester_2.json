@@ -1,0 +1,382 @@
+[
+  {
+    "question": "Công cụ nào trong chương trình soạn thảo văn bản Word cho phép tìm nhanh các cụm từ trong văn bản và thay thế cụm từ đó bằng một cụm từ khác",
+    "answers": {
+      "A": "Lệnh Replace trong bảng chọn Edit",
+      "B": "Lệnh Find trong bảng chọn Edit",
+      "C": "Lệnh Find and Replace... trong bảng chọn Edit",
+      "D": "Lệnh Search trong bảng chọn File"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Sắp xếp các bước chèn thêm hình ảnh từ Internet vào bài tập của em.\n1. Chọn ra hình ảnh hợp lý.\n2. Định dạng lại hình ảnh cho hợp lý: Nháy chuột vào hình ảnh cần định dạng, chọn thẻ ngữ cảnh Picture Tools, chọn lệnh Format. Sau đó thực hiện các thay đổi cần thiết như: màu sắc, khung viền, kích thước, bố trí ảnh trên trang văn bản,..dịch.\n3. Chèn ảnh vào vị trí thích hợp: Insert/Picture.\n4. Lưu văn bản: File/Save hoặc Ctrl + S",
+    "answers": {
+      "A": "1-3-4-2",
+      "B": "1-3-2-4",
+      "C": "1-4-3-2",
+      "D": "1-4-2-3"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Để tìm kiếm từ \"Học tập\" trong văn bản ta cần thực hiện:",
+    "answers": {
+      "A": "Chọn thẻ home -> Editing -> Find",
+      "B": "Nhấn tổ hợp CTRL + F",
+      "C": "Tất cả 2 đáp án đều đúng",
+      "D": "Tất cả 2 đáp án đều sai"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Tìm kiếm gồm có 3 bước, sắp xếp lại các bước theo đúng trật tự:\na. Nháy chuột vào thẻ Home.\nb. Gõ từ, cụm từ cần tìm rồi nhấn phím Enter.\nc. Trong nhóm lệnh Editing/Find",
+    "answers": {
+      "A": "a - b - c",
+      "B": "a - c - b",
+      "C": "c - a - b",
+      "D": "b - a - c"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Để chèn thêm một hàng trong Table, ta thực hiện như sau:",
+    "answers": {
+      "A": "Đặt con trỏ tại nơi cần chèn hàng trong Table, chọn Table - Insert - Rows Above hoặc Rows Below",
+      "B": "Chọn ô tại nơi cần chèn hàng, chọn Table - Insert - Cells - Insert Entire Row",
+      "C": "Đặt con trỏ tại ô cuối cùng bên phải của Table, bấm phím Tab",
+      "D": "Tất cả các thao tác trên đều đúng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Trong các phông chữ cho hệ điều hành WINDOWS dưới đây, phông chữ nào không dùng mã VNI",
+    "answers": {
+      "A": "Time New Roman",
+      "B": "VNI-Times",
+      "C": "VNI-Top",
+      "D": "Cả B và C đều đúng"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Em không đồng ý với ý kiến nào sau đây",
+    "answers": {
+      "A": "Có thể dùng sơ đồ tư duy để ghi chép những ý chính của một bài học",
+      "B": "Trong sơ đồ tư duy chỉ có hai loại chủ đề: chủ đề trung tâm và chủ đề chính xung quanh chủ đề trung tâm",
+      "C": "Các nhánh nối cho biết mỗi chủ đề được triển khai thành những chi tiết nào",
+      "D": "Có thể dùng sơ đồ tư duy để trình chiếu trong một cuộc họp"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Input là gì",
+    "answers": {
+      "A": "Thông tin vào",
+      "B": "Thông tin ra",
+      "C": "Thuật toán",
+      "D": "Chương trình"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Thuật toán là gì",
+    "answers": {
+      "A": "Các mô hình và xu hướng được sử dụng để giải quyết vấn đề",
+      "B": "Một dãy các chỉ dẫn từng bước để giải quyết vấn đề",
+      "C": "Một ngôn ngữ lập trình",
+      "D": "Một thiết bị phần cứng lưu trữ dữ liệu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào sau đây đúng",
+    "answers": {
+      "A": "Chương trình được lập trình trên máy tính chỉ sử dụng cho máy tính, không sử dụng cho các thiết bị khác",
+      "B": "Có thể dùng nhiều ngôn ngữ lập trình khác nhau để thể hiện một thuật toán",
+      "C": "Mỗi thuật toán cần một ngôn ngữ lập trình riêng để viết thành chương trình",
+      "D": "Chỉ có duy nhất một ngôn ngữ lập trình khác nhau"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào sau đây là đúng",
+    "answers": {
+      "A": "Mỗi bài toán chỉ có duy nhất một thuật toán để giải",
+      "B": "Trình tự thực hiện các bước trong thuật toán không quan trọng",
+      "C": "Trong thuật toán, với dữ liệu đầu vào luôn xác định được kết quả đầu ra",
+      "D": "Một thuật toán có thể không có đầu vào và đầu ra"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Thuật toán thực hiện công việc rửa rau được mô tả bằng cách liệt kê các bước như sau:\n(1) Cho rau vào chậu và xả nước ngập rau\n(2) Dùng tay đảo rau trong chậu\n(3) Vớt rau ra rổ, đổ hết nước trong chậu đi\n(4) Lặp lại bước (1) đến bước (3) cho đến khi rau sạch thì kết thúc\nCác bước nào của thuật toán được lặp lại?",
+    "answers": {
+      "A": "Chỉ bước 1 và 2",
+      "B": "Chỉ bước 2 và 3",
+      "C": "Ba bước 1, 2 và 3",
+      "D": "Cả bốn bước 1, 2, 3 và 4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Cho dãy các thao tác sau đây:\na) Max <- a\nb) Nếu Max < b thì Max <- b \nc) Nhập a, b\nd) Thông báo Max và kết thúc\n Sắp xếp thứ tự các thao tác để nhận được thuật toán tìm giá trị lớn nhất của hai số nguyên a và b:",
+    "answers": {
+      "A": "c - a - b - d",
+      "B": "a - b - c - d",
+      "C": "c - d - a - b",
+      "D": "c - b - d - a"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ba cấu trúc điều khiển cơ bản để mô tả thuật toán là gì",
+    "answers": {
+      "A": "Tuần tự, rẽ nhánh và lặp",
+      "B": "Tuần tự, rẽ nhánh và gán",
+      "C": "Rẽ nhánh, lặp và gán",
+      "D": "Tuần tự, lặp và gán"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cấu trúc rẽ nhánh có mấy loại?",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Cấu trúc tuần tự là gì?",
+    "answers": {
+      "A": "Là cấu trúc xác định thứ tự dữ liệu được lưu trữ",
+      "B": "Là cấu trúc xác định thứ tự các bước được thực hiện",
+      "C": "Là cấu trúc lựa chọn bước thực hiện tiếp theo",
+      "D": "Là cấu trúc xác định số lần lặp lại một số bước của thuật toán"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Điểm giống nhau giữa cấu trúc rẽ nhánh và cấu trúc lặp là:",
+    "answers": {
+      "A": "Các bước của thuật toán được thực hiện lặp lại nhiều lần",
+      "B": "Đều có bước quan trọng nhất là kiểm tra điều kiện",
+      "C": "Thực hiện lần lượt các bước từ bắt đầu đến kết thúc",
+      "D": "Cả ba đáp án trên đều sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Đoạn văn sau mô tả công việc rửa rau: \"Em hãy cho rau vào chậu và xả nước ngập rau. Sau đó em dùng tay đảo rau trong chậu. Cuối cùng em vớt rau ra rổ và đổ hết nước trong chậu đi\".\nĐoạn văn bản trên thể hiện cấu trúc điều khiển nào?",
+    "answers": {
+      "A": "Cấu trúc tuần tự",
+      "B": "Cấu trúc rẽ nhánh dạng thiếu",
+      "C": "Cấu trúc lặp",
+      "D": "Câu trúc rẽ nhánh dạng đủ"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trong các câu sau đây câu nào đúng",
+    "answers": {
+      "A": "Bài toán là một vấn đề phải giải quyết bằng tính toán",
+      "B": "Bài toán là một nhiệm vụ cần hoàn thành, đã xác định rõ ràng đầu vào",
+      "C": "Thuật toán là cách để tính toán nhanh",
+      "D": "Thuật toán là một quy trình chặt chẽ gồm một số bước, có chỉ rõ trình tự thực hiện để hoàn thành một nhiệm vụ, giải quyết một vấn đề nào đó"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi các công việc sắp xếp lộn xộn thì em cần làm gì",
+    "answers": {
+      "A": "Thực hiện công việc theo thứ tự đó",
+      "B": "Cần sắp xếp lại theo một trình tự đảm bảo tính khoa học và logic để công việc có thể thực hiện được",
+      "C": "Tìm các công việc dễ để thực hiện trước",
+      "D": "Bỏ qua công việc không cần thực hiện"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc xác định bài toán là đi xác định các thành phần nào?",
+    "answers": {
+      "A": "Input",
+      "B": "Output",
+      "C": "Input và Output",
+      "D": "Không có thành phần nào"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trong các ví dụ sau, ví dụ nào là thuật toán",
+    "answers": {
+      "A": "Một bản nhạc hay",
+      "B": "Một bản hướng dẫn về cách nướng bánh với các bước cần làm",
+      "C": "Một bức tranh đầy màu sắc",
+      "D": "Một bài thơ lục bát"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Mẹ dặn Nam ở nhà nấu cơm và nhớ thực hiện tuần tự các bước sau:\n Bước 1: Chuẩn bị nồi cơm điện, gạo, nước\n Bước 2: Cho gạo và nước với tỉ lệ phù hợp vào nồi\n Bước 3: Cắm điện, bật nút nấu\n Bước 4: Cơm chín, đánh tơi cơm\n Các bước trên được gọi là:",
+    "answers": {
+      "A": "Bài toán",
+      "B": "Người lập trình",
+      "C": "Máy tính điện tử",
+      "D": "Thuật toán"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "\"Thuật toán tìm số lớn hơn trong hai số a, b\". Đầu ra là:",
+    "answers": {
+      "A": "Số lớn hơn",
+      "B": "Hai số a, b",
+      "C": "Số bé hơn",
+      "D": "Số bằng nhau"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Sắp xếp lại thứ tự thực hiện công việc pha trà mời khách\n(1) Rót nước sôi vào ấm đợi khoảng 3-4 phút\n(2) Tráng ấm chén bằng nước sôi\n(3) Rót trà ra chén mời khách\n(4) Cho trà vào ấm\n Trật tự các bước thực hiện đúng:",
+    "answers": {
+      "A": "2 -> 4 -> 1 -> 3",
+      "B": "3 -> 2 -> 1 -> 4",
+      "C": "2 -> 1 -> 3 -> 4",
+      "D": "4 -> 3 -> 1 -> 2"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bạn Thành viết một thuật toán mô tả việc đánh răng. Bạn ấy ghi các bước như sau:\n(1) Rửa sạch bàn chải\n(2) Súc miệng\n(3) Chải răng\n(4) Cho kem đánh răng vào bàn chải\n Trật tự sắp xếp đúng là:",
+    "answers": {
+      "A": "1 -> 2 -> 3 -> 4",
+      "B": "4 -> 3 -> 2 -> 1",
+      "C": "2 -> 3 -> 1 -> 4",
+      "D": "4 -> 2 -> 1 -> 3"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bạn Tuấn nghĩ về những công việc sẽ thực hiện sau khi thức dậy vào buổi sáng. Bạn ấy viết một thuật toán bằng cách ghi ra từng bước, từng bước một. Bước đầu tiên bạn ấy viết ra là: \"Thức dậy\". Em hãy cho biết bước tiếp theo là gì?",
+    "answers": {
+      "A": "Đánh răng",
+      "B": "Thay quần áo",
+      "C": "Đi tắm",
+      "D": "Ra khỏi giường"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Điền từ vào chỗ chấm:..... là bản mô tả thuật toán cho máy tính bằng ngôn ngữ lập trình",
+    "answers": {
+      "A": "Phần mềm máy tính",
+      "B": "Bài toán",
+      "C": "Chương trình máy tính",
+      "D": "Một đáp án khác"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi sử dụng công cụ căn lề trái, văn bản sẽ được căn chỉnh như thế nào?",
+    "answers": {
+      "A": "Căn lề văn bản ở giữa trang",
+      "B": "Căn lề văn bản ở phía bên phải trang",
+      "C": "Căn lề văn bản ở phía bên trái của trang",
+      "D": "Căn lề văn bản ở cả hai phía trái và phải"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Chức năng nào sau đây là đặc trưng của phần mềm soạn thảo văn bản?",
+    "answers": {
+      "A": "Chỉnh sửa và định dạng văn bản",
+      "B": "Tạo và chỉnh sửa hình ảnh động",
+      "C": "Quản lý cơ sở dữ liệu",
+      "D": "Tạo các trang web động"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nút lệnh căn trái có tên là gì",
+    "answers": {
+      "A": "Align Left",
+      "B": "Align Center",
+      "C": "Align Right",
+      "D": "Justify"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chương trình máy tính được tạo ra gồm những bước nào?",
+    "answers": {
+      "A": "Viết chương trình bằng ngôn ngữ lập trình",
+      "B": "Dịch chương trình thành ngôn ngữ máy",
+      "C": "Viết chương trình bằng ngôn ngữ máy rồi dịch chương trình thành ngôn ngữ máy",
+      "D": "Viết chương trình trên giấy rồi gõ vào máy tính"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi căn lề phải, văn bản sẽ được căn chỉnh như thế nào?",
+    "answers": {
+      "A": "Căn lề văn bản ở phía bên trái",
+      "B": "Căn lề văn bản ở giữa trang",
+      "C": "Căn lề văn bản ở phía bên phải",
+      "D": "Căn lề văn bản đều ở cả hai phía"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Chức năng nào trong phần mềm soạn thảo văn bản giúp người dùng thay đổi lề trang và căn chỉnh văn bản?",
+    "answers": {
+      "A": "Chức năng kiểm tra chính tả",
+      "B": "Chức năng căn lề và định dạng trang",
+      "C": "Chức năng tạo bảng",
+      "D": "Chức năng thêm hình ảnh"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nút lệnh căn đều hai bên có tên là gì",
+    "answers": {
+      "A": "Align Left",
+      "B": "Align Center",
+      "C": "Align Right",
+      "D": "Justify"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Để chèn thêm một hàng vào bảng, em có thể thực hiện thao tác nào dưới đây?",
+    "answers": {
+      "A": "Đặt con trỏ soạn thảo vào trong một ô và nhấn phím Enter",
+      "B": "Đặt con trỏ soạn thảo vào trong một ô và nhấn phím Tab",
+      "C": "Đặt con trỏ soạn thảo ngay bên dưới bảng và nhấn phím Enter",
+      "D": "Đặt con trỏ soạn thảo ngay bên phải bảng (ngoài cột cuối cùng) và nhấn phím Enter"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Công cụ giãn dòng có tên là gì",
+    "answers": {
+      "A": "Font color",
+      "B": "Font size",
+      "C": "Line spacing",
+      "D": "Font style"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Để sao chép văn bản em dùng lệnh nào dưới đây",
+    "answers": {
+      "A": "Font",
+      "B": "Center",
+      "C": "Left",
+      "D": "Copy"
+    },
+    "correct": "D"
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "question": "Dịch nghĩa từ 'clever'",
+    "answers": { "A": "Thông minh", "B": "Kém cỏi", "C": "Hoạt bát", "D": "Hạnh phúc" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'different'",
+    "answers": { "A": "Na ná", "B": "Khác biệt", "C": "Tương đồng", "D": "So sánh" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'same'",
+    "answers": { "A": "Hào hứng", "B": "Khác biệt", "C": "Tương đồng", "D": "So sánh" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'come out of'",
+    "answers": { "A": "Đi ra", "B": "Đên với", "C": "Rời đi", "D": "Thoát ra khỏi" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'penguin'",
+    "answers": { "A": "ngỗng", "B": "hoàng đế", "C": "chim cánh cụt", "D": "vịt trời" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'stay'",
+    "answers": { "A": "đi vào", "B": "ở lại", "C": "rời đi", "D": "thoát ra khỏi" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'leave'",
+    "answers": { "A": "đi vào", "B": "ở lại", "C": "rời đi", "D": "thoát ra khỏi" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'after'",
+    "answers": { "A": "sau", "B": "trước", "C": "trên", "D": "dưới" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'building'",
+    "answers": { "A": "công trình", "B": "bảo tàng", "C": "xây dựng", "D": "tòa nhà" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'keep warming'",
+    "answers": { "A": "kiếm đồ ăn", "B": "làm lạnh", "C": "giữ ấm", "D": "lặn biển" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'thing'",
+    "answers": { "A": "đồ vật", "B": "đồ chơi", "C": "đồ ăn", "D": "đồ trang trí" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'parents'",
+    "answers": { "A": "bố mẹ", "B": "anh chị", "C": "họ hàng", "D": "người thân" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'loud'",
+    "answers": { "A": "ồn ào", "B": "im lặng", "C": "xì xào", "D": "nhẹ nhàng" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'quiet'",
+    "answers": { "A": "ồn ào", "B": "im lặng", "C": "xì xào", "D": "nhẹ nhàng" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'new'",
+    "answers": { "A": "mới", "B": "cũ", "C": "nhỏ", "D": "nhẹ" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'crazy about'",
+    "answers": { "A": "mê mẩn về", "B": "lo lắng về", "C": "bình tĩnh trước", "D": "ghét cay ghét đắng" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'delicious'",
+    "answers": { "A": "ngon", "B": "tuyệt", "C": "tệ", "D": "được" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'favourite'",
+    "answers": { "A": "yêu thích", "B": "ghét", "C": "bình thường", "D": "tệ" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'funny'",
+    "answers": { "A": "vui nhộn", "B": "buồn", "C": "tẻ nhạt", "D": "chán" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'exciting'",
+    "answers": { "A": "hào hứng", "B": "buồn", "C": "tẻ nhạt", "D": "chán" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'boring'",
+    "answers": { "A": "buồn chán", "B": "hào hứng", "C": "vui nhộn", "D": "thích thú" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'happy'",
+    "answers": { "A": "hạnh phúc", "B": "buồn", "C": "tẻ nhạt", "D": "chán" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'sour'",
+    "answers": { "A": "chua", "B": "ngọt", "C": "mặn", "D": "nhạt" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'sweet'",
+    "answers": { "A": "ngọt", "B": "chua", "C": "mặn", "D": "nhạt" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'shy'",
+    "answers": { "A": "xấu hổ", "B": "tự tin", "C": "vui vẻ", "D": "buồn bã" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'awful'",
+    "answers": { "A": "khủng khiếp", "B": "tuyệt vời", "C": "bình thường", "D": "đáng yêu" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'a lot of'",
+    "answers": { "A": "nhiều", "B": "ít", "C": "bình thường", "D": "vừa phải" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'January'",
+    "answers": { "A": "tháng một", "B": "tháng hai", "C": "tháng ba", "D": "tháng tư" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'February'",
+    "answers": { "A": "tháng một", "B": "tháng hai", "C": "tháng ba", "D": "tháng tư" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'March'",
+    "answers": { "A": "tháng một", "B": "tháng hai", "C": "tháng ba", "D": "tháng tư" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'April'",
+    "answers": { "A": "tháng một", "B": "tháng hai", "C": "tháng ba", "D": "tháng tư" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'May'",
+    "answers": { "A": "tháng năm", "B": "tháng sáu", "C": "tháng bảy", "D": "tháng tám" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'June'",
+    "answers": { "A": "tháng năm", "B": "tháng sáu", "C": "tháng bảy", "D": "tháng tám" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'July'",
+    "answers": { "A": "tháng năm", "B": "tháng sáu", "C": "tháng bảy", "D": "tháng tám" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'August'",
+    "answers": { "A": "tháng năm", "B": "tháng sáu", "C": "tháng bảy", "D": "tháng tám" },
+    "correct": "D"
+  },
+  {
+    "question": "Dịch nghĩa từ 'September'",
+    "answers": { "A": "tháng chín", "B": "tháng mười", "C": "tháng mười một", "D": "tháng mười hai" },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa từ 'October'",
+    "answers": { "A": "tháng chín", "B": "tháng mười", "C": "tháng mười một", "D": "tháng mười hai" },
+    "correct": "B"
+  },
+  {
+    "question": "Dịch nghĩa từ 'November'",
+    "answers": { "A": "tháng chín", "B": "tháng mười", "C": "tháng mười một", "D": "tháng mười hai" },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa từ 'December'",
+    "answers": { "A": "tháng chín", "B": "tháng mười", "C": "tháng mười một", "D": "tháng mười hai" },
+    "correct": "D"
+  }
+]
