@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Thông tin trong sơ đồ tư duy thường được tổ chức thành",
+    "answers": {
+      "A": "tiêu đề, đoạn văn",
+      "B": "chủ đề chính, chủ đề nhánh",
+      "C": "mở bài, thân bài, kết luận",
+      "D": "chương, bài, mục"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Sơ đồ tư duy gồm các thành phần",
+    "answers": {
+      "A": "bút, giấy, mực",
+      "B": "phần mềm máy tính",
+      "C": "từ ngữ ngắn gọn, hình ảnh, đường nối, màu sắc",
+      "D": "con người, đồ vật, khung cảnh,..."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nhược điểm của việc tạo sơ đồ tư duy theo cách thủ công là gì",
+    "answers": {
+      "A": "Khó sắp xếp, bố trí nội dung",
+      "B": "Hạn chế khả năng sáng tạo",
+      "C": "Không linh hoạt để có thể làm ở bất cứ đâu, đòi hỏi công cụ khó tìm kiếm",
+      "D": "Không dễ dàng trong việc mở rộng, sửa chữa và chia sẻ cho nhiều người"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phát biểu nào không phải là ưu điểm của việc tạo sơ đồ tư duy bằng phần mềm máy tính",
+    "answers": {
+      "A": "Có thể sắp xếp, bố trí với không gian mở rộng, dễ dàng sửa chữa, thêm bớt nội dung",
+      "B": "Có thể chia sẻ được cho nhiều người",
+      "C": "CÓ thể làm ở bất cứ đâu, không cần công cụ hỗ trợ",
+      "D": "Có thể kết hợp và chia sẻ để sử dụng cho các phần mềm máy tính khác"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Phát biểu nào sai về việc tạo được sơ đồ tư duy tốt",
+    "answers": {
+      "A": "Các đường kẻ càng ở gần hình ảnh trung tâm thì càng nên tô màu đậm hơn và kích thước dày hơn",
+      "B": "Nên dùng các đường kẻ cong thay vì các đường thẳng",
+      "C": "Nên bố trí thông tin đều quanh hình ảnh trung tâm",
+      "D": "Không nên sử dụng màu sắc trong sơ đồ tư duy vì màu sắc làm người xem mất tập trung vào vấn đề chính"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Các phần văn bản được phân cách nhau bởi dấu ngắt đoạn được gọi là",
+    "answers": {
+      "A": "Dòng",
+      "B": "Trang",
+      "C": "Đoạn",
+      "D": "Câu"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Thao tác nào không phải là thao tác định dạng văn bản",
+    "answers": {
+      "A": "Thay đổi kiểu chữ thành chữ nghiêng",
+      "B": "Căn giữa đoạn văn bản",
+      "C": "Chọn chữ màu xanh",
+      "D": "Thêm hình ảnh vào văn bản"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Việc phải làm đầu tiên khi muốn thiết lập định dạng cho một đoạn văn bản là",
+    "answers": {
+      "A": "Vào thẻ Home, chọn nhóm lệnh Paragraph",
+      "B": "Cần phải chọn toàn bộ đoạn văn bản",
+      "C": "Đưa con trỏ soạn thảo vào vị trí bất kì trong đoạn văn bản",
+      "D": "Nhấn phím Enter"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong phần mềm soạn thảo văn bản Word 2010, lệnh Portrait dùng để",
+    "answers": {
+      "A": "chọn hướng trang đứng",
+      "B": "chọn hướng trang ngang",
+      "C": "chọn lề trang",
+      "D": "chọn lề đoạn văn bản"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Phát biểu nào trong các phát biểu sau là sai",
+    "answers": {
+      "A": "Bảng giúp trình bày thông tin một cách cô đọng",
+      "B": "Bảng giúp tìm kiếm, so sánh và tổng hợp thông tin một cách dễ dàng hơn",
+      "C": "Bảng chỉ có thể biểu diễn dữ liệu là những con số",
+      "D": "Bảng có thể đưuọc dùng để ghi lại dữ liệu của công việc thống kê, điều tra, khảo sát,... "
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Sử dụng lệnh Insert/Table rồi dùng chuột kéo thả để chọn số cột và số hàng thì số cột, số hàng tối đa có thể tạo được là",
+    "answers": {
+      "A": "10 cột, 10 hàng",
+      "B": "8 cột, 8 hàng",
+      "C": "10 cột, 8 hàng",
+      "D": "8 cột, 10 hàng"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Để chèn một bảng có 30 hàng và 10 cột, em sử dụng thao tác nào",
+    "answers": {
+      "A": "Chọn lệnh Insert/Table, kéo thả chuột chọn 30 hàng, 10 cột",
+      "B": "Chọn lệnh Insert/Table/Table Tools, nhập 30 hàng, 10 cột",
+      "C": "Chọn lệnh Insert/Table/Insert Table, nhập 30 hàng, 10 cột",
+      "D": "Chọn lệnh Table Tools/Layout, nhập 30 hàng, 10 cột"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Chức năng chính của phần mềm Microsoft Word là gì",
+    "answers": {
+      "A": "soạn thảo văn bản",
+      "B": "truyền dữ liệu trên Internet",
+      "C": "tính toán",
+      "D": "mua bán trực tuyến"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Để xuống dòng ta phải nhấn phím",
+    "answers": {
+      "A": "Enter",
+      "B": "Backspace",
+      "C": "Shift",
+      "D": "Space"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nút lệnh \"Save\" dùng để",
+    "answers": {
+      "A": "lưu văn bản trên máy tính",
+      "B": "mở văn bản trên máy tính",
+      "C": "mở văn bản với văn bản trống trên máy tính",
+      "D": "in văn bản trên máy tính"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Để lưu văn bản đang soạn thảo, ta chọn thao tác:",
+    "answers": {
+      "A": "File/Open",
+      "B": "File/Save",
+      "C": "File/Print",
+      "D": "File/New"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Giữa các từ chỉ dùng mấy kí tự trống để phân cách",
+    "answers": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nút lệnh \"Open\" trong tab File dùng để",
+    "answers": {
+      "A": "Lưu văn bản trên máy tính",
+      "B": "Mở văn bản đã lưu trên máy tính",
+      "C": "In văn bản trên máy tính",
+      "D": "Xóa văn bản trên máy tính"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi nháy nút x là muốn",
+    "answers": {
+      "A": "Lưu lại văn bản",
+      "B": "Đóng lại cửa sổ soạn thảo",
+      "C": "Cả hai câu A và B đều đúng",
+      "D": "Cả hai câu A và B đều sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Lệnh \"Time New Roman\" trong nhóm Font trên dải lệnh Home sử dụng để định dạng",
+    "answers": {
+      "A": "Màu chữ",
+      "B": "Phông chữ",
+      "C": "Kiểu chữ",
+      "D": "Cỡ chữ"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nút lệnh \"Line spacing\" trong nhóm lệnh Paragraph trên dải lệnh Home dùng để",
+    "answers": {
+      "A": "Thiết lập khoảng cách thụt lề dòng đầu tiên",
+      "B": "Thay đổi khoảng cách giữa các đoạn",
+      "C": "Thay đổi khoảng cách dòng",
+      "D": "Thay đổi lề đoạn văn"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Định dạng đoạn văn bản là",
+    "answers": {
+      "A": "Thay đổi các kích cỡ của văn bản",
+      "B": "Thay đổi khoảng cách giữa các dòng trong đoạn văn",
+      "C": "Bố trí đoạn văn bản trên trang in",
+      "D": "Thay đổi kiểu dáng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Để xóa các kí tự trước con trỏ soạn thảo, ta dùng phím",
+    "answers": {
+      "A": "Enter",
+      "B": "Delete",
+      "C": "Backspace",
+      "D": "Ctrl"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Sơ đồ tư duy giúp chúng ta",
+    "answers": {
+      "A": "Giải các bài toán",
+      "B": "Đọc báo",
+      "C": "Nhìn thấy bức tranh tổng thể và ghi nhớ tốt hơn",
+      "D": "Mua sắm trực tuyến"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nút lệnh hình thụt lề có mũi tên chỉ sang trái dùng để",
+    "answers": {
+      "A": "Căn khoảng cách giữa các dòng trong đoạn văn",
+      "B": "Tăng mức thụt lề trái",
+      "C": "Giảm mức thụt lề trái",
+      "D": "Căn khoảng cách giữa các đoạn văn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Định dạng văn bản gồm mấy loại",
+    "answers": {
+      "A": "Hai loại",
+      "B": "Ba loại",
+      "C": "Bốn loại",
+      "D": "Năm loại"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Phím Backspace và Delete đều có tác dụng",
+    "answers": {
+      "A": "Xóa văn bản",
+      "B": "Chèn thêm văn bản",
+      "C": "Cả hai câu A và B đều sai",
+      "D": "Cả hai câu A và B đều đúng"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trong hộp thoại Page Setup để chọn hướng trang đứng ta chọn",
+    "answers": {
+      "A": "Portrait",
+      "B": "Landscape",
+      "C": "Câu a,b đúng",
+      "D": "Câu a,b sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Muốn tạo bảng ta chọn bảng chọn",
+    "answers": {
+      "A": "Insert",
+      "B": "View",
+      "C": "Format",
+      "D": "Table"
+    },
+    "correct": "A"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Dịch nghĩa của từ \"palace\"",
+    "answers": {
+      "A": "cung điện",
+      "B": "nơi chốn",
+      "C": "nhà hát",
+      "D": "công viên"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"apartment\"",
+    "answers": {
+      "A": "căn hộ",
+      "B": "ngôi nhà",
+      "C": "tòa nhà",
+      "D": "cung điện"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"villa\"",
+    "answers": {
+      "A": "biệt thự",
+      "B": "tòa nhà",
+      "C": "cung điện",
+      "D": "chung cư"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"sea\"",
+    "answers": {
+      "A": "biển",
+      "B": "đại dương",
+      "C": "hồ",
+      "D": "sông"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"mountain\"",
+    "answers": {
+      "A": "núi",
+      "B": "đồi",
+      "C": "cao nguyên",
+      "D": "thác"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"garden\"",
+    "answers": {
+      "A": "vườn",
+      "B": "hồ",
+      "C": "sân",
+      "D": "đường"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"swimming pool\"",
+    "answers": {
+      "A": "hồ bơi",
+      "B": "bể nước",
+      "C": "ao cá",
+      "D": "bồn tắm"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"cottage\"",
+    "answers": {
+      "A": "nhà tranh",
+      "B": "tòa nhà",
+      "C": "nhà kính",
+      "D": "lâu đài"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"countryside\"",
+    "answers": {
+      "A": "nông thôn",
+      "B": "đô thị",
+      "C": "nhà máy",
+      "D": "đặc khu"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"rubbish\"",
+    "answers": {
+      "A": "rác thải",
+      "B": "kho báu",
+      "C": "nguyên liệu",
+      "D": "bộ sưu tập"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"energy\"",
+    "answers": {
+      "A": "năng lượng",
+      "B": "buồn ngủ",
+      "C": "chất rắn",
+      "D": "trì trệ"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"reusable\"",
+    "answers": {
+      "A": "có thể dùng lại",
+      "B": "việc dùng lại",
+      "C": "khả năng dùng lại",
+      "D": "không dùng lại"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"reuse\"",
+    "answers": {
+      "A": "dùng lại",
+      "B": "tái chế",
+      "C": "giảm thiểu",
+      "D": "bỏ qua"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"reduce\"",
+    "answers": {
+      "A": "dùng lại",
+      "B": "tái chế",
+      "C": "giảm thiểu",
+      "D": "bỏ qua"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dịch nghĩa của từ \"recycle\"",
+    "answers": {
+      "A": "dùng lại",
+      "B": "tái chế",
+      "C": "giảm thiểu",
+      "D": "bỏ qua"
+    },
+    "correct": "B"
+  }
+]

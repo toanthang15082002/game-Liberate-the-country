@@ -60,7 +60,7 @@ function checkVictory() {
 
 async function fetchQuestions() {
   try {
-    const response = await fetch('./technology_grade_fifth.json'); // FILE CÂU HỎI Ở ĐÂY
+    const response = await fetch('../grade_sixth/science_sesmester_2.json'); // FILE CÂU HỎI Ở ĐÂY
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     questions = await response.json();
   } catch (err) {

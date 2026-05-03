@@ -1,0 +1,277 @@
+[
+  {
+    "question": "Thành phần chính của đất gồm:",
+    "answers": { 
+      "A": "Chất khoáng, không khí, nước, lá cây",
+      "B": "Chất khoáng, mùn, giun đất, không khí",
+      "C": "Chất khoáng, không khí, nước, mùn",
+      "D": "Không khí, nước, mùn, rễ cây"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Mưa lũ là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bón phân hóa học lâu dài là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Đất dốc là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Đưa chất thải rắn vào môi trường là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phun thuốc hóa chất diệt cỏ là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Gió cuốn là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chặt phá rừng là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Núi lửa phun trào là:",
+    "answers": { 
+      "A": "Nguyên nhân gây xói mòn đất",
+      "B": "Nguyên nhân gây ô nhiễm đất"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc làm có thể phòng chống ô nhiễm đất là:",
+    "answers": { 
+      "A": "Xử lý chất thải trước khi đưa ra môi trường",
+      "B": "Sử dụng phân bón hóa học",
+      "C": "Sử dụng sản phẩm nhựa"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "BIện pháp nào dưới đây sẽ làm ô nhiễm môi trường đất?",
+    "answers": { 
+      "A": "Tăng cường sử dụng phân bón hữu cơ",
+      "B": "Phân loại rác thải",
+      "C": "Tăng cường dùng phân hóa học và thuốc trừ sâu",
+      "D": "Trồng cây gây rừng"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Hỗn hợp nào sau đây là dung dịch",
+    "answers": { 
+      "A": "Nước ao hồ",
+      "B": "Nước mắm",
+      "C": "Trà sữa trân châu",
+      "D": "Nước và dầu ăn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Hỗn hợp nào sau đây là dung dịch",
+    "answers": { 
+      "A": "Nước và xăng",
+      "B": "Nước và giấm ăn",
+      "C": "Trà sữa trân châu",
+      "D": "Nước và dầu ăn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Sự biến đổi nào sau đây không là sự biến đổi hóa học",
+    "answers": { 
+      "A": "Chưng đường bên trên ngọn lửa",
+      "B": "Đun chảy lỏng sôcôla",
+      "C": "Xi măng, cát và nước trộn đều",
+      "D": "Chiếc đinh để ngoài không khí bị gỉ"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Con người, động vật cần năng lượng để:",
+    "answers": { 
+      "A": "Sản xuất và khai thác",
+      "B": "Sản xuất và sống",
+      "C": "Khai thác và hoạt động",
+      "D": "Sống và hoạt động"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nguồn năng lượng chủ yếu của sự sống trên trái đất là gì?",
+    "answers": { 
+      "A": "Năng lượng nước chảy",
+      "B": "Năng lượng mặt trời",
+      "C": "Năng lượng gió",
+      "D": "Năng lượng chất đốt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào dưới đây sai?",
+    "answers": { 
+      "A": "Có thể sản xuất điện từ năng lượng mặt trời, năng lượng gió, năng lượng nước chảy",
+      "B": "Năng lượng mặt trời, năng lượng gió, năng lượng nước chảy không bao giờ cạn kiệt",
+      "C": "Năng lượng mặt trời, năng lượng gió, năng lượng nước chảy dễ sản xuất",
+      "D": "Năng lượng mặt trời, năng lượng gió, năng lượng nước chảy không gây ô nhiễm không khí"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Mạch điện thắp sáng đơn giản không gồm bộ phận nào sau đây?",
+    "answers": { 
+      "A": "Nguồn điện",
+      "B": "Bóng đèn",
+      "C": "Đế gắn pin",
+      "D": "Công tắc"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Để làm quay tua-bin của máy phát điện nhà máy thủy điện cần dùng năng lượng gì",
+    "answers": { 
+      "A": "Năng lượng mặt trời",
+      "B": "Năng lượng gió",
+      "C": "Năng lượng nước chảy",
+      "D": "Năng lượng chất đốt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Năng lượng nước chảy không dùng để",
+    "answers": { 
+      "A": "Vận chuyển hàng hóa xuôi dòng nước",
+      "B": "Giúp thuyền buồm chạy ngược chiều gió",
+      "C": "Làm quay tua-bin của máy phát điện",
+      "D": "Làm quay bánh xe nước đưa nước lên cao"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Năng lượng trong thức ăn, than đá, dầu mỏ, khí đốt tự nhiên đều bắt nguồn từ năng lượng nào",
+    "answers": { 
+      "A": "Năng lượng điện",
+      "B": "Năng lượng mặt trời",
+      "C": "Năng lượng gió",
+      "D": "Năng lượng nước chảy"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vì sao các chất chất đốt khi cháy có thể làm ảnh hưởng đến môi trường",
+    "answers": { 
+      "A": "Vì các chất đốt khi cháy sinh ra khí các-bô-nic",
+      "B": "Vì các chất đốt khi cháy sinh ra khí ô-xi",
+      "C": "Vì các chất đốt khi cháy sinh ra khí các-bô-nic và các loại khí độc khác",
+      "D": "Vì các chất đốt khi cháy tiêu thụ khí các-bô-nic và một số loại khí độc khác"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Trên một bông hoa hồng có cả nhị hoa và nhụy hoa nên là hoa lưỡng tính",
+    "answers": { 
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Hoa bí ngô đực là hoa đơn tính vì chỉ có nhụy hoa",
+    "answers": { 
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Hoa bưởi là hoa đơn tính do chỉ có nhị hoa",
+    "answers": { 
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khẳng định sau đúng hay sai: Chỉ có hoa bí ngô cái mới có thể tạo thành quả",
+    "answers": { 
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt phấn nằm ở ... của hoa",
+    "answers": { 
+      "A": "bao phấn",
+      "B": "ống phấn",
+      "C": "noãn",
+      "D": "bầu nhụy"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Noãn nằm ở ... của hoa",
+    "answers": { 
+      "A": "bao phấn",
+      "B": "trong bầu nhụy",
+      "C": "noãn",
+      "D": "ống phấn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "... của hoa sẽ phát triển thành hạt sau khi thụ tinh",
+    "answers": { 
+      "A": "bao phấn",
+      "B": "ống phấn",
+      "C": "noãn",
+      "D": "bầu nhụy"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "... của hoa sẽ phát triển thành quả sau khi thụ tinh",
+    "answers": { 
+      "A": "bao phấn",
+      "B": "ống phấn",
+      "C": "noãn",
+      "D": "bầu nhụy"
+    },
+    "correct": "D"
+  }
+]
