@@ -1,0 +1,352 @@
+[
+  {
+    "question": "Đèn điện có công dụng gì",
+    "answers": {
+      "A": "Chiếu sáng, sưởi ấm, trang trí",
+      "B": "Sưởi ấm",
+      "C": "Trang trí",
+      "D": "Chiếu sáng"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trong các loại đèn sau, loại nào tiết kiệm điện nhất",
+    "answers": {
+      "A": "Đèn sợi đốt",
+      "B": "Đèn huỳnh quang",
+      "C": "Đèn LED",
+      "D": "Cả ba như nhau"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Bóng đèn sợi đốt có bộ phận nào sau đây",
+    "answers": {
+      "A": "Bóng thủy tinh",
+      "B": "Sợi đốt",
+      "C": "Đuôi đèn",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Bộ phận chính phát sáng của đèn sợi đốt là",
+    "answers": {
+      "A": "Vỏ thủy tinh",
+      "B": "Dây tóc",
+      "C": "Đuôi đèn",
+      "D": "Công tắc"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi có dòng điện chạy qua, dây tóc đèn sợi đốt phát quang do",
+    "answers": {
+      "A": "Bị nóng lên",
+      "B": "Bị lạnh đi",
+      "C": "Bị co lại",
+      "D": "Bị giãn ra"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bóng đèn huỳnh quang phát sáng nhờ",
+    "answers": {
+      "A": "Dây tóc bị đốt nóng",
+      "B": "Khi trong ống phát sáng khi có dòng điện",
+      "C": "Phản ứng hóa học",
+      "D": "Nam châm điện"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bộ phận chính của bóng đèn huỳnh quang gồm",
+    "answers": {
+      "A": "Dây tóc và đuôi đèn",
+      "B": "Ống thủy tinh và hai điện cực",
+      "C": "Pin và công tắc",
+      "D": "Nam châm và dây dẫn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Đèn huỳnh quang thường có dạng",
+    "answers": {
+      "A": "Hình cầu",
+      "B": "Hình ống dài",
+      "C": "Hình khối vuông",
+      "D": "Hình tam giác"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Ưu điển của bóng đèn compact là",
+    "answers": {
+      "A": "Tiêu thụ nhiều điện",
+      "B": "Tuổi thọ thấp",
+      "C": "Tiết kiệm điện hơn đèn sợi đốt",
+      "D": "Tỏa nhiệt rất lớn"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Hình dạng của bóng đèn compact là",
+    "answers": {
+      "A": "Hình chữ U",
+      "B": "Hình dạng ống xoắn",
+      "C": "Hình chữ U hoặc hình dạng ống xoắn",
+      "D": "Hình tròn"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Đèn compact có nguyên lý làm việc giống đèn nào sau đây",
+    "answers": {
+      "A": "Đèn LED",
+      "B": "Đèn sợi đốt",
+      "C": "Đèn huỳnh quang",
+      "D": "Đèn LED và đèn sợi đốt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi hoạt động, bộ phận nào của đèn LED phát ra ánh sáng",
+    "answers": {
+      "A": "Vỏ bóng",
+      "B": "Bảng mạch LED",
+      "C": "Đuôi đèn",
+      "D": "Vỏ bóng và đuôi đèn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi hoạt động, bộ phận nào của đèn LED giúp phân bố đều ánh sáng",
+    "answers": {
+      "A": "Vỏ bóng",
+      "B": "Bảng mạch LED",
+      "C": "Đuôi đèn",
+      "D": "Vỏ bóng và đuôi đèn"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Một lớp học cần ánh sáng ổn định, không nhấp nháy và tiết kiệm điện. Loại đèn phù hợp nhất là",
+    "answers": {
+      "A": "Đèn sợi đốt",
+      "B": "Đèn huỳnh quang",
+      "C": "Đèn LED",
+      "D": "Đèn compact"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Một người dùng đèn sợi đốt trong phòng kín nhỏ. Sau một thời gian thấy phòng nóng lên nhanh. Nguyên nhân chính là",
+    "answers": {
+      "A": "Đèn phát ra ánh sáng mạnh",
+      "B": "Đèn chuyển nhiều điện năng thành nhiệt năng",
+      "C": "Đèn tiêu thụ ít điện",
+      "D": "Do môi trường bên ngoài"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Một cửa hàng cần trang trí biển quảng cáo nhiều màu sắc, tiết kiệm điện và bền. Lựa chọn tốt nhất là:",
+    "answers": {
+      "A": "Đèn sợi đốt",
+      "B": "Đèn huỳnh quang",
+      "C": "Đèn LED",
+      "D": "Đèn compact"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Một bóng đèn 220V - 100W được sử dụng ở điện áp thấp hơn. Hiện tượng xảy ra là:",
+    "answers": {
+      "A": "Đèn sáng hơn bình thường",
+      "B": "Đèn sáng yếu hơn",
+      "C": "Đèn cháy ngay",
+      "D": "Không thay đổi"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nồi cơm điện có mấy bộ phận chính",
+    "answers": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi nấu cơm điện, bộ phận nào thực hiện nhiệm vụ cấp điện",
+    "answers": {
+      "A": "Nắp nồi",
+      "B": "Thân nồi",
+      "C": "Bộ phận điều khiển",
+      "D": "Bộ phận sinh nhiệt"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi nấu cơm điện, bộ phận điều khiển thực hiện nhiệm vụ cấp điện cho bộ phận nào",
+    "answers": {
+      "A": "Nắp nồi",
+      "B": "Thân nồi",
+      "C": "Bộ phận điều khiển",
+      "D": "Bộ phận sinh nhiệt"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi được cấp nhiệt, nồi cơm điện sẽ làm việc ở chế độ nào",
+    "answers": {
+      "A": "Nấu",
+      "B": "Giữ ấm",
+      "C": "Nấu hoặc giữ ấm",
+      "D": "Nấu và giữ ấm"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Bộ phận nào của nồi cơm điện được phủ lớp chống dính",
+    "answers": {
+      "A": "Nắp nồi",
+      "B": "Thân nồi",
+      "C": "Nồi nấu",
+      "D": "Bộ phận điều khiển"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi lựa chọn nồi cơm điện cần quan tâm đến",
+    "answers": {
+      "A": "Dung tích nồi",
+      "B": "Chức năng của nồi",
+      "C": "Dung tích và chức năng của nồi",
+      "D": "Sở thích"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nếu gia đình có 3 người ăn, thì cần lựa chọn nồi cơm có dung tích bao nhiêu",
+    "answers": {
+      "A": "0.6 lít",
+      "B": "1 lít",
+      "C": "1.8 - 2 lít",
+      "D": "2 - 2.5 lít"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nếu gia đình có 5 người ăn, thì cần lựa chọn nồi cơm có dung tích bao nhiêu",
+    "answers": {
+      "A": "0.6 lít",
+      "B": "1 lít",
+      "C": "1.8 - 2 lít",
+      "D": "2 - 2.5 lít"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi nấu cơm cần lưu ý gì",
+    "answers": {
+      "A": "Không dùng vật cứng lau chùi nồi nấu",
+      "B": "Không dùng vật nhọn chà sát trong nồi nấu",
+      "C": "Không dùng vật cứng, nhọn chà sát, lau chùi bên trong nồi nấu",
+      "D": "Không lưu ý gì"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi sử dụng nồi cơm điện tránh việc làm nào sau đây",
+    "answers": {
+      "A": "Đặt nồi cơm điện nơi khô ráo",
+      "B": "Dùng tay che van thoát hơi của nồi cơm điện khi đang nấu",
+      "C": "Không dùng tay che van thoát hơi của nồi cơm điện khi đang nấu",
+      "D": "Không mở nắp nồi để kiểm tra cơm khi đang nấu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Bếp hồng ngoại có cấu tạo gồm mấy bộ phận chính",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Bếp hồng ngoại là thiết bị dùng để",
+    "answers": {
+      "A": "Làm lạnh thực phẩm",
+      "B": "Nấu chín thức ăn",
+      "C": "Tạo ra điện năng",
+      "D": "Phát sáng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Mặt bếp hồng ngoại thường làm bằng",
+    "answers": {
+      "A": "Nhựa",
+      "B": "Gỗ",
+      "C": "Kính chịu nhiệt",
+      "D": "Kim loại mềm"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trên bảng điều khiển của bếp hồng ngoại có",
+    "answers": {
+      "A": "Nút tăng giảm nhiệt độ",
+      "B": "Nút chọn chế độ nấu",
+      "C": "Đèn báo",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Vị trí của thân bếp hồng ngoại",
+    "answers": {
+      "A": "Nằm phía dưới mặt bếp",
+      "B": "Nằm phía dưới bảng điều khiển",
+      "C": "Nằm phía dưới mặt bếp và bảng điều khiển",
+      "D": "Nằm phía trên bảng điều khiển"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Bộ phận nào của bếp hồng ngoại có chức năng cung cấp nhiệt cho bếp",
+    "answers": {
+      "A": "Mặt bếp",
+      "B": "Bảng điều khiển",
+      "C": "Thân bếp",
+      "D": "Mâm nhiệt hồng ngoại"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi sử dụng bếp hồng ngoại cần lưu ý gì",
+    "answers": {
+      "A": "Đặt bếp nơi khô ráo",
+      "B": "Không chạm tay lên bề mặt bếp khi đang nấu",
+      "C": "Sử dụng nồi có đáy phẳng để đun",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Sử dụng bếp hồng ngoại không được làm việc nào sau đây",
+    "answers": {
+      "A": "Đặt bếp nơi thoáng mát",
+      "B": "Có thể chạm tay lên mặt bếp khi vừa nấu xong",
+      "C": "Sử dụng khăn mềm để lau bề mặt bếp",
+      "D": "Sử dụng chất tẩy rửa phù hợp để lau mặt bếp"
+    },
+    "correct": "B"
+  }
+]

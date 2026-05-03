@@ -162,6 +162,7 @@ path.liberated {
 
 /* text của câu hỏi */
 #questionDiv #questionText {
+  white-space: pre-line;
   font-size: 1.2rem;
   font-weight: 600;
   margin-bottom: 16px;

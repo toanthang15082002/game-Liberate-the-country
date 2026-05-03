@@ -1,0 +1,544 @@
+[
+  {
+    "question": "Đặc điểm nào sau đây là của nấm?",
+    "answers": {
+      "A": "Có khả năng quang hợp",
+      "B": "Tế bào có chứa lục lạp",
+      "C": "Thành tế bào bằng kitin",
+      "D": "Tự tổng hợp chất hữu cơ"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nấm thuộc nhóm sinh vật nào?",
+    "answers": {
+      "A": "Sinh vật tự dưỡng",
+      "B": "Sinh vật dị dưỡng",
+      "C": "Sinh vật nhân sơ",
+      "D": "Sinh vật không cần chất hữu cơ"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nấm lấy thức ăn bằng cách nào?",
+    "answers": {
+      "A": "Tự quang hợp",
+      "B": "Hấp thụ các chất hữu cơ có trong môi trường",
+      "C": "Ăn sinh vật khác như động vật",
+      "D": "Tự tạo chất dinh dưỡng từ nước"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Đặc điểm nào sau đây không đúng với nấm?",
+    "answers": {
+      "A": "Là sinh vật nhân thực",
+      "B": "Có thành tế bào bằng kitin",
+      "C": "Có lục lạp",
+      "D": "Sống dị dưỡng"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Để bảo vệ rừng con người cần làm gì?",
+    "answers": {
+      "A": "Tăng cường sử dụng, khai thác rừng",
+      "B": "Tham gia trồng cây gây rừng, phủ xanh đồi trọc",
+      "C": "Chặt phá nhiều cây xanh để môi trường sáng sủa hơn",
+      "D": "Đốt nương làm rẫy không kiểm soát"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc làm nào sau đây là không đúng khi bảo vệ rừng?",
+    "answers": {
+      "A": "Trồng thêm cây xanh",
+      "B": "Bảo vệ động vật rừng",
+      "C": "Khai thác gỗ hợp lí",
+      "D": "Phá rừng lấy đất canh tác"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Vì sao thực vật giúp chống xói mòn đất?",
+    "answers": {
+      "A": "Vì thực vật làm tăng nhiệt độ đất",
+      "B": "Vì rễ cây giữ đất, hạn chế đất bị rửa trôi",
+      "C": "Vì cây làm đất khô hơn",
+      "D": "Vì cây hút hết nước"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Sán dây thường kí sinh ở đâu trong cơ thể người?",
+    "answers": {
+      "A": "Dạ dày",
+      "B": "Ruột non",
+      "C": "Ruột già",
+      "D": "Ruột thừa"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vì sao giun đất thích sống ở nơi đất ẩm?",
+    "answers": {
+      "A": "Vì đất ẩm có nhiều ánh sáng",
+      "B": "Vì giúp giun hô hấp qua da dễ dàng",
+      "C": "Vì đất ẩm nóng hơn",
+      "D": "Vì ít thức ăn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vai trò của chim đối với tự nhiên là gì?",
+    "answers": {
+      "A": "Phát tán hạt; Thụ phấn cho hoa; Tiêu diệt sinh vật gây hại",
+      "B": "Phát tán hạt; Làm giảm đa dạng sinh học; Tiêu diệt sinh vật gây hại",
+      "C": "Thụ phấn cho hoa; Làm giảm đa dạng sinh học; Tiêu diệt sinh vật gây hại",
+      "D": "Phát tán hạt; Thụ phấn cho hoa; Làm giảm đa dạng sinh học"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chim có những lợi ích nào sau đây?",
+    "answers": {
+      "A": "Bắt sâu bọ gây hại; Làm thực phẩm; Nuôi làm cảnh",
+      "B": "Bắt sâu bọ gây hại; Nuôi làm cảnh; Gây hại mùa màng",
+      "C": "Làm thực phẩm; Nuôi làm cảnh; Gây hại mùa màng",
+      "D": "Bắt sâu bọ gây hại; Làm thực phẩm; Gây hại mùa màng"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hoạt động nào dưới đây góp phần hạn chế sự suy giảm đa dạng sinh học?",
+    "answers": {
+      "A": "Săn bắt động vật hoang dã",
+      "B": "Xây dựng đô thị",
+      "C": "Chuyển đổi đất rừng sang nông nghiệp",
+      "D": "Thành lập khu bảo tồn"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Biện pháp bảo tồn đa dạng sinh học đúng là? \n(1) Xây dựng đường giao thông, đô thị và khu công nghiệp \n(2) Ban hành các luật và chính sách nhằm ngăn chặn phá rừng, cấm săn bắt bừa bãi các loài động vật quý hiếm \n(3) Tuyên truyền nâng cao ý thức của người dân về bảo tồn đa dạng sinh học \n(4) Thành lập các khu bảo tồn thiên nhiên, khu dự trữ sinh quyển, vườn quốc gia",
+    "answers": {
+      "A": "(1), (2), (3)",
+      "B": "(1), (2), (4)",
+      "C": "(1), (3), (4)",
+      "D": "(2), (3), (4)"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Loài bò sát nào sau đây thường được nuôi làm đặc sản?",
+    "answers": {
+      "A": "Rắn",
+      "B": "Thạch sùng",
+      "C": "Ba ba",
+      "D": "Thằn lằn"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Loài nào dưới đây giúp tiêu diệt sâu bọ hại cây trồng?",
+    "answers": {
+      "A": "Thằn lằn",
+      "B": "Ba ba",
+      "C": "Rùa",
+      "D": "Cá sấu"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Lực cản của không khí không phụ thuộc vào yếu tố nào?",
+    "answers": {
+      "A": "Tốc độ chuyển động của vật",
+      "B": "Hình dạng của vật",
+      "C": "Kích thước của vật",
+      "D": "Màu sắc của vật"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khi vật chuyển động trong nước, lực cản phụ thuộc vào yếu tố nào?",
+    "answers": {
+      "A": "Màu sắc của vật",
+      "B": "Tốc độ và hình dạng của vật",
+      "C": "Âm thanh phát ra",
+      "D": "Nhiệt độ của vật"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi thiết kế xe đạp, người ta lắp ổ bi vào trục bánh xe nhằm mục đích gì?",
+    "answers": {
+      "A": "Tăng ma sát",
+      "B": "Giảm ma sát",
+      "C": "Tăng khối lượng",
+      "D": "Làm đẹp"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong các cách sau, cách nào giúp tăng ma sát khi đi trên đường trơn?",
+    "answers": {
+      "A": "Đi giày đế trơn",
+      "B": "Đi giày có đế nhám",
+      "C": "Tra dầu vào giày",
+      "D": "Giảm lực tiếp xúc"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vì sao lốp xe ô tô thường có rãnh sâu?",
+    "answers": {
+      "A": "Để giảm ma sát",
+      "B": "Để tăng ma sát với mặt đường",
+      "C": "Để xe nhẹ hơn",
+      "D": "Để tiết kiệm nhiên liệu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi treo vật vào lò xo, độ giãn của lò xo tỉ lệ với đại lượng nào sau đây?",
+    "answers": {
+      "A": "Khối lượng của vật treo",
+      "B": "Màu sắc của vật",
+      "C": "Chiều dài ban đầu của lò xo",
+      "D": "Nhiệt độ môi trường"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khi lực kéo tác dụng lên lò xo giảm thì độ giãn của lò xo sẽ như thế nào?",
+    "answers": {
+      "A": "Tăng",
+      "B": "Giảm",
+      "C": "Không đổi",
+      "D": "Bằng 0"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Một lò xo xoắn có độ dài ban đầu là 15cm. Khi treo một quả cân thì độ dài của lò xo là 20cm. Nếu treo ba quả cân giống như thế thì lò xo bị dãn ra so với ban đầu một đoạn là:",
+    "answers": {
+      "A": "10 cm",
+      "B": "24 cm",
+      "C": "26 cm",
+      "D": "15 cm"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Một quả bóng nhựa và một quả bóng sắt có cùng khối lượng. Hỏi quả nào có trọng lượng lớn hơn?",
+    "answers": {
+      "A": "Quả bóng sắt",
+      "B": "Quả bóng nhựa",
+      "C": "Hai quả bóng có trọng lượng bằng nhau",
+      "D": "Không xác định"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trong các trường hợp sau, trường hợp nào vật có trọng lượng lớn nhất?",
+    "answers": {
+      "A": "Vật có khối lượng 2 kg",
+      "B": "Vật có khối lượng 1 kg",
+      "C": "Vật có khối lượng 500 g",
+      "D": "Vật có khối lượng 1,5 kg"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trên vỏ hộp sữa đặc có đường có ghi \"Khối lượng tịnh 380g\". Con số này có ý nghĩa là:",
+    "answers": {
+      "A": "trọng lượng sữa chứa trong hộp",
+      "B": "trọng lượng sữa và hộp",
+      "C": "khối lượng sữa chứa trong hộp",
+      "D": "khối lượng sữa và hộp"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Thiết bị nào sử dụng năng lượng tái tạo?",
+    "answers": {
+      "A": "Bếp gas",
+      "B": "Tuabin gió",
+      "C": "Xe máy chạy xăng",
+      "D": "Máy phát điện chạy dầu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nguồn năng lượng nào sau đây là năng lượng tái tạo?",
+    "answers": {
+      "A": "Than đá",
+      "B": "Dầu mỏ",
+      "C": "Năng lượng gió",
+      "D": "Xăng"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trong các nguồn năng lượng sau, nguồn nào là không tái tạo?",
+    "answers": {
+      "A": "Năng lượng Mặt Trời",
+      "B": "Năng lượng gió",
+      "C": "Than đá",
+      "D": "Năng lượng nước"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dạng năng lượng có trong một vật đang chuyển động là gì?",
+    "answers": {
+      "A": "Thế năng",
+      "B": "Năng lượng nhiệt",
+      "C": "Động năng",
+      "D": "Năng lượng hóa học"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dạng năng lượng được tích trữ trong lò xo bị nén là:",
+    "answers": {
+      "A": "Động năng",
+      "B": "Thế năng đàn hồi",
+      "C": "Năng lượng nhiệt",
+      "D": "Năng lượng ánh sáng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Số đếm của công tơ điện ở mỗi gia đình cho biết",
+    "answers": {
+      "A": "năng lượng điện gia đình sử dụng",
+      "B": "số quạt điện gia đình sử dụng",
+      "C": "thời gian sử dụng điện của gia đình",
+      "D": "số bóng đèn điện gia đình sử dụng"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Vật nào sau đây không sử dụng năng lượng điện khi hoạt động?",
+    "answers": {
+      "A": "Tivi",
+      "B": "Nồi cơm điện",
+      "C": "Bếp gas",
+      "D": "Tủ lạnh"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi một chiếc ô tô đang chạy trên đường, dạng năng lượng chủ yếu là",
+    "answers": {
+      "A": "Nhiệt năng",
+      "B": "Động năng",
+      "C": "Điện năng",
+      "D": "Quang năng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Thiết bị nào sau đây chủ yếu tạo ra ánh sáng?",
+    "answers": {
+      "A": "Bếp điện",
+      "B": "Đèn LED",
+      "C": "Quạt điện",
+      "D": "Máy bơm"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Ngành giun có bộ xương ngoài bằng kitin, các chân phân đốt, khớp động với nhau",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Động vật ngành ruột khoang có cơ thể đối xứng tỏa tròn",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Con ong, con ruồi được xếp vào nhóm động vật có xương sống",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Giun đũa, giun đất thuộc ngành giun tròn",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Giun đũa, giun đất, con ong, con ruồi đều là các động vật không có xương sống",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Động vật ngành Thân mềm có cơ thể mềm, không phân đốt; đa số chúng có vỏ cứng bên ngoài bảo vệ cơ thể",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Động vật thuộc các ngành Giun có cơ thể dài, phân đốt",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Con ong, con ruồi thuộc ngành chân khớp",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Lớp Cá là động vật sống ở dưới nước, di chuyển bằng vây, hô hấp bằng mang, đẻ trứng hoặc đẻ con",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Loài ếch có đời sống vừa ở nước, vừa ở cạn, da trần, hô hấp bằng da và phổi, đẻ trứng trong nước",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bò sát có da khô, vảy sừng khô, hô hấp bằng phổi, đẻ con",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Loài chim có lông vũ bao phủ, chi trước biến đổi thành cánh, đẻ trứng",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dơi có cánh bay được nên được xếp vào lớp Chim",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Dơi có lông mao nên được xếp vào lớp Thú",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Động vật có xương sống bao gồm: Cá, lưỡng cư, bò sát, chim, thú",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chim cánh cụt, cá sấu đều thuộc lớp Chim",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Đập một cái búa vào một quả bóng cao su. Lực mà búa tác dụng vào quả bóng sẽ làm cho quả bóng bị biến dạng.",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khi quả bóng đang nằm yên trên mặt đất thì quả bóng vừa bị biến dạng, vừa đổi hướng chuyển động.",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Lực của Trái Đất tác dụng lên bóng đèn treo trên trần nhà là lực tiếp xúc",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Lực hút giữa Trái Đất và Mặt Trăng là lực không tiếp xúc",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Năng lượng gió là năng lượng không tái tạo",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Năng lượng của than đá, dầu mỏ là năng lượng tái tạo",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Tàu ngầm nguyên tử, mặt trời và các ngôi sao,... hoạt động nhờ năng lượng hạt nhân",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dạng năng lượng được dự trữ trong thức ăn, nhiên liệu, pin,... là năng lượng điện",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  }
+]
