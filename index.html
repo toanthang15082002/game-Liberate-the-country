@@ -9,8 +9,6 @@
 </head>
 
 <body>
-  <img id="logo" src="./logo.webp" alt="Logo"
-    style="position: absolute; top: 250px; left: 10px; width: 300px; height: auto; z-index: 15" />
   <div id="rulesDiv">
     <h2>Ôn tập các câu hỏi kiến thức để giải phóng miền Nam !!!</h2>
     <p>
@@ -19,6 +17,23 @@
       giải phóng hoàn toàn miền Nam thống nhất đất nước nhé.
     </p>
     <button id="readyBtn">Quyết tâm</button>
+    <div id="chooseSubject">
+      <button onclick="fetchQuestions('./grade_seventh/computer_science_ses1_mid.json')">
+        Tin học kỳ 1
+      </button>
+      <button onclick="fetchQuestions('./grade_seventh/english_ses1_mid.json')">
+        Tiếng Anh kỳ 1
+      </button>
+      <button onclick="fetchQuestions('./grade_seventh/history_geography_ses1_mid.json')">
+        Lịch sử - Địa lý kỳ 1
+      </button>
+      <button onclick="fetchQuestions('./grade_seventh/technology_ses1_mid.json')">
+        Công nghệ kỳ 1
+      </button>
+      <button onclick="fetchQuestions('./grade_seventh/vocabulary_practice_ses1_mid.json')">
+        Từ vựng kỳ 1
+      </button>
+    </div>
   </div>
   <div id="questionDiv" style="display: none">
     <div id="questionText" class="question-text"></div>

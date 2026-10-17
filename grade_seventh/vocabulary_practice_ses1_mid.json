@@ -1,0 +1,302 @@
+[
+  {
+    "question": "Từ 'sunburn' trong chủ đề Healthy Living có nghĩa là gì?",
+    "answers": {
+      "A": "Bệnh dị ứng",
+      "B": "Sự cháy nắng, sạm nắng",
+      "C": "Cơn đau đầu",
+      "D": "Vết mụn trứng cá"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'elderly' trong cụm từ 'elderly people' đồng nghĩa với từ/cụm từ nào sau đây?",
+    "answers": {
+      "A": "Young people",
+      "B": "Old people",
+      "C": "Children",
+      "D": "Teenagers"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'donate' trong câu 'They donate books to poor children' có nghĩa là gì?",
+    "answers": {
+      "A": "Quyên góp, ủng hộ",
+      "B": "Mượn, vay",
+      "C": "Bán hàng",
+      "D": "Mua sắm"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ 'donate' có thể thay thế bằng từ/cụm từ nào có nghĩa tương đương?",
+    "answers": {
+      "A": "take away",
+      "B": "give",
+      "C": "buy from",
+      "D": "borrow"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'volunteer' có nghĩa là gì?",
+    "answers": {
+      "A": "Bệnh nhân",
+      "B": "Tình nguyện viên",
+      "C": "Giáo viên chính thức",
+      "D": "Người thụ hưởng"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'allergy' trong câu 'She has a seafood allergy' có nghĩa là gì?",
+    "answers": {
+      "A": "Sự dị ứng",
+      "B": "Cơn sốt cao",
+      "C": "Sự mệt mỏi",
+      "D": "Bệnh ho khan"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ 'chapped lips' chỉ tình trạng sức khỏe nào?",
+    "answers": {
+      "A": "Đau mắt đỏ",
+      "B": "Môi bị khô nứt nẻ",
+      "C": "Bị ngứa da",
+      "D": "Sốt vi-rút"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'homeless' trong 'homeless children' có nghĩa là gì?",
+    "answers": {
+      "A": "Mồ côi cha mẹ",
+      "B": "Khuyết tật",
+      "C": "Vô gia cư",
+      "D": "Nghèo khó"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Từ 'tutor' trong hoạt động cộng đồng 'tutor primary students' có nghĩa tương đương với từ nào?",
+    "answers": {
+      "A": "teach (dạy học)",
+      "B": "play with (chơi cùng)",
+      "C": "learn from (học hỏi)",
+      "D": "punish (xử phạt)"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ 'benefit' (danh từ) có từ đồng nghĩa nào sau đây?",
+    "answers": {
+      "A": "disadvantage",
+      "B": "profit",
+      "C": "harm",
+      "D": "difficulty"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'encourage' trong câu 'We encourage students to recycle' có nghĩa tương đồng nhất với:",
+    "answers": {
+      "A": "prevent (ngăn cản)",
+      "B": "motivate (động viên)",
+      "C": "forbid (cấm đoán)",
+      "D": "ignore (bỏ qua)"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'pimple' dùng để chỉ cái gì trên da mặt?",
+    "answers": {
+      "A": "Vết tàn nhang",
+      "B": "Mụn trứng cá",
+      "C": "Vết sẹo",
+      "D": "Nếp nhăn"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Cụm từ 'pick up litter' có nghĩa là gì?",
+    "answers": {
+      "A": "Vứt rác bừa bãi",
+      "B": "Nhặt rác, thu gom rác",
+      "C": "Phân loại chất thải",
+      "D": "Đốt chất thải"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ nào sau đây ĐỒNG NGHĨA với từ 'disease' trong ngữ cảnh sức khỏe?",
+    "answers": {
+      "A": "wellness",
+      "B": "fitness",
+      "C": "illness",
+      "D": "healthiness"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Từ 'community' trong 'community service' có nghĩa là gì?",
+    "answers": {
+      "A": "Cá nhân",
+      "B": "Cộng đồng",
+      "C": "Trường học",
+      "D": "Gia đình"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào mang nghĩa 'nhà dưỡng lão'?",
+    "answers": {
+      "A": "orphanage",
+      "B": "nursing home",
+      "C": "hospital",
+      "D": "community centre"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào dùng để mô tả thức ăn 'chứa nhiều năng lượng'?",
+    "answers": {
+      "A": "high-calorie",
+      "B": "low-fat",
+      "C": "sugar-free",
+      "D": "vitamin-rich"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Để nói 'giữ dáng, giữ cơ thể khỏe mạnh', ta dùng cụm từ tiếng Anh nào?",
+    "answers": {
+      "A": "gain weight",
+      "B": "keep fit",
+      "C": "get sunburn",
+      "D": "feel tired"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào có nghĩa là 'mờ, thiếu ánh sáng' (dùng trong câu cảnh báo đọc sách trong điều kiện ánh sáng kém)?",
+    "answers": {
+      "A": "bright",
+      "B": "dim",
+      "C": "clear",
+      "D": "sunny"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào đồng nghĩa với 'provide' (cung cấp, trao cho)?",
+    "answers": {
+      "A": "supply",
+      "B": "take back",
+      "C": "refuse",
+      "D": "destroy"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cụm từ tiếng Anh nào chỉ hành động 'trao đổi sách cũ lấy cây xanh'?",
+    "answers": {
+      "A": "buy old books",
+      "B": "exchange old books for plants",
+      "C": "sell plants for books",
+      "D": "throw away old books"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào chỉ sở thích 'làm đồ gốm'?",
+    "answers": {
+      "A": "making pottery",
+      "B": "making models",
+      "C": "collecting stamps",
+      "D": "arranging flowers"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ tiếng Anh nào đồng nghĩa với 'essential' (rất quan trọng, cần thiết)?",
+    "answers": {
+      "A": "unimportant",
+      "B": "important",
+      "C": "unnecessary",
+      "D": "minor"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Cụm từ tiếng Anh nào chỉ 'trại trẻ mồ côi'?",
+    "answers": {
+      "A": "nursing home",
+      "B": "orphanage",
+      "C": "homeless shelter",
+      "D": "charity shop"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào mang nghĩa 'phòng tránh, ngăn ngừa' (bệnh tật, tác hại)?",
+    "answers": {
+      "A": "cause",
+      "B": "prevent",
+      "C": "increase",
+      "D": "allow"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ 'prevent' (ngăn ngừa) có từ đồng nghĩa gần nhất là từ nào sau đây?",
+    "answers": {
+      "A": "avoid",
+      "B": "encourage",
+      "C": "create",
+      "D": "support"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ tiếng Anh nào chỉ 'bào ngư' hoặc 'trứng cá' nằm trong nhóm thực phẩm bổ dưỡng được nhắc đến trong bài đọc?",
+    "answers": {
+      "A": "colored vegetables",
+      "B": "junk food",
+      "C": "seafood",
+      "D": "soft drinks"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Từ tiếng Anh nào có nghĩa là 'tăng cân'?",
+    "answers": {
+      "A": "lose weight",
+      "B": "put on weight",
+      "C": "keep fit",
+      "D": "stay in shape"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Từ tiếng Anh nào mang nghĩa 'sự phân loại rác'?",
+    "answers": {
+      "A": "sorting rubbish",
+      "B": "burning trash",
+      "C": "littering",
+      "D": "polluting water"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Từ tiếng Anh nào đồng nghĩa với 'proud of' (tự hào về)?",
+    "answers": {
+      "A": "pleased with",
+      "B": "ashamed of",
+      "C": "disappointed in",
+      "D": "afraid of"
+    },
+    "correct": "A"
+  }
+]

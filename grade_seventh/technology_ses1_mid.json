@@ -1,0 +1,202 @@
+[
+  {
+    "question": "Loại cây trồng nào sau đây thuộc nhóm hoa, cây cảnh?",
+    "answers": {
+      "A": "Cây lạc.",
+      "B": "Cây xoài.",
+      "C": "Cây hoa hồng.",
+      "D": "Cây điều."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Sản phẩm của trồng trọt như gạo, ngô, khoai thể hiện vai trò nào của trồng trọt?",
+    "answers": {
+      "A": "Cung cấp lương thực.",
+      "B": "Cung cấp thực phẩm.",
+      "C": "Cung cấp nguyên liệu cho công nghiệp.",
+      "D": "Tạo môi trường trong lành."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Vai trò của cây trồng:",
+    "answers": {
+      "A": "Cung cấp lương thực",
+      "B": "Cung cấp thức ăn cho chăn nuôi",
+      "C": "Cung cấp nguyên liệu công nghiệp",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Một trong những mục đích của việc cày đất là:",
+    "answers": {
+      "A": "san phẳng mặt ruộng.",
+      "B": "thuận lợi cho việc chăm sóc.",
+      "C": "làm tăng độ dày lớp đất trồng, làm đất tơi xốp, thoáng khí.",
+      "D": "bổ sung chất dinh dưỡng cho cây trồng."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Một trong những ưu điểm của biện pháp thủ công trong phòng trừ sâu hại cây trồng là:",
+    "answers": {
+      "A": "tiết kiệm công lao động.",
+      "B": "hiệu quả nhanh kể cả khi sâu đã phát triển mạnh.",
+      "C": "đơn giản, dễ thực hiện.",
+      "D": "có tác dụng lâu dài."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Phương án nào sau đây không phải là một trong các phương pháp thu hoạch sản phẩm trồng trọt?",
+    "answers": {
+      "A": "Hái.",
+      "B": "Nhổ.",
+      "C": "Cắt.",
+      "D": "Bổ."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nội dung nào sau đây là một trong những yêu cầu của thu hoạch sản phẩm trồng trọt?",
+    "answers": {
+      "A": "Thu hoạch đúng thời điểm.",
+      "B": "Thu hoạch càng muộn càng tốt.",
+      "C": "Thu hoạch càng sớm càng tốt.",
+      "D": "Thu hoạch khi có nhu cầu sử dụng."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Việc sử dụng thùng xốp đã qua sử dụng để trồng rau an toàn có ý nghĩa nào sau đây?",
+    "answers": {
+      "A": "Giúp cây nhanh lớn.",
+      "B": "Hạn chế nguồn sâu bệnh.",
+      "C": "Thuận lợi cho việc chăm sóc.",
+      "D": "Bảo vệ môi trường."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nhóm cây trồng nào sau đây đều là cây rau?",
+    "answers": {
+      "A": "Cà phê, lúa, ngô.",
+      "B": "Su hào, cải bắp, súp lơ.",
+      "C": "Khoai lang, khoai tây, mía.",
+      "D": "Bông, cao su, cà phê."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Cây trồng phân loại theo mục đích sử dụng là:",
+    "answers": {
+      "A": "Cây lương thực",
+      "B": "Cây công nghiệp",
+      "C": "Cây ăn quả",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Cây nào sau đây thuộc nhóm cây lương thực?",
+    "answers": {
+      "A": "Cây ngô",
+      "B": "Cây su hào",
+      "C": "Cây vải thiều",
+      "D": "Cây tiêu"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cây nào sau đây thuộc nhóm cây rau?",
+    "answers": {
+      "A": "Cây ngô",
+      "B": "Cây su hào",
+      "C": "Cây vải thiều",
+      "D": "Cây tiêu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Cây cà phê, cây chè, cây điều, thuộc nhóm cây:",
+    "answers": {
+      "A": "lương thực.",
+      "B": "lấy củ.",
+      "C": "ăn quả.",
+      "D": "công nghiệp."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Có mấy phương thức trồng trọt phổ biến ở Việt Nam?",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Trồng trọt ngoài tự nhiên:",
+    "answers": {
+      "A": "Là phương thức trồng trọt phổ biến, mọi công việc được tiến hành trong điều kiện tự nhiên.",
+      "B": "Là phương thức trồng trọt tiến hành ở nơi có điều kiện tự nhiên không thuận lợi hoặc khó áp dụng với cây trồng khó sinh trưởng, phát triển ở điều kiện tự nhiên.",
+      "C": "Kết hợp giữa trồng trọt ngoài tự nhiên với trồng trọt trong nhà có mái che.",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trồng trọt kết hợp:",
+    "answers": {
+      "A": "Là phương thức trồng trọt phổ biến, mọi công việc được tiến hành trong điều kiện tự nhiên.",
+      "B": "Là phương thức trồng trọt tiến hành ở nơi có điều kiện tự nhiên không thuận lợi hoặc khó áp dụng với cây trồng khó sinh trưởng, phát triển ở điều kiện tự nhiên.",
+      "C": "Kết hợp giữa trồng trọt ngoài tự nhiên với trồng trọt trong nhà có mái che.",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Kĩ sư bảo vệ thực vật:",
+    "answers": {
+      "A": "Là người làm nhiệm vụ giám sát và quản lý toàn bộ quá trình trồng trọt; nghiên cứu cải tiến và ứng dụng các tiến bộ kĩ thuật vào trồng trọt.",
+      "B": "Là người làm nhiệm vụ nghiên cứu và phòng trừ các tác nhân gây hại để bảo vệ cây trồng.",
+      "C": "Là người làm nhiệm vụ bảo tồn và phát triển các giống cây trồng hiện có, nghiên cứu chọn tạo các giống cây trồng mới phục vụ cho nhu cầu trong nước và xuất khẩu.",
+      "D": "Cả 3 đáp án trên"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vì sao chúng ta cần chuẩn bị đất trước khi gieo trồng?",
+    "answers": {
+      "A": "Giúp đất trở nên tơi xốp, đủ độ ẩm và chất dinh dưỡng.",
+      "B": "Loại bỏ các chất độc hại, cỏ dại và mầm bệnh, sâu hại cây trồng.",
+      "C": "Tạo tầng đất dày, chống ngập úng, dễ chăm sóc cây.",
+      "D": "Tất cả các ý trên."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Những loại cây dễ nhân giống bằng phương pháp giâm cành:",
+    "answers": {
+      "A": "rau muống, rau khoai lang, cây chuối",
+      "B": "rau muống, rau khoai lang, cây ổi",
+      "C": "rau muống, lúa, cây hoa hồng",
+      "D": "rau muống, rau khoai lang, rau ngót"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Bộ phận nào của cây được sử dụng làm nguyên liệu nhân giống vô tính bằng phương pháp giâm cành?",
+    "answers": {
+      "A": "Lá",
+      "B": "Hoa",
+      "C": "Quả",
+      "D": "Cành"
+    },
+    "correct": "D"
+  }
+]
