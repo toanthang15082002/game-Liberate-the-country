@@ -21,9 +21,15 @@ const questionFiles = {
   "Từ vựng": "./grade_seventh/vocabulary_practice_ses1_mid.json"
 };
 
+const LOG_API_URL = "https://game-history-api.toanthang15082002.workers.dev";
+
 let gameStarted = false;
 let currentPath = null;
 let questions = [];
+
+let totalQuestionsLoaded = 0;
+
+let resultRecorded = false;
 
 document.querySelectorAll(".restartBtn").forEach((btn) => {
   btn.addEventListener("click", () => {
@@ -48,23 +54,50 @@ readyBtn.addEventListener("click", function () {
 const totalProvinces = 34;
 let liberatedCount = 0;
 
-function recordGameResult(result) {
+async function recordGameResult(result) {
+  if (resultRecorded) return;
+  resultRecorded = true;
+
   const playerName = document.getElementById("playerName").value.trim();
   const subject = chooseSubjectDiv.value;
-
   const history = {
     player: playerName,
     subject: subject,
     result: result,
     correctAnswers: liberatedCount,
-    totalQuestions: questions.length,
+    totalQuestions: totalQuestionsLoaded,
     time: new Date().toLocaleString("vi-VN")
   };
+  // log lịch sử vào localStorage
+  try {
+    const logs = JSON.parse(
+      localStorage.getItem("gameHistory") || "[]"
+    );
+    logs.push(history);
+    localStorage.setItem(
+      "gameHistory",
+      JSON.stringify(logs)
+    );
+  } catch (error) {
+    console.error("Không lưu được lịch sử trên máy:", error);
+  }
 
-  const logs = JSON.parse(localStorage.getItem("gameHistory") || "[]");
-
-  logs.push(history);
-  localStorage.setItem("gameHistory", JSON.stringify(logs));
+  try {
+    const response = await fetch(LOG_API_URL, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify(history)
+    });
+    const data = await response.json();
+    if (!response.ok) {
+      throw new Error(data.error || `HTTP ${response.status}`);
+    }
+    console.log("Đã lưu lịch sử lên Cloudflare:", data);
+  } catch (error) {
+    console.error("Không gửi được lịch sử lên Cloudflare:", error);
+  }
 }
 
 function checkVictory() {
@@ -91,6 +124,7 @@ async function fetchQuestions(filePath) {
       throw new Error("File câu hỏi không hợp lệ hoặc không có câu hỏi.");
     }
 
+    totalQuestionsLoaded = data.length;
     questions = data;
     loadingMessage.textContent = `Đã tải ${questions.length} câu hỏi thành công!`;
     
@@ -166,8 +200,8 @@ document.querySelectorAll("svg path").forEach((path) => {
     // Lấy 1 câu hỏi ngẫu nhiên
     const q = pickQuestion();
     if (!q) {
-      recordGameResult("Thắng");
       checkVictory();
+      return;
     }
     currentPath = path;
 
