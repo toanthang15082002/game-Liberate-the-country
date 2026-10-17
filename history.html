@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Lịch sử người chơi</title>
+  </head>
+  <body>
+    <h1>Lịch sử người chơi</h1>
+
+    <button onclick="loadHistory()">Tải lịch sử</button>
+    <button onclick="clearHistory()">Xóa lịch sử</button>
+
+    <table border="1" cellpadding="8">
+      <thead>
+        <tr>
+          <th>Thời gian</th>
+          <th>Người chơi</th>
+          <th>Môn</th>
+          <th>Kết quả</th>
+          <th>Số câu đúng</th>
+        </tr>
+      </thead>
+      <tbody id="historyBody"></tbody>
+    </table>
+
+    <script>
+      function loadHistory() {
+        const logs = JSON.parse(
+          localStorage.getItem("gameHistory") || "[]"
+        );
+
+        const tbody = document.getElementById("historyBody");
+        tbody.replaceChildren();
+
+        logs.forEach(log => {
+          const row = document.createElement("tr");
+
+          [
+            log.time,
+            log.player,
+            log.subject,
+            log.result,
+            `${log.correctAnswers}/${log.totalQuestions}`
+          ].forEach(value => {
+            const cell = document.createElement("td");
+            cell.textContent = value ?? "";
+            row.appendChild(cell);
+          });
+
+          tbody.appendChild(row);
+        });
+      }
+
+      function clearHistory() {
+        if (confirm("Bạn có chắc muốn xóa lịch sử trên trình duyệt này?")) {
+          localStorage.removeItem("gameHistory");
+          loadHistory();
+        }
+      }
+
+      loadHistory();
+    </script>
+  </body>
+</html>
