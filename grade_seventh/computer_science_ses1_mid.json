@@ -97,7 +97,7 @@
       "C": "Nhắn tin hỏi người đó là ai, để xem mình có quen không, nếu quen mới kết bạn.",
       "D": "Vào Facebook của họ đọc thông tin, xem ảnh xem có phải người quen không, nếu phải thì kết bạn, không phải thì thôi."
     },
-    "correct": "A"
+    "correct": "C"
   },
   {
     "question": "Khi truy cập mạng để xem tin tức thì ngẫu nhiên xem được một video có hình ảnh bạo lực mà em rất sợ. Em nên làm gì?",
@@ -317,7 +317,7 @@
       "C": "Có thể di chuyển, đổi tên, xoá bất kì một tập và thư mục",
       "D": "Thư mục chứa các thư mục khác gọi là thư mục mẹ."
     },
-    "correct": "C"
+    "correct": "B"
   },
   {
     "question": "Phương án nào sau đây không phải là lợi ích của việc tổ chức lưu trữ tập trên máy tính một cách hợp lý?",
@@ -397,6 +397,6 @@
       "C": "Bản sao được đặt bên trong máy tính chứa bản gốc.",
       "D": "Bản sao được đặt bên ngoài máy tính chứa bản gốc hoặc trên các thiết bị lưu trữ như ổ cứng ngoài, USB,..."
     },
-    "correct": "D"
+    "correct": "A"
   }
 ]

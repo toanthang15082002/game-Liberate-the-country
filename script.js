@@ -4,46 +4,117 @@ const tooltip = document.getElementById("tooltip");
 const chooseSubjectDiv = document.getElementById("chooseSubject");
 const questionDiv = document.getElementById("questionDiv");
 const questionText = document.getElementById("questionText");
+const loadingMessage = document.getElementById("loadingMessage");
+const restartBtn = document.getElementById("restartBtn");
+
 const answerButtons = Array.from(document.querySelectorAll("#questionDiv button"));
 // --- Các tỉnh đã đỏ sẵn ---
 const initialLiberated = new Set([
   "VN-13-Quang-Ninh",
 ]);
+// --- Các file câu hỏi ---
+const questionFiles = {
+  "Tin học": "./grade_seventh/computer_science_ses1_mid.json",
+  "Sử địa": "./grade_seventh/history_geography_ses1_mid.json",
+  "Tiếng Anh": "./grade_seventh/english_ses1_mid.json",
+  "Công nghệ": "./grade_seventh/technology_ses1_mid.json",
+  "Từ vựng": "./grade_seventh/vocabulary_practice_ses1_mid.json"
+};
 
 let gameStarted = false;
 let currentPath = null;
+let questions = [];
+
+document.querySelectorAll(".restartBtn").forEach((btn) => {
+  btn.addEventListener("click", () => {
+    location.reload();
+  });
+});
 
 // --- Nhấn "Sẵn sàng" ---
-readyBtn.addEventListener("click", () => {
+readyBtn.addEventListener("click", function () {
+  if (questions.length === 0) {
+    alert("Vui lòng chọn môn học và tải câu hỏi trước!");
+    return;
+  }
+  const playerName = document.getElementById("playerName").value.trim();
+  if (!playerName) {
+    alert("Vui lòng nhập tên người chơi!");
+    return;
+  }
   rulesDiv.style.display = "none";
   gameStarted = true;
 });
 const totalProvinces = 34;
 let liberatedCount = 0;
 
+function recordGameResult(result) {
+  const playerName = document.getElementById("playerName").value.trim();
+  const subject = chooseSubjectDiv.value;
+
+  const history = {
+    player: playerName,
+    subject: subject,
+    result: result,
+    correctAnswers: liberatedCount,
+    totalQuestions: questions.length,
+    time: new Date().toLocaleString("vi-VN")
+  };
+
+  const logs = JSON.parse(localStorage.getItem("gameHistory") || "[]");
+
+  logs.push(history);
+  localStorage.setItem("gameHistory", JSON.stringify(logs));
+}
+
 function checkVictory() {
-  if (liberatedCount === totalProvinces) {
+  if (liberatedCount === totalProvinces || questions.length === 0) {
+    recordGameResult("Thắng");
     document.getElementById("victoryDiv").style.display = "block";
-    const music = document.getElementById("bgMusic");
-    music.pause();
-    music.currentTime = 0;
   }
 }
 
-let questions = [];
 async function fetchQuestions(filePath) {
   try {
+    readyBtn.style.display = "none";
+    loadingMessage.textContent = "Đang tải câu hỏi...";
+
     const response = await fetch(filePath);
+
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }
-    questions = await response.json();
+
+    const data = await response.json();
+
+    if (!Array.isArray(data) || data.length === 0) {
+      throw new Error("File câu hỏi không hợp lệ hoặc không có câu hỏi.");
+    }
+
+    questions = data;
+    loadingMessage.textContent = `Đã tải ${questions.length} câu hỏi thành công!`;
+    
     readyBtn.style.display = "block";
-    chooseSubjectDiv.style.display = "none";
   } catch (err) {
-    console.error('Lỗi khi fetch câu hỏi:', err);
+    questions = [];
+    loadingMessage.textContent = "Không tải được câu hỏi. Vui lòng chọn lại môn học.";
+    console.error("Lỗi khi fetch câu hỏi:", err);
   }
 }
+
+chooseSubjectDiv.addEventListener("change", async function () {
+  const selectedSubject = chooseSubjectDiv.value;
+  const filePath = questionFiles[selectedSubject];
+
+  if (!filePath) {
+    questions = [];
+    readyBtn.style.display = "none";
+    loadingMessage.textContent = "";
+    return;
+  }
+
+  await fetchQuestions(filePath);
+});
 
 // --- Tooltip + Logic click hỏi ---
 document.querySelectorAll("svg path").forEach((path) => {
@@ -69,18 +140,13 @@ document.querySelectorAll("svg path").forEach((path) => {
   function pickQuestion() {
     if (questions.length === 0) {
       window.alert('Hết câu hỏi rồi!');
-      return null;
+      return;
     }
     const idx = Math.floor(Math.random() * questions.length);
     const qq = questions.splice(idx, 1)[0];
     usedQuestionCount++;
     return qq;
   }
-
-  const restartBtn = document.getElementById("restartBtn");
-  restartBtn.addEventListener("click", () => {
-    location.reload();
-  });
 
   // thuật toán Fisher–Yates xáo trộn mảng random
   function shuffleArray(array) {
@@ -99,6 +165,10 @@ document.querySelectorAll("svg path").forEach((path) => {
 
     // Lấy 1 câu hỏi ngẫu nhiên
     const q = pickQuestion();
+    if (!q) {
+      recordGameResult("Thắng");
+      checkVictory();
+    }
     currentPath = path;
 
     // Lưu lại text đáp án đúng
@@ -127,7 +197,7 @@ document.querySelectorAll("svg path").forEach((path) => {
             liberatedCount++;
             checkVictory();
           } else {
-            // reset toàn bộ nếu sai
+            recordGameResult("Thua");
             document.getElementById("gameOverDiv").style.display = "block";
           }
         };
@@ -136,9 +206,6 @@ document.querySelectorAll("svg path").forEach((path) => {
 
     questionDiv.style.display = "block";
   });
-});
-document.getElementById("restartBtn").addEventListener("click", () => {
-  location.reload();
 });
 
 // --- Vẽ ngôi sao ở Hà Nội, dịch xuống 2px, sang trái 2px ---
@@ -166,27 +233,27 @@ document.getElementById("restartBtn").addEventListener("click", () => {
   star.setAttribute("transform", `translate(${cx - 5},${cy + 8})`);
   svg.appendChild(star);
 })();
-document.getElementById("readyBtn").addEventListener("click", () => {
-  // 1) Ẩn luật chơi
-  document.getElementById("rulesDiv").style.display = "none";
-  const youtubeLinks = [
-    /* …Link nhạc youtube */
-    "https://www.youtube.com/watch?v=rA_2B7Yj4QE&list=PL1CRgS4XswahElqv9qGcrMqP-Xy1SjxOR"
-  ];
-  const idx = Math.floor(Math.random() * youtubeLinks.length);
-  const fullLink = youtubeLinks[idx];
-  // Lấy video ID
-  const videoId = fullLink.split("v=")[1].split("&")[0];
+// document.getElementById("readyBtn").addEventListener("click", () => {
+//   // 1) Ẩn luật chơi
+//   document.getElementById("rulesDiv").style.display = "none";
+//   const youtubeLinks = [
+//     /* …Link nhạc youtube */
+//     "https://www.youtube.com/watch?v=rA_2B7Yj4QE&list=PL1CRgS4XswahElqv9qGcrMqP-Xy1SjxOR"
+//   ];
+//   const idx = Math.floor(Math.random() * youtubeLinks.length);
+//   const fullLink = youtubeLinks[idx];
+//   // Lấy video ID
+//   const videoId = fullLink.split("v=")[1].split("&")[0];
 
-  // 3) Tạo iframe autoplay
-  const playerDiv = document.getElementById("player");
-  playerDiv.innerHTML = `
-    <iframe
-      src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&controls=0"
-      allow="autoplay"
-      frameborder="0"
-      width="0"
-      height="0">
-    </iframe>
-  `;
-});
+//   // 3) Tạo iframe autoplay
+//   const playerDiv = document.getElementById("player");
+//   playerDiv.innerHTML = `
+//     <iframe
+//       src="https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0&controls=0"
+//       allow="autoplay"
+//       frameborder="0"
+//       width="0"
+//       height="0">
+//     </iframe>
+//   `;
+// });
