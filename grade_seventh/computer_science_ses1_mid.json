@@ -1,0 +1,402 @@
+[
+  {
+    "question": "Một bộ tai nghe có gắn micro sử dụng cho máy tính là loại thiết bị gì?",
+    "answers": {
+      "A": "Thiết bị vào.",
+      "B": "Thiết bị ra.",
+      "C": "Thiết bị vừa vào vừa ra.",
+      "D": "Không phải thiết bị vào - ra."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Tai nghe là loại thiết bị nào?",
+    "answers": {
+      "A": "Thiết bị vào.",
+      "B": "Thiết bị ra.",
+      "C": "Thiết bị vừa vào vừa ra.",
+      "D": "Thiết bị lưu trữ."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Thiết bị nào xuất dữ liệu âm thanh từ máy tính ra ngoài?",
+    "answers": {
+      "A": "Máy ảnh.",
+      "B": "Micro.",
+      "C": "Màn hình.",
+      "D": "Loa."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Đáp án nào KHÔNG phải là một hệ điều hành?",
+    "answers": {
+      "A": "Windows Explorer",
+      "B": "Windows 10.",
+      "C": "Windows 7",
+      "D": "Windows 11."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Đâu là phần mềm bảo vệ máy tính tránh được virus?",
+    "answers": {
+      "A": "Windows Defender.",
+      "B": "Mozilla Firefox.",
+      "C": "Microsoft Windows.",
+      "D": "Microsoft Word."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ý kiến nào sau đây là không đúng khi nói về phần mở rộng của tập chương trình máy tính?",
+    "answers": {
+      "A": "Phần mở rộng của tập chương trình máy tính bao gồm .pptx, .ppt, .odp.",
+      "B": "Phần mở rộng của tập chương trình máy tính bao gồm .docx, .rtf, .odt.",
+      "C": "Phần mở rộng của tập chương trình máy tính bao gồm .xlsx, .csv, .ods",
+      "D": "Phần mở rộng của tập chương trình máy tính bao gồm .com, .exe, .msi."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phần mềm được cài đặt trên máy tính giúp em ghi âm là gì?",
+    "answers": {
+      "A": "Windows Phone",
+      "B": "Voice Recorder",
+      "C": "Microsoft Excel",
+      "D": "Microsoft Paint"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Em hãy chỉ ra các loại tệp dưới đây có thể sử dụng được với Windows Media Player.",
+    "answers": {
+      "A": ".docx",
+      "B": ".txt",
+      "C": ".jpg",
+      "D": ".mp4"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Cho phép người sử dụng tạo hồ sơ cá nhân, kết nối bạn bè. Người sử dụng có thể chia sẻ suy nghĩ và ý kiến cá nhân cũng như hình ảnh, âm thanh, video là mục đích nào của mạng xã hội?",
+    "answers": {
+      "A": "Chia sẻ video.",
+      "B": "Giao lưu bạn bè",
+      "C": "Chia sẻ hình ảnh",
+      "D": "Diễn đàn học tập, thảo luận"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi nhận được tin nhắn và lời mời kết bạn trên Facebook từ một người mà em không biết. Em sẽ làm gì?",
+    "answers": {
+      "A": "Không chấp nhận kết bạn và không trả lời tin nhắn.",
+      "B": "Chấp nhận yêu cầu kết bạn và trả lời tin nhắn ngay.",
+      "C": "Nhắn tin hỏi người đó là ai, để xem mình có quen không, nếu quen mới kết bạn.",
+      "D": "Vào Facebook của họ đọc thông tin, xem ảnh xem có phải người quen không, nếu phải thì kết bạn, không phải thì thôi."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khi truy cập mạng để xem tin tức thì ngẫu nhiên xem được một video có hình ảnh bạo lực mà em rất sợ. Em nên làm gì?",
+    "answers": {
+      "A": "Mở video đó và xem.",
+      "B": "Thông báo cho cha mẹ và thầy cô giáo về điều đó.",
+      "C": "Đóng video lại và tiếp tục xem tin tức coi như không có chuyện gì.",
+      "D": "Chia sẻ cho bạn bè để doạ các bạn."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phương án nào sau đây chỉ gồm thiết bị vào?",
+    "answers": {
+      "A": "Micro, máy in.",
+      "B": "Máy quét, màn hình.",
+      "C": "Máy ảnh kỹ thuật số, loa.",
+      "D": "Bàn phím, chuột."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Việc nào sau đây là chức năng của phần mềm ứng dụng?",
+    "answers": {
+      "A": "Sao chép tệp văn bản CaDao.docx từ ổ cứng sang USB.",
+      "B": "Tìm kiếm từ \"quê hương\" trong tệp văn bản CaDao.docx.",
+      "C": "Đổi tên tệp CaDao.docx trên USB thành CaDao-DanCa.docx",
+      "D": "Xóa tệp dữ liệu CaDao.docx khỏi ổ đĩa cứng."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Em hãy chỉ ra phần mềm ứng dụng trong các phương án sau:",
+    "answers": {
+      "A": "Windows 11.",
+      "B": "MacOS.",
+      "C": "Android.",
+      "D": "Paint"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Mật khẩu nào sau đây là mạnh nhất khi đặt mật khẩu cho tài khoản?",
+    "answers": {
+      "A": "123456",
+      "B": "abc123",
+      "C": "matkhau",
+      "D": "MTDT2022a@"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phương án nào là phần mở rộng của tệp dữ liệu âm thanh?",
+    "answers": {
+      "A": ".sb3",
+      "B": ".mp3",
+      "C": ".avi",
+      "D": ".com"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Mạng xã hội là gì?",
+    "answers": {
+      "A": "Một cộng đồng cùng chung sở thích.",
+      "B": "Một cộng đồng trực tuyến.",
+      "C": "Một cộng đồng cùng chung mục đích.",
+      "D": "Một cộng đồng máy tính."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phương án nào sau đây là lợi ích của việc sử dụng Internet?",
+    "answers": {
+      "A": "Sức khoẻ thể chất và sức khoẻ tâm thần giảm sút. Khó tập trung vào công việc, học tập.",
+      "B": "Thiếu kết nối với thế giới thực, mất dần các mối quan hệ bạn bè, người thân.",
+      "C": "Dễ bị lôi kéo vào các việc xấu trên mạng. Lãng phí thời gian của bản thân.",
+      "D": "Tiếp thu nhiều kiến thức học tập tiến bộ, có nhiều bạn mới"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Website nào sau đây là mạng xã hội?",
+    "answers": {
+      "A": "https://youtube.com",
+      "B": "https://mail.yahoo.com",
+      "C": "https://thethao247.vn",
+      "D": "https://vietjack.com"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Không nên dùng mạng xã hội cho mục đích nào sau đây?",
+    "answers": {
+      "A": "Giao lưu với bạn bè.",
+      "B": "Học hỏi kiến thức.",
+      "C": "Bình luận xấu về người khác.",
+      "D": "Chia sẻ các hình ảnh phù hợp của mình."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Em KHÔNG nên làm gì để tránh gặp thông tin xấu trên mạng?",
+    "answers": {
+      "A": "Chỉ truy cập vào các trang thông tin có nội dung phù hợp với lứa tuổi.",
+      "B": "Nháy chuột vào các thông tin quảng cáo gây tò mò, giật gân, dụ dỗ kiếm tiền.",
+      "C": "Xác định rõ mục tiêu mỗi lần vào mạng để không sa đà vào các thông tin không liên quan.",
+      "D": "Bảo mật thông tin cá nhân."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào sau đây là sai?",
+    "answers": {
+      "A": "Người sử dụng xử lý những yêu cầu cụ thể bằng phần mềm ứng dụng.",
+      "B": "Để phần mềm ứng dụng chạy được trên máy tính phải có hệ điều hành.",
+      "C": "Để máy tính hoạt động được phải có phần mềm ứng dụng.",
+      "D": "Để máy tính hoạt động được phải có hệ điều hành."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dãy gồm các hệ điều hành là:",
+    "answers": {
+      "A": "Microsoft Word, Microsoft Excel, Microsoft PowerPoint",
+      "B": "Google Docs, Google Sheets, Google Slides",
+      "C": "Writer, Calc, Impress",
+      "D": "Windows, Linux, iOS"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phần mềm nào có sẵn khi cài đặt hệ điều hành Windows và cho phép em xử lý dữ liệu dạng hình ảnh?",
+    "answers": {
+      "A": "Microsoft Paint",
+      "B": "Microsoft Word",
+      "C": "Microsoft Excel",
+      "D": "Microsoft Powerpoint"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Em dùng phần mềm sơ đồ tư duy để mô tả các hoạt động của em trong ngày Chủ nhật. Phương án nào sau đây không phải là chức năng của phần mềm ứng dụng “Sơ đồ tư duy”?",
+    "answers": {
+      "A": "Khởi động phần mềm sơ đồ tư duy.",
+      "B": "Thêm hoạt động “Nấu cơm” vào sơ đồ tư duy.",
+      "C": "Sửa hoạt động “Nấu cơm” thành “Chuẩn bị bữa ăn gia đình”.",
+      "D": "Xoá hoạt động “Đến chơi nhà bạn Khoa” khỏi sơ đồ tư duy."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hoạt động nào sau đây dễ gây bệnh nghiện Internet nhất?",
+    "answers": {
+      "A": "Đọc tin tức.",
+      "B": "Học tập trực tuyến.",
+      "C": "Chơi trò chơi trực tuyến.",
+      "D": "Trao đổi thông tin qua thư điện tử."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Để trở thành người giao tiếp, ứng xử có văn hoá trên mạng em KHÔNG nên thực hiện những điều nào sau đây?",
+    "answers": {
+      "A": "Tuân thủ các quy tắc ứng xử trong cuộc sống thực.",
+      "B": "Khi giao tiếp qua mạng nên sử dụng ngôn ngữ ngắn gọn, dễ hiểu, không viết tắt.",
+      "C": "Chuyển tiếp tất cả các thông tin chưa được kiểm chứng cho tất cả mọi người.",
+      "D": "Tôn trọng quyền riêng tư của người khác."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Em nên làm gì khi thường xuyên nhận được các tin nhắn trên mạng có nội dung như: “mày là một đứa ngu ngốc, béo ú”, “mày là một đứa xấu xa, không đáng làm bạn”, ... từ một người lớn mà em quen?",
+    "answers": {
+      "A": "Nói chuyện với thầy cô giáo, bố mẹ về sự việc để xin ý kiến giải quyết.",
+      "B": "Nhắn tin lại cho người đó các nội dung tương tự.",
+      "C": "Gặp thẳng người đó hỏi tại sao lại làm thế và yêu cầu dừng ngay.",
+      "D": "Bỏ qua, chắc họ chỉ trêu thôi."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Em hãy chọn phương án đúng về mối quan hệ phụ thuộc giữa hệ điều hành và phần mềm ứng dụng.",
+    "answers": {
+      "A": "Hệ điều hành phụ thuộc vào phần mềm ứng dụng.",
+      "B": "Phần mềm ứng dụng phụ thuộc vào hệ điều hành.",
+      "C": "Hệ điều hành và phần mềm ứng dụng phụ thuộc theo cả hai chiều.",
+      "D": "Hệ điều hành và phần mềm ứng dụng độc lập, không phụ thuộc vào nhau."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Việc nào sau đây là chức năng của phần mềm ứng dụng?",
+    "answers": {
+      "A": "Tải tệp phông chữ từ Internet xuống thư mục Download của máy tính.",
+      "B": "Sao chép tệp phông chữ từ thư mục Download sang thư mục Fonts.",
+      "C": "Xoá tệp phông chữ khỏi thư mục Download của máy tính.",
+      "D": "Thay đổi phông chữ cho một đoạn văn bản từ Times New Roman sang Arial."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Để việc tìm kiếm dữ liệu trong máy tính được dễ dàng và nhanh chóng, khi đặt tên thư mục và tệp, em nên:",
+    "answers": {
+      "A": "Đặt tên theo ý thích như tên người thân hay tên thú cưng.",
+      "B": "Đặt tên sao cho dễ nhớ và để biết trong đó chứa gì.",
+      "C": "Đặt tên giống như trong ví dụ của sách giáo khoa.",
+      "D": "Đặt tên tuỳ ý, không cần theo quy tắc gì."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát biểu nào sau đây là không đúng?",
+    "answers": {
+      "A": "Tên tệp thường có hai thành phần là phần tên và phần mở rộng cách nhau bởi dấu chấm.",
+      "B": "Khi cài đặt chương trình, máy tính sẽ tự động tạo các tệp và thư mục chứa chương trình cài đặt",
+      "C": "Có thể di chuyển, đổi tên, xoá bất kì một tập và thư mục",
+      "D": "Thư mục chứa các thư mục khác gọi là thư mục mẹ."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Phương án nào sau đây không phải là lợi ích của việc tổ chức lưu trữ tập trên máy tính một cách hợp lý?",
+    "answers": {
+      "A": "Giúp em làm việc chuyên nghiệp hơn.",
+      "B": "Giúp em tìm được tài liệu nhanh hơn khi dữ liệu trên máy tính ngày càng nhiều.",
+      "C": "Máy tính sẽ chạy nhanh hơn.",
+      "D": "Giúp em dễ dàng quản lý công việc không bị nhầm lẫn"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Việc nào sau đây là không đúng khi quản lý tệp và thư mục trên máy tính?",
+    "answers": {
+      "A": "Đặt tên tệp hợp lý, ngắn gọn gợi nhớ đến nội dung của tập.",
+      "B": "Phân loại dữ liệu trước khi lưu trữ.",
+      "C": "Các tài liệu cùng loại đặt trong một thư mục.",
+      "D": "Tạo nhiều tập và thư mục giống nhau trên nhiều ổ đĩa"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Điền từ vào chỗ trống “Muốn tạo một thư mục, trong cửa sổ File Explorer, em mở thư mục sẽ chứa thư mục mới, nháy nút phải chuột vào chỗ trống ở khung bên phải, chọn lệnh......... và nhập tên thư mục mới.”",
+    "answers": {
+      "A": "Delete",
+      "B": "New/ Folder",
+      "C": "Rename",
+      "D": "Extract all"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nhận định nào sau đây là đúng khi nói về thiết bị cảm ứng?",
+    "answers": {
+      "A": "Màn hình cảm ứng có chức năng tiếp nhận thông tin vào thông qua tiếp xúc của ngón tay, bút cảm ứng.",
+      "B": "Chuột có chức năng tiếp nhận thông tin vào thông qua tiếp xúc của ngón tay, bút cảm ứng.",
+      "C": "Micro có chức năng tiếp nhận thông tin vào thông qua tiếp xúc của ngón tay, bút cảm ứng.",
+      "D": "Bàn phím có chức năng tiếp nhận thông tin vào thông qua tiếp xúc của ngón tay, bút cảm ứng."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nhận định nào dưới đây là đúng?",
+    "answers": {
+      "A": "Loa thông minh là thiết bị vào – ra thực hiện cả chức năng lưu trữ, xử lý dữ liệu",
+      "B": "Loa thông minh là thiết bị vào thực hiện cả chức năng lưu trữ, xử lý dữ liệu.",
+      "C": "Một chiếc máy ảnh hay máy ghi hình kỹ thuật số không chỉ là thiết bị ra mà còn có thể lưu trữ và thực hiện một số chức năng xử lý ảnh, xử lý video đơn giản.",
+      "D": "Loa thông minh là thiết bị ra thực hiện cả chức năng xử lý ảnh, xử lý dữ liệu."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi đang gọi điện thoại video cho bạn, em không nghe thấy tiếng, nhưng vẫn thấy hình bạn đang nói. Em chọn phương án nào sau đây để giải quyết vấn đề?",
+    "answers": {
+      "A": "Bật micro của mình và nhắc bạn bật micro",
+      "B": "Bật loa của mình và nhắc bạn bật micro",
+      "C": "Bật micro của mình và nhắc bạn bật loa",
+      "D": "Bật loa của mình và nhắc bạn bật loa"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Mạnh kể với Na: “Khi chơi một game chiến thuật trên máy tính, cuộc chiến đấu diễn ra ác liệt đến mức màn hình của tớ rung lên bần bật”. Na bảo Mạnh: “Màn hình không thể rung lên thế được!”. Em nghĩ gì về ý kiến của Na?",
+    "answers": {
+      "A": "Màn hình có thể rung lên vì hiệu ứng và âm thanh được tạo ra trong game.",
+      "B": "Màn hình là thiết bị ra nên có thể rung lên được",
+      "C": "Màn hình tuy là thiết bị ra nhưng dữ liệu ra là hình ảnh. Màn hình không được thiết kế phần cơ khí để giải mã sự kiện rung lắc nên không thể rung lên được",
+      "D": "Màn hình là thiết bị vào nên không thể rung lên được."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Sao lưu cục bộ là gì?",
+    "answers": {
+      "A": "Bản sao được đặt trên cùng máy tính chứa bản gốc hoặc trên các thiết bị lưu trữ như ổ cứng ngoài, USB,...",
+      "B": "Bản sao được đặt bên ngoài máy tính chứa bản gốc. Bản sao có thể lưu ở một máy tính khác, hoặc đưa lên Internet nhờ công nghệ đám mây. Nếu máy tính bị hỏng thì bản sao lưu vẫn an toàn.",
+      "C": "Bản sao được đặt bên trong máy tính chứa bản gốc.",
+      "D": "Bản sao được đặt bên ngoài máy tính chứa bản gốc hoặc trên các thiết bị lưu trữ như ổ cứng ngoài, USB,..."
+    },
+    "correct": "D"
+  }
+]

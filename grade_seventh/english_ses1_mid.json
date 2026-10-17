@@ -1,0 +1,962 @@
+[
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. amazing  B. yoga  C. classmate  D. sofa",
+    "answers": {
+      "A": "amazing",
+      "B": "yoga",
+      "C": "classmate",
+      "D": "sofa"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. bug  B. umbrella  C. under  D. focus",
+    "answers": {
+      "A": "bug",
+      "B": "umbrella",
+      "C": "under",
+      "D": "focus"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. surfing  B. surprise  C. Thursday  D. hurt",
+    "answers": {
+      "A": "surfing",
+      "B": "surprise",
+      "C": "Thursday",
+      "D": "hurt"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. proverb  B. together  C. exercise  D. never",
+    "answers": {
+      "A": "proverb",
+      "B": "together",
+      "C": "exercise",
+      "D": "never"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. violin  B. collect  C. Doctor  D. pronounce",
+    "answers": {
+      "A": "violin",
+      "B": "collect",
+      "C": "Doctor",
+      "D": "pronounce"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. learn  B. hear  C. near  D. fear",
+    "answers": {
+      "A": "learn",
+      "B": "hear",
+      "C": "near",
+      "D": "fear"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. donated  B. provided  C. flooded  D. changed",
+    "answers": {
+      "A": "donated",
+      "B": "provided",
+      "C": "flooded",
+      "D": "changed"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. collected  B. cleaned  C. decided  D. interested",
+    "answers": {
+      "A": "collected",
+      "B": "cleaned",
+      "C": "decided",
+      "D": "interested"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. talked  B. stopped  C. listened  D. watched",
+    "answers": {
+      "A": "talked",
+      "B": "stopped",
+      "C": "listened",
+      "D": "watched"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. passed  B. cooked  C. washed  D. started",
+    "answers": {
+      "A": "passed",
+      "B": "cooked",
+      "C": "washed",
+      "D": "started"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. watered  B. volunteered  C. cleaned  D. helped",
+    "answers": {
+      "A": "watered",
+      "B": "volunteered",
+      "C": "cleaned",
+      "D": "helped"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. ghost  B. cough  C. enough  D. laugh",
+    "answers": {
+      "A": "ghost",
+      "B": "cough",
+      "C": "enough",
+      "D": "laugh"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. leaf  B. favourite  C. farm  D. of",
+    "answers": {
+      "A": "leaf",
+      "B": "favourite",
+      "C": "farm",
+      "D": "of"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. paragraph  B. cough  C. although  D. enough",
+    "answers": {
+      "A": "paragraph",
+      "B": "cough",
+      "C": "although",
+      "D": "enough"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. dolphin  B. uphill  C. earphone  D. alphabet",
+    "answers": {
+      "A": "dolphin",
+      "B": "uphill",
+      "C": "earphone",
+      "D": "alphabet"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. away  B. around  C. classmate  D. about",
+    "answers": {
+      "A": "away",
+      "B": "around",
+      "C": "classmate",
+      "D": "about"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. umbrella  B. focus  C. under  D. sunny",
+    "answers": {
+      "A": "umbrella",
+      "B": "focus",
+      "C": "under",
+      "D": "sunny"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. clever  B. term  C. germ  D. prefer",
+    "answers": {
+      "A": "clever",
+      "B": "term",
+      "C": "germ",
+      "D": "prefer"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. cough  B. Enough  C. Through  D. laugh",
+    "answers": {
+      "A": "cough",
+      "B": "Enough",
+      "C": "Through",
+      "D": "laugh"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the word which has the underlined part pronounced differently from the others: A. night  B. Tough  C. Flight  D. high",
+    "answers": {
+      "A": "night",
+      "B": "Tough",
+      "C": "Flight",
+      "D": "high"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "I forgot to put on suncream when I sunbathed today, so I got _______.",
+    "answers": {
+      "A": "sunburn",
+      "B": "headache",
+      "C": "stomachache",
+      "D": "earache"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Watching too much television is not good _______ your eyes.",
+    "answers": {
+      "A": "at",
+      "B": "for",
+      "C": "with",
+      "D": "to"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "You can avoid some diseases by _______ yourself clean.",
+    "answers": {
+      "A": "looking",
+      "B": "bringing",
+      "C": "keeping",
+      "D": "taking"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "My family often goes _______ in the countryside. It's quiet and there's a lot of fresh air.",
+    "answers": {
+      "A": "exercise",
+      "B": "cycling",
+      "C": "sports",
+      "D": "sleeping"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Today it is very hot. Please wear a _______ when you go out.",
+    "answers": {
+      "A": "suncream",
+      "B": "make-up",
+      "C": "sport shoes",
+      "D": "sun hat"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "My cooking lesson _______ at 9 a.m every Saturday.",
+    "answers": {
+      "A": "start",
+      "B": "started",
+      "C": "starts",
+      "D": "is starting"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "We came to the remote village and _______ meals for homeless children.",
+    "answers": {
+      "A": "cooked",
+      "B": "offer",
+      "C": "do",
+      "D": "had"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "My parents _______ jogging every day. They only do it three time a week.",
+    "answers": {
+      "A": "go",
+      "B": "doesn't go",
+      "C": "goes",
+      "D": "don't go"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Mi _______ playing computer games because it's not good for her eyes.",
+    "answers": {
+      "A": "likes",
+      "B": "loves",
+      "C": "enjoys",
+      "D": "hates"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Jimmy loves taking _______ and posting them on websites.",
+    "answers": {
+      "A": "paintings",
+      "B": "photos",
+      "C": "videos",
+      "D": "music"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "My brother wants to _______ roses and orchids in the garden.",
+    "answers": {
+      "A": "watch",
+      "B": "make",
+      "C": "take",
+      "D": "plant"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Paul thinks _______ coins is an interesting hobby.",
+    "answers": {
+      "A": "picking",
+      "B": "playing",
+      "C": "collecting",
+      "D": "having"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Doing yoga _______ one of her hobbies.",
+    "answers": {
+      "A": "is",
+      "B": "are",
+      "C": "being",
+      "D": "be"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "I love my sister's paintings because she is very _______ in using colors.",
+    "answers": {
+      "A": "careless",
+      "B": "care",
+      "C": "creative",
+      "D": "imagine"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "What does your father do _______ his free time?",
+    "answers": {
+      "A": "in",
+      "B": "at",
+      "C": "on",
+      "D": "while"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ngoc _______ eating fast food because it's not good for her health.",
+    "answers": {
+      "A": "likes",
+      "B": "loves",
+      "C": "hates",
+      "D": "enjoys"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "If you have _______, use lip balm.",
+    "answers": {
+      "A": "chapped lips",
+      "B": "sunburn",
+      "C": "red spots",
+      "D": "white pimples"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Healthy food and exercise help people _______ fit.",
+    "answers": {
+      "A": "keep",
+      "B": "make",
+      "C": "avoid",
+      "D": "affect"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "The Donate a Book event helps children in _______ areas.",
+    "answers": {
+      "A": "mountain",
+      "B": "mountainous",
+      "C": "mountains",
+      "D": "mountaining"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Your room looks dark and it looks _______, too. There are lots of books and clothes on the floor.",
+    "answers": {
+      "A": "tidy",
+      "B": "untidy",
+      "C": "tidiness",
+      "D": "tidied"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Minh and his friends often _______ small children in their village.",
+    "answers": {
+      "A": "donate",
+      "B": "tutor",
+      "C": "exchange",
+      "D": "wash"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "We _______ bottles to help the environment last month.",
+    "answers": {
+      "A": "reusing",
+      "B": "reuse",
+      "C": "reused",
+      "D": "reuses"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Green School _______ vegetables for an orphanage last spring.",
+    "answers": {
+      "A": "grow",
+      "B": "grows",
+      "C": "grew",
+      "D": "is growing"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Children _______ plastic bottles for recycling a month ago.",
+    "answers": {
+      "A": "collect",
+      "B": "collected",
+      "C": "are collecting",
+      "D": "collects"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "We _______ English to children in a primary school last summer.",
+    "answers": {
+      "A": "teach",
+      "B": "are teaching",
+      "C": "taught",
+      "D": "are taught"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Our school club _______ gloves for old people in nursing homes last winter.",
+    "answers": {
+      "A": "is made",
+      "B": "is making",
+      "C": "make",
+      "D": "made"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "You should eat a lot of fruits and vegetables because they _______ vitamin A, which is good for the eyes.",
+    "answers": {
+      "A": "run",
+      "B": "take",
+      "C": "provide",
+      "D": "get"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "My cousin is getting sick. He feels weak and _______.",
+    "answers": {
+      "A": "strong",
+      "B": "heavy",
+      "C": "good",
+      "D": "tired"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "She is going to see the doctor because she has _______.",
+    "answers": {
+      "A": "a vitamin",
+      "B": "an exercise",
+      "C": "a headache",
+      "D": "a diet"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Many old people live and receive medical care in nursing _______.",
+    "answers": {
+      "A": "organisation",
+      "B": "school",
+      "C": "hospital",
+      "D": "home"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Do you enjoy collecting teddy bears?",
+    "answers": {
+      "A": "Yes, I do it every day.",
+      "B": "Yes, very much.",
+      "C": "Why don't you join us?",
+      "D": "Yes, she does."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Yesterday, my friends and I picked up trash in the school yard.",
+    "answers": {
+      "A": "What a pity!",
+      "B": "That's fantastic!",
+      "C": "Never mind.",
+      "D": "How pathetic you are!"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "What does your brother like doing?",
+    "answers": {
+      "A": "He enjoys doing yoga a lot.",
+      "B": "He goes to school at 7 a.m.",
+      "C": "No, he doesn't.",
+      "D": "Yes, very much."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "A: 'You shouldn't read in dim light' - B: '_______'",
+    "answers": {
+      "A": "Yes, thank you.",
+      "B": "I like reading detective stories.",
+      "C": "You're welcome.",
+      "D": "Thanks for your help."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "A: 'What's the matter with her?' - B: '_______'",
+    "answers": {
+      "A": "She is very intelligent",
+      "B": "She has lots of stamps",
+      "C": "She has a sore throat",
+      "D": "She dislikes reading books"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Breakfast is the (1) _______ important meal of the day.",
+    "answers": {
+      "A": "healthy",
+      "B": "tasty",
+      "C": "most",
+      "D": "main"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "It provides the nutrients your body needs for good health, the calories it needs for (2) _______ and helps to maintain your blood sugar level.",
+    "answers": {
+      "A": "strength",
+      "B": "effort",
+      "C": "energy",
+      "D": "power"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Studies have shown that people who don't have breakfast have a low blood sugar level and are often slow, tired, hungry and (3) _______ to concentrate.",
+    "answers": {
+      "A": "unable",
+      "B": "enable",
+      "C": "capable",
+      "D": "able"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "It's easier to (4) _______ weight if you eat in the morning rather than later in the day.",
+    "answers": {
+      "A": "put",
+      "B": "drop",
+      "C": "lose",
+      "D": "gain"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dividing the day's calories (5) _______ three meals helps take off weight more efficiently...",
+    "answers": {
+      "A": "into",
+      "B": "for",
+      "C": "in",
+      "D": "up"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "...than (6) _______ breakfast and having two larger meals a day does.",
+    "answers": {
+      "A": "making",
+      "B": "skipping",
+      "C": "buying",
+      "D": "serving"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Camping is a great way to spend a holiday. You can spend time (1) _______ and enjoying nature.",
+    "answers": {
+      "A": "relaxed",
+      "B": "relax",
+      "C": "relaxing",
+      "D": "relaxes"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "First, you need a tent (2) _______ a sleeping bag.",
+    "answers": {
+      "A": "for",
+      "B": "but",
+      "C": "and",
+      "D": "in"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "You should bring all (3) _______ food too, unless you are planning to go fishing or find food.",
+    "answers": {
+      "A": "its",
+      "B": "his",
+      "C": "your",
+      "D": "their"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "(4) _______ careful if you are eating wild berries or plants.",
+    "answers": {
+      "A": "Do",
+      "B": "Be",
+      "C": "Have",
+      "D": "Make"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "You can go for a (5) _______ look for birds and animals, or take photos.",
+    "answers": {
+      "A": "flight",
+      "B": "walk",
+      "C": "kid",
+      "D": "run"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Always remember to clean (6) _______ after yourself and don't leave any rubbish behind.",
+    "answers": {
+      "A": "out",
+      "B": "down",
+      "C": "up",
+      "D": "in"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Do you want to feel (1) _______ relaxed? Then try a few days at a health farm.",
+    "answers": {
+      "A": "like",
+      "B": "more",
+      "C": "least",
+      "D": "similar"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "It's (2) _______ largest health farm in the country but it isn't the most expensive.",
+    "answers": {
+      "A": "the",
+      "B": "an",
+      "C": "a",
+      "D": "x"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "It was all very healthy of course, but it (3) _______ expensive too!",
+    "answers": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "has been"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "(4) _______ you're looking for something a little cheaper, try a winter break.",
+    "answers": {
+      "A": "If",
+      "B": "Although",
+      "C": "However",
+      "D": "Therefore"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Winter is the darkest and the coldest (5) _______ of the year...",
+    "answers": {
+      "A": "item",
+      "B": "moment",
+      "C": "time",
+      "D": "part"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "[True/False] There are more and more elderly people doing community service.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "[True/False] Young people never provide the elderly with food.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "[True/False] Some people volunteer to work in hospitals.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "[True/False] Volunteers are called 'candy stripers' in England.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "[True/False] Volunteers come to the elderly to help them with the gardening.",
+    "answers": {
+      "A": "True",
+      "B": "False"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "What is the passage (Having a hobby...) mainly about?",
+    "answers": {
+      "A": "The importance of hobbies",
+      "B": "The definition of hobbies",
+      "C": "Time to start a hobby",
+      "D": "Hobbies and interests"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "What can a hobby give you?",
+    "answers": {
+      "A": "Leisure time",
+      "B": "Chance to afford new things",
+      "C": "More free time",
+      "D": "Something fun to do"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "What should we do if we want to cultivate a new hobby?",
+    "answers": {
+      "A": "refer to websites",
+      "B": "check the options",
+      "C": "try something new",
+      "D": "participate in activities"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Our interests and hobbies vary because _______.",
+    "answers": {
+      "A": "the world is wonderful",
+      "B": "there are many exciting things to explore",
+      "C": "each of us enjoys many things",
+      "D": "all of us are unique"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "What does the word 'It' refer to in paragraph 2?",
+    "answers": {
+      "A": "An activity",
+      "B": "A hobby",
+      "C": "A part",
+      "D": "A personal way"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Good teeth help us _______ our food.",
+    "answers": {
+      "A": "be nice",
+      "B": "have good eyesight",
+      "C": "chew",
+      "D": "be important"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "When food and germs collect in a small crack, our teeth _______.",
+    "answers": {
+      "A": "become hard",
+      "B": "send poison into the blood",
+      "C": "begin to decay",
+      "D": "make us feel quite ill"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "A lot of people visit the dentist only when _______.",
+    "answers": {
+      "A": "their teeth grow properly",
+      "B": "they have holes in their teeth",
+      "C": "they have toothache",
+      "D": "they have brush their teeth"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "We ought to clean our teeth _______.",
+    "answers": {
+      "A": "After breakfast",
+      "B": "before breakfast",
+      "C": "before bedtime",
+      "D": "Both A & C"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "We shouldn't eat a lot of _______.",
+    "answers": {
+      "A": "red rice",
+      "B": "fresh fruit",
+      "C": "fish",
+      "D": "chocolate"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: We can (A) stay healthy (B) by (C) eat well and exercising (D) regularly.",
+    "answers": {
+      "A": "stay",
+      "B": "by",
+      "C": "eat",
+      "D": "regularly"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: We (A) need calories (B) to do things every day: walking, (C) ride a bike and even (D) sleeping!",
+    "answers": {
+      "A": "need",
+      "B": "to do",
+      "C": "ride",
+      "D": "sleeping"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: Do you think (A) having a (B) health lifestyle is (C) essential for all (D) people?",
+    "answers": {
+      "A": "having",
+      "B": "health",
+      "C": "essential",
+      "D": "people"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: Don't (A) to eat too much ice cream (B) because it can (C) make you (D) fat!",
+    "answers": {
+      "A": "to eat",
+      "B": "because",
+      "C": "make",
+      "D": "fat"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: We (A) collected clothes and (B) give them to (C) homeless children (D) last year.",
+    "answers": {
+      "A": "collected",
+      "B": "give",
+      "C": "homeless",
+      "D": "last year"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: My mum (A) wants to (B) keep fit, (C) or she practises gym (D) three times a week.",
+    "answers": {
+      "A": "wants",
+      "B": "keep fit",
+      "C": "or",
+      "D": "three times"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: She (A) enjoys (B) to build dollhouses and (C) posting pictures of (D) them on social media.",
+    "answers": {
+      "A": "enjoys",
+      "B": "to build",
+      "C": "posting",
+      "D": "them"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: Reading books (A) are a (B) good activity (C) for your educational and mental (D) growth.",
+    "answers": {
+      "A": "are",
+      "B": "good activity",
+      "C": "for",
+      "D": "growth"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: My sister is (A) coughing, (B) sneezing and (C) have a (D) runny nose.",
+    "answers": {
+      "A": "coughing",
+      "B": "sneezing",
+      "C": "have",
+      "D": "runny"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Choose the underlined part that contains an error: Be (A) carefully (B) with (C) what you (D) eat and drink!",
+    "answers": {
+      "A": "carefully",
+      "B": "with",
+      "C": "what",
+      "D": "eat and drink"
+    },
+    "correct": "A"
+  }
+]

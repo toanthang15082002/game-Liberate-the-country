@@ -1,41 +1,13 @@
 const readyBtn = document.getElementById("readyBtn");
 const rulesDiv = document.getElementById("rulesDiv");
 const tooltip = document.getElementById("tooltip");
+const chooseSubjectDiv = document.getElementById("chooseSubject");
 const questionDiv = document.getElementById("questionDiv");
 const questionText = document.getElementById("questionText");
 const answerButtons = Array.from(document.querySelectorAll("#questionDiv button"));
 // --- Các tỉnh đã đỏ sẵn ---
 const initialLiberated = new Set([
-  "VN-01-Lai-Chau",
-  "VN-02-Lao-Cai",
-  "VN-03-Ha-Giang",
-  "VN-04-Cao-Bang",
-  "VN-05-Son-La",
-  "VN-06-Yen-Bai",
-  "VN-07-Tuyen-Quang",
-  "VN-09-Lang-Son",
   "VN-13-Quang-Ninh",
-  "VN-14-Hoa-Binh",
-  "VN-15-Ha-Noi",
-  "VN-18-Ninh-Binh",
-  "VN-20-Thai-Binh",
-  "VN-21-Thanh-Hoa",
-  "VN-22-Nghe-An",
-  "VN-23-Ha-Tinh",
-  "VN-24-Quang-Binh",
-  "VN-53-Bac-Kan",
-  "VN-54-Bac-Giang",
-  "VN-56-Bac-Ninh",
-  "VN-61-Hai-Duong",
-  "VN-63-Ha-Nam",
-  "VN-66-Hung-Yen",
-  "VN-67-Nam-Dinh",
-  "VN-68-Phu-Tho",
-  "VN-69-Thai-Nguyen",
-  "VN-70-Vinh-Phuc",
-  "VN-71-Dien-Bien",
-  "VN-HN-Ha-Noi",
-  "VN-HP-Hai-Phong",
 ]);
 
 let gameStarted = false;
@@ -58,16 +30,20 @@ function checkVictory() {
   }
 }
 
-async function fetchQuestions() {
+let questions = [];
+async function fetchQuestions(filePath) {
   try {
-    const response = await fetch('./grade_sixth/science_sesmester_2.json'); // FILE CÂU HỎI Ở ĐÂY
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const response = await fetch(filePath);
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
     questions = await response.json();
+    readyBtn.style.display = "block";
+    chooseSubjectDiv.style.display = "none";
   } catch (err) {
     console.error('Lỗi khi fetch câu hỏi:', err);
   }
 }
-fetchQuestions();
 
 // --- Tooltip + Logic click hỏi ---
 document.querySelectorAll("svg path").forEach((path) => {
@@ -195,9 +171,7 @@ document.getElementById("readyBtn").addEventListener("click", () => {
   document.getElementById("rulesDiv").style.display = "none";
   const youtubeLinks = [
     /* …Link nhạc youtube */
-    "https://www.youtube.com/watch?v=_lIu6T3Bp2I&list=RD_lIu6T3Bp2I&start_radio=1&pp=ygUNbeG6uSB5w6p1IGNvbqAHAQ%3D%3D",
-    "https://www.youtube.com/watch?v=tF5z8kkbzXk&list=RDtF5z8kkbzXk&start_radio=1&pp=ygUNdMO5bmcgZMawxqFuZ6AHAdIHCQmyCQGHKiGM7w%3D%3D",
-    "https://www.youtube.com/watch?v=Zv1aeqWPUv8&list=RDZv1aeqWPUv8&start_radio=1&pp=ygUNdMO5bmcgZMawxqFuZ6AHAQ%3D%3D"
+    "https://www.youtube.com/watch?v=rA_2B7Yj4QE&list=PL1CRgS4XswahElqv9qGcrMqP-Xy1SjxOR"
   ];
   const idx = Math.floor(Math.random() * youtubeLinks.length);
   const fullLink = youtubeLinks[idx];

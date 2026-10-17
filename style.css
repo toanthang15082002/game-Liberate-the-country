@@ -85,9 +85,27 @@ path.liberated {
   border-radius: 8px;
   z-index: 1000; /* đảm bảo nó phủ lên SVG */
 }
-
+#chooseSubject {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#chooseSubject button {
+  background-color: #f5f5f5;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px 16px;
+  margin: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+#chooseSubject button:hover {
+  background-color: #007bff; /* xanh dương */
+  color: #fff;
+}
 #readyBtn {
-  display: block;
+  display: none;
   margin: 10px auto 0 auto;
   padding: 8px 16px;
   font-size: 14px;
