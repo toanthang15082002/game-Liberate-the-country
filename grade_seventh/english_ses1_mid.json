@@ -862,100 +862,100 @@
   {
     "question": "Choose the underlined part that contains an error: We can (A) stay healthy (B) by (C) eat well and exercising (D) regularly.",
     "answers": {
-      "A": "stay",
-      "B": "by",
-      "C": "eat",
-      "D": "regularly"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "C"
   },
   {
     "question": "Choose the underlined part that contains an error: We (A) need calories (B) to do things every day: walking, (C) ride a bike and even (D) sleeping!",
     "answers": {
-      "A": "need",
-      "B": "to do",
-      "C": "ride",
-      "D": "sleeping"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "C"
   },
   {
     "question": "Choose the underlined part that contains an error: Do you think (A) having a (B) health lifestyle is (C) essential for all (D) people?",
     "answers": {
-      "A": "having",
-      "B": "health",
-      "C": "essential",
-      "D": "people"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "B"
   },
   {
     "question": "Choose the underlined part that contains an error: Don't (A) to eat too much ice cream (B) because it can (C) make you (D) fat!",
     "answers": {
-      "A": "to eat",
-      "B": "because",
-      "C": "make",
-      "D": "fat"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "A"
   },
   {
     "question": "Choose the underlined part that contains an error: We (A) collected clothes and (B) give them to (C) homeless children (D) last year.",
     "answers": {
-      "A": "collected",
-      "B": "give",
-      "C": "homeless",
-      "D": "last year"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "B"
   },
   {
     "question": "Choose the underlined part that contains an error: My mum (A) wants to (B) keep fit, (C) or she practises gym (D) three times a week.",
     "answers": {
-      "A": "wants",
-      "B": "keep fit",
-      "C": "or",
-      "D": "three times"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "C"
   },
   {
     "question": "Choose the underlined part that contains an error: She (A) enjoys (B) to build dollhouses and (C) posting pictures of (D) them on social media.",
     "answers": {
-      "A": "enjoys",
-      "B": "to build",
-      "C": "posting",
-      "D": "them"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "B"
   },
   {
     "question": "Choose the underlined part that contains an error: Reading books (A) are a (B) good activity (C) for your educational and mental (D) growth.",
     "answers": {
-      "A": "are",
-      "B": "good activity",
-      "C": "for",
-      "D": "growth"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "A"
   },
   {
     "question": "Choose the underlined part that contains an error: My sister is (A) coughing, (B) sneezing and (C) have a (D) runny nose.",
     "answers": {
-      "A": "coughing",
-      "B": "sneezing",
-      "C": "have",
-      "D": "runny"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "C"
   },
   {
     "question": "Choose the underlined part that contains an error: Be (A) carefully (B) with (C) what you (D) eat and drink!",
     "answers": {
-      "A": "carefully",
-      "B": "with",
-      "C": "what",
-      "D": "eat and drink"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "correct": "A"
   }

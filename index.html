@@ -16,24 +16,19 @@
       sang màu đỏ thể hiện đã được giải phóng, trả lời sai bắt đầu lại từ đầu. Bạn hãy tham gia
       giải phóng hoàn toàn miền Nam thống nhất đất nước nhé.
     </p>
+    <input id="playerName" type="text" placeholder="Nhập tên người chơi">
+    <select id="chooseSubject">
+      <option value="">-- Chọn môn học --</option>
+      <option value="Khoa học">Khoa học</option>
+      <option value="Tin học">Tin học</option>
+      <option value="Sử địa">Sử địa</option>
+      <option value="Tiếng Anh">Tiếng Anh</option>
+      <option value="Công nghệ">Công nghệ</option>
+      <option value="Từ vựng">Từ vựng</option>
+    </select>
+    <p id="loadingMessage" style="text-align: center"></p>
     <button id="readyBtn">Quyết tâm</button>
-    <div id="chooseSubject">
-      <button onclick="fetchQuestions('./grade_seventh/computer_science_ses1_mid.json')">
-        Tin học kỳ 1
-      </button>
-      <button onclick="fetchQuestions('./grade_seventh/english_ses1_mid.json')">
-        Tiếng Anh kỳ 1
-      </button>
-      <button onclick="fetchQuestions('./grade_seventh/history_geography_ses1_mid.json')">
-        Lịch sử - Địa lý kỳ 1
-      </button>
-      <button onclick="fetchQuestions('./grade_seventh/technology_ses1_mid.json')">
-        Công nghệ kỳ 1
-      </button>
-      <button onclick="fetchQuestions('./grade_seventh/vocabulary_practice_ses1_mid.json')">
-        Từ vựng kỳ 1
-      </button>
-    </div>
+    </select>
   </div>
   <div id="questionDiv" style="display: none">
     <div id="questionText" class="question-text"></div>
@@ -46,14 +41,14 @@
   </div>
   <div id="gameOverDiv">
     <h2>Bạn đã thua!</h2>
-    <button id="restartBtn">Chơi lại</button>
+    <button class="restartBtn">Chơi lại</button>
   </div>
   <div id="fixedSvg">
     <object type="image/svg+xml" data="is.svg"></object>
   </div>
   <div id="victoryDiv">
     🎉 Bạn đã giải phóng hoàn toàn miền Nam thống nhất đất nước! 🎉
-    <button id="restartBtn">Chơi lại</button>
+    <button class="restartBtn">Chơi lại</button>
   </div>
 
   <div id="player" style="width: 0; height: 0; overflow: hidden"></div>
@@ -259,7 +254,7 @@
       fill="gold" stroke="goldenrod" stroke-width="1" transform="translate(188.91844940185547,134.22325897216797)">
     </polygon>
   </svg>
-  <script src="./script.js"></script>
+  <script src="./script.js" defer></script>
 </body>
 
 </html>
