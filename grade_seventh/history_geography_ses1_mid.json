@@ -1,0 +1,482 @@
+[
+  {
+    "question": "Hai giai cấp cơ bản trong xã hội phong kiến châu Âu bao gồm:",
+    "answers": {
+      "A": "Địa chủ và nông dân.",
+      "B": "Tư sản và vô sản.",
+      "C": "Chủ nô và nô lệ.",
+      "D": "Lãnh chúa phong kiến và nông nô."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Năm 476, đế quốc La Mã bị diệt vong đã đánh dấu",
+    "answers": {
+      "A": "Chế độ phong kiến Tây Âu từng bước hình thành.",
+      "B": "Thời kỳ tư bản chủ nghĩa bắt đầu ở Tây Âu.",
+      "C": "Chấm dứt chế độ dân chủ cổ đại ở Tây Âu.",
+      "D": "Thời kỳ đấu tranh của nô lệ bắt đầu ở Tây Âu."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hai quốc gia tiên phong trong các cuộc phát kiến địa lí lớn ở Tây Âu?",
+    "answers": {
+      "A": "Anh và Pháp.",
+      "B": "Tây Ban Nha và Bồ Đào Nha.",
+      "C": "Đức và I-ta-li-a.",
+      "D": "Hà Lan và Nga."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phát kiến địa lí đã mang lại sự giàu có cho tầng lớp nào ở châu Âu?",
+    "answers": {
+      "A": "Tăng lữ.",
+      "B": "Nông dân.",
+      "C": "Thương nhân.",
+      "D": "Tướng lĩnh quân sự."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Hệ quả kinh tế quan trọng nhất của các cuộc phát kiến địa lí đối với Tây Âu là",
+    "answers": {
+      "A": "Làm giảm khối lượng hàng hóa lưu thông trên thị trường.",
+      "B": "Mở rộng thị trường thế giới, thúc đẩy sự tích lũy vốn ban đầu của giai cấp tư sản.",
+      "C": "Cô lập nền kinh tế các nước châu Âu với phần còn lại của thế giới.",
+      "D": "Khiến cho ngành hàng hải Tây Âu bị suy thoái."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Giai cấp tư sản Tây Âu đã tích lũy vốn ban đầu như thế nào?",
+    "answers": {
+      "A": "Phát triển kinh tế trang trại nông nghiệp hòa bình.",
+      "B": "Tước đoạt ruộng đất của nông dân, cướp bóc thuộc địa và buôn bán nô lệ da đen.",
+      "C": "Nhận viện trợ tài chính từ các vương quốc phương Đông.",
+      "D": "Vay vốn từ các ngân hàng phong kiến."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Thiên Chúa giáo ra đời vào thời gian nào và ở đâu?",
+    "answers": {
+      "A": "Thế kỉ I TCN tại Hy Lạp.",
+      "B": "Đầu Công nguyên tại Pa-le-xtin.",
+      "C": "Đầu Công nguyên tại Vương quốc Phơ-răng.",
+      "D": "Thế kỉ XI tại I-ta-li-a."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Thời trung đại, tôn giáo nào ở Châu Âu đã chi phối toàn bộ đời sống tinh thần của xã hội?",
+    "answers": {
+      "A": "Phật giáo.",
+      "B": "Thiên Chúa giáo.",
+      "C": "Đạo giáo.",
+      "D": "Đạo Tin Lành."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Lực lượng giữ vai trò sản xuất chính trong các lãnh địa phong kiến ở Tây Âu thời kì Trung đại là",
+    "answers": {
+      "A": "Quý tộc.",
+      "B": "Nô lệ.",
+      "C": "Nông nô.",
+      "D": "Hiệp sĩ."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Ai là nhà viết kịch vĩ đại thời kỳ Văn hóa Phục hưng?",
+    "answers": {
+      "A": "M.Xéc-van-tec.",
+      "B": "Mi-ken-lăng-giơ.",
+      "C": "Lê-ô-na-đơ Van-xi.",
+      "D": "W.Sếch-xpia."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Tư tưởng cốt lõi của phong trào Văn hóa Phục hưng là",
+    "answers": {
+      "A": "Đề cao giáo lý Thiên Chúa giáo và quyền lực Giáo hội.",
+      "B": "Đề cao giá trị con người, tự do cá nhân và tinh thần khoa học.",
+      "C": "Phục hồi lại chế độ nô lệ thời cổ đại.",
+      "D": "Bảo vệ tuyệt đối lợi ích của giai cấp lãnh chúa phong kiến."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Vì sao Giáo hội Thiên Chúa giáo thời kỳ Trung đại lại quyết liệt chống lại các phát kiến khoa học mới?",
+    "answers": {
+      "A": "Vì các phát kiến khoa học làm giảm lợi nhuận buôn bán của Giáo hội.",
+      "B": "Vì các phát kiến khoa học bác bỏ những giáo lý thần học sai lầm của Giáo hội, làm suy giảm uy tín và quyền lực của Giáo hội.",
+      "C": "Vì các nhà khoa học đòi lật đổ Giáo hoàng bằng quân sự.",
+      "D": "Vì các phát kiến khoa học do các nước phương Đông truyền sang."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Tôn giáo trở thành tư tưởng chính thống của nhà nước Trung Quốc thời phong kiến là:",
+    "answers": {
+      "A": "Nho giáo.",
+      "B": "Đạo giáo.",
+      "C": "Phật giáo.",
+      "D": "Thiên Chúa giáo."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chính sách lấy ruộng của công và ruộng bỏ hoang chia cho nông dân dưới thời Đường, được gọi là chế độ",
+    "answers": {
+      "A": "Công điền.",
+      "B": "Tịch điền.",
+      "C": "Quân điền.",
+      "D": "Doanh điền."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khi người Giéc-man xâm chiếm lãnh thổ đế quốc La Mã vào cuối thế kỉ V, hành động nào sau đây của họ đã trực tiếp làm sụp đổ bộ máy nhà nước chủ nô cổ đại?",
+    "answers": {
+      "A": "Thủ tiêu bộ máy nhà nước cũ, lập nên nhiều vương quốc mới như Phơ-răng, Tây Gốt, Đông Gốt.",
+      "B": "Giữ nguyên bộ máy chính quyền La Mã và chỉ thay đổi chức danh hoàng đế.",
+      "C": "Giải phóng toàn bộ nô lệ và chia đều toàn bộ ruộng đất cho họ.",
+      "D": "Khôi phục lại chế độ công xã thị tộc nguyên thủy tại Tây Âu."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nguyên nhân cốt lõi khiến các nhà tư tưởng Phục hưng chọn cách phục hồi tinh thần văn hóa cổ đại Hy Lạp - La Mã làm vũ khí đấu tranh là gì?",
+    "answers": {
+      "A": "Vì văn hóa cổ đại đề cao giá trị con người và tính duy lý, đối lập hoàn toàn với sự chi phối duy tâm của Giáo hội trung đại.",
+      "B": "Vì văn hóa cổ đại Hy Lạp - La Mã là hình mẫu duy nhất có sẵn tài liệu ghi chép bằng tiếng La-tinh.",
+      "C": "Vì tầng lớp lãnh chúa phong kiến rất yêu thích và tài trợ cho nghệ thuật Hy Lạp cổ đại.",
+      "D": "Vì giai cấp tư sản muốn khôi phục lại chế độ chiếm hữu nô lệ thời cổ đại."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Câu nói 'Cổng ngoài mấy tháng không đóng, ngựa bò đầy đồng, khách đi đường mấy nghìn dặm không cần mang theo lương thực' phản ánh đặc điểm gì nổi bật của xã hội Trung Quốc thời Đường Thái Tông?",
+    "answers": {
+      "A": "Tình hình xã hội ổn định, trị an tốt, kinh tế nông nghiệp và thương nghiệp phát triển thịnh vượng.",
+      "B": "Chính sách bế quan tỏa cảng nghiêm ngặt ngăn cấm người dân di chuyển xa.",
+      "C": "Sự phân hóa giàu nghèo cực kỳ gay gắt khiến người dân phải bỏ quê hương đi lang bạt.",
+      "D": "Nền kinh tế hoàn toàn mang tính tự cấp tự túc, không có sự trao đổi hàng hóa."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Đặc trưng kinh tế cơ bản nhất của lãnh địa phong kiến Tây Âu thời Trung đại là gì và nó dẫn đến hậu quả gì về mặt xã hội?",
+    "answers": {
+      "A": "Mang tính tự cấp tự túc khép kín, làm cho trao đổi thương nghiệp kém phát triển và nông nô bị trói buộc vào ruộng đất.",
+      "B": "Kinh tế hàng hóa phát triển mạnh, thúc đẩy quá trình đô thị hóa diễn ra nhanh chóng.",
+      "C": "Tập trung phát triển công nghiệp nặng, hình thành giai cấp công nhân rộng lớn.",
+      "D": "Mở rộng giao thương quốc tế qua đường biển, tạo nên sự giao lưu văn hóa Đông - Tây sâu sắc."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Sự xuất hiện của các thành thị trung đại ở Tây Âu vào thế kỉ XI có vai trò quyết định như thế nào đối với chế độ phong kiến?",
+    "answers": {
+      "A": "Phá vỡ nền kinh tế tự nhiên của lãnh địa, tạo điều kiện cho kinh tế hàng hóa phát triển và góp phần xóa bỏ chế độ phong kiến phân quyền.",
+      "B": "Củng cố quyền lực tuyệt đối cho các lãnh chúa phong kiến trong việc quản lý nông nô.",
+      "C": "Khôi phục lại hoàn toàn nền kinh tế nông nghiệp cổ truyền thời La Mã.",
+      "D": "Biến toàn bộ cư dân thành thị thành nông nô dưới quyền cai trị của Giáo hoàng."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Tác động sâu sắc nhất của Phong trào Cải cách tôn giáo (thế kỉ XVI) do Mác-tin Lu-thơ khởi xướng đối với xã hội Tây Âu là gì?",
+    "answers": {
+      "A": "Làm phân liệt Giáo hội Thiên Chúa giáo, xuất hiện đạo Tin Lành và giáng đòn nặng nề vào trật tự phong kiến.",
+      "B": "Xóa bỏ hoàn toàn ảnh hưởng của tôn giáo ra khỏi đời sống chính trị xã hội Tây Âu.",
+      "C": "Thống nhất tất cả các giáo xứ ở Châu Âu dưới quyền quản lý duy nhất của Quốc vương Anh.",
+      "D": "Biến Đạo Phật thành tôn giáo chính thống tại các quốc gia Tây Âu."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Vì sao Ph.Ăng-ghen lại đánh giá Phong trào Văn hóa Phục hưng là 'một cuộc cách mạng tiến bộ vĩ đại nhất mà loài người chưa từng thấy'?",
+    "answers": {
+      "A": "Vì nó không chỉ khôi phục di sản cổ đại mà còn giải phóng tư tưởng con người, mở đường cho sự phát triển đỉnh cao của khoa học, nghệ thuật và văn minh hiện đại.",
+      "B": "Vì nó đã tiêu diệt hoàn toàn tầng lớp quý tộc phong kiến và thành lập các nhà nước xã hội chủ nghĩa.",
+      "C": "Vì nó giúp các nước Tây Âu xâm chiếm và đô hộ được toàn bộ khu vực Châu Á và Châu Phi.",
+      "D": "Vì nó tạo ra hệ thống máy móc cơ khí hiện đại đầu tiên trong lịch sử nhân loại."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Châu Âu là 1 bộ phận của lục địa nào sau đây?",
+    "answers": {
+      "A": "Lục địa Bắc Mỹ.",
+      "B": "Lục địa Ô-xtrây-li-a.",
+      "C": "Lục địa Á - Âu.",
+      "D": "Lục địa Phi."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Châu Âu có những dạng địa hình chủ yếu nào?",
+    "answers": {
+      "A": "Đồng bằng, cao nguyên.",
+      "B": "Đồng bằng và miền núi.",
+      "C": "Trung du và miền núi.",
+      "D": "Miền núi và cao nguyên."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Châu Âu có các đới khí hậu nào sau đây?",
+    "answers": {
+      "A": "Nhiệt đới, ôn đới, hàn đới.",
+      "B": "Cận nhiệt, ôn đới, hàn đới.",
+      "C": "Xích đạo, ôn đới, hàn đới.",
+      "D": "Xích đạo, cận nhiệt, ôn đới."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nguyên nhân chủ yếu làm cho khí hậu phía Tây châu Âu ấm áp và mưa nhiều hơn phía Đông là do",
+    "answers": {
+      "A": "Tác động của dòng biển nóng Bắc Đại Tây Dương và gió Tây ôn đới.",
+      "B": "Giáp với biển Bắc Băng Dương.",
+      "C": "Địa hình miền Tây toàn là núi cao chắn gió.",
+      "D": "Ảnh hưởng của gió mùa Đông Bắc."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Kiểu rừng chủ yếu ở phía Bắc châu Âu là:",
+    "answers": {
+      "A": "Rừng lá rộng.",
+      "B": "Rừng thưa.",
+      "C": "Rừng hỗn giao.",
+      "D": "Rừng lá kim."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Thành phố nào sau đây không thuộc châu Âu?",
+    "answers": {
+      "A": "Thượng Hải.",
+      "B": "Luân Đôn.",
+      "C": "Pa-ri.",
+      "D": "Mat-xcơ-va."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Ranh giới tự nhiên nào ở phía đông, ngăn cách châu Âu với châu Á?",
+    "answers": {
+      "A": "Sông Ê-nit-xây.",
+      "B": "Dãy U-ran.",
+      "C": "Sông Vôn-ga.",
+      "D": "Sơn nguyên Trung Xi-bia."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Dạng địa hình nào chiếm phần lớn diện tích châu Âu?",
+    "answers": {
+      "A": "Đồng bằng.",
+      "B": "Cao nguyên.",
+      "C": "Núi già.",
+      "D": "Núi trẻ."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Đới khí hậu cận cực và cực ở châu Âu phân bố ở đâu?",
+    "answers": {
+      "A": "Các đảo và vùng ven biển phía tây.",
+      "B": "Phía nam châu lục.",
+      "C": "Trung tâm và phía đông khu vực.",
+      "D": "Một dải hẹp ở Bắc Âu."
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Sông ngòi châu Âu có đặc điểm gì?",
+    "answers": {
+      "A": "Mạng lưới sông ngòi dày đặc.",
+      "B": "Mạng lưới sông ngòi kém phát triển.",
+      "C": "Mạng lưới sông ngòi phân bố không đều.",
+      "D": "Mạng lưới sông ngòi nhiều thác ghềnh, ngắn và dốc."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Dân cư châu Âu có đặc điểm nào sau đây?",
+    "answers": {
+      "A": "Cơ cấu dân số già.",
+      "B": "Dân số đông, mật độ dân số cao.",
+      "C": "Tỉ lệ gia tăng tự nhiên cao nhất thế giới.",
+      "D": "Chủng tộc đa dạng."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Biện pháp hiệu quả để giải quyết tình trạng thiếu hụt lao động do dân số già ở châu Âu là",
+    "answers": {
+      "A": "Hạn chế tuyệt đối người nhập cư.",
+      "B": "Thu hút lao động nhập cư hợp pháp và chính sách khuyến khích sinh con.",
+      "C": "Giảm tuổi nghỉ hưu của người lao động.",
+      "D": "Ngừng phát triển các ngành công nghiệp kỹ thuật cao."
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Diện tích của châu Âu xấp xỉ khoảng bao nhiêu?",
+    "answers": {
+      "A": "10,1 triệu km².",
+      "B": "42,5 triệu km².",
+      "C": "43,5 triệu km².",
+      "D": "44,4 triệu km²."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Phía bắc châu Âu tiếp giáp với đại dương nào?",
+    "answers": {
+      "A": "Ấn Độ Dương.",
+      "B": "Thái Bình Dương.",
+      "C": "Bắc Băng Dương.",
+      "D": "Đại Tây Dương."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Lúc mới thành lập, Liên minh châu Âu (EU) có tên gọi ban đầu là gì?",
+    "answers": {
+      "A": "Khối thị trường chung Châu Âu.",
+      "B": "Cộng đồng Châu Âu.",
+      "C": "Cộng đồng kinh tế Châu Âu.",
+      "D": "Liên minh Châu Âu."
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dựa vào Bảng cơ cấu dân số theo giới tính của Châu Âu (1990 - 2020), năm 1990 tỉ lệ dân số nữ của Châu Âu là bao nhiêu?",
+    "answers": {
+      "A": "48,1%",
+      "B": "51,9%",
+      "C": "51,8%",
+      "D": "51,7%"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Theo Bảng cơ cấu dân số theo giới tính của Châu Âu, chênh lệch tỉ lệ giữa nam và nữ năm 2020 là bao nhiêu?",
+    "answers": {
+      "A": "3,8%",
+      "B": "3,6%",
+      "C": "3,4%",
+      "D": "3,2%"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dựa vào biểu đồ nhiệt độ và lượng mưa của 3 trạm ở Châu Âu (Gia-xgâu, Rô-ma, Ô-đét-xa), trạm nào có nhiệt độ trung bình năm cao nhất và giá trị là bao nhiêu?",
+    "answers": {
+      "A": "Gia-xgâu (8,1°C)",
+      "B": "Rô-ma (15,8°C)",
+      "C": "Ô-đét-xa (11,8°C)",
+      "D": "Rô-ma (11,8°C)"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong các trạm khí hậu Gia-xgâu, Rô-ma, Ô-đét-xa, trạm nào có tổng lượng mưa năm thấp nhất và đạt bao nhiêu mm?",
+    "answers": {
+      "A": "Gia-xgâu (1 228 mm)",
+      "B": "Rô-ma (878 mm)",
+      "C": "Ô-đét-xa (441 mm)",
+      "D": "Ô-đét-xa (878 mm)"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Dựa vào bảng số liệu cơ cấu dân số theo nhóm tuổi năm 1990 và 2020 của Châu Âu, xu hướng biến đổi cơ cấu dân số Châu Âu thể hiện điều gì?",
+    "answers": {
+      "A": "Tỉ lệ nhóm 0-14 tuổi giảm (từ 20,5% xuống 16,1%), tỉ lệ nhóm 65 tuổi trở lên tăng (từ 12,6% lên 19,1%), phản ánh dân số ngày càng già hóa.",
+      "B": "Tỉ lệ trẻ em tăng nhanh, tỉ lệ người cao tuổi giảm mạnh.",
+      "C": "Tỉ lệ nhóm tuổi lao động 15-64 tuổi tăng bứt phá chiếm hơn 80%.",
+      "D": "Cơ cấu dân số hoàn toàn ổn định không có sự thay đổi qua các mốc thời gian."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Năm 2020, trong số 4 trung tâm kinh tế lớn (EU, Hoa Kỳ, Nhật Bản, Trung Quốc), trung tâm nào có GDP/người cao nhất và cao gấp bao nhiêu lần so với Trung Quốc?",
+    "answers": {
+      "A": "Hoa Kỳ (63 544 USD/năm), cao gấp hơn 6 lần Trung Quốc (10 500 USD/năm).",
+      "B": "EU (34 115 USD/năm), cao gấp 3 lần Trung Quốc.",
+      "C": "Nhật Bản (39 539 USD/năm), cao gấp 4 lần Trung Quốc.",
+      "D": "Hoa Kỳ, cao gấp 2 lần Trung Quốc."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Sự khác biệt căn bản về đặc điểm hình thành giữa khu vực địa hình núi già và núi trẻ ở Châu Âu là gì?",
+    "answers": {
+      "A": "Núi già được hình thành cách đây hàng trăm triệu năm, bị bào mòn mạnh nên đỉnh tròn, sườn thoải; còn núi trẻ hình thành gần đây nên đỉnh nhọn, sườn dốc.",
+      "B": "Núi già phân bố tập trung ở phía Nam, núi trẻ phân bố chủ yếu ở phía Bắc Châu Âu.",
+      "C": "Núi già có độ cao trung bình trên 4000m, núi trẻ có độ cao dưới 2000m.",
+      "D": "Núi già vẫn đang tiếp tục nâng cao do kiến tạo, núi trẻ dừng phát triển."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Giải thích vì sao đới khí hậu ôn đới ở Châu Âu có sự phân hóa thành hai kiểu khí hậu rõ rệt là Ôn đới hải dương và Ôn đới lục địa?",
+    "answers": {
+      "A": "Do càng đi sâu vào nội địa về phía Đông, ảnh hưởng của biển và gió Tây ôn đới suy giảm, ẩm giảm, biên độ nhiệt năm tăng lên.",
+      "B": "Do phía Đông bị ảnh hưởng bởi dòng biển lạnh chảy ven bờ làm hạ nhiệt độ sâu.",
+      "C": "Do địa hình miền Tây Châu Âu ngăn cản toàn bộ các khối khí từ lục địa Á - Âu tràn sang.",
+      "D": "Do vùng phía Đông nằm gần đường chí tuyến Bắc nên khí hậu trở nên khô nóng."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nhóm nguyên nhân chủ yếu nào gây ra tình trạng ô nhiễm môi trường không khí nghiêm trọng tại các quốc gia Châu Âu?",
+    "answers": {
+      "A": "Hoạt động sản xuất công nghiệp và việc tiêu thụ nhiên liệu hóa thạch trong giao thông vận tải.",
+      "B": "Hiện tượng phun trào núi lửa diễn ra liên tục trên quy mô toàn châu lục.",
+      "C": "Sự gia tăng quá nhanh của hoạt động chăn nuôi gia súc quy mô trang trại.",
+      "D": "Khí thải sinh hoạt từ việc đun nấu bằng than củi của cư dân nông thôn Châu Âu."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Giải pháp mang tính chiến lược và căn cơ nhất mà các quốc gia Châu Âu đang thực hiện nhằm giảm lượng khí thải gây ô nhiễm không khí là gì?",
+    "answers": {
+      "A": "Chuyển đổi mạnh mẽ sang sử dụng năng lượng tái tạo (gió, mặt trời) và áp dụng thuế carbon đặc biệt đối với nhiên liệu hóa thạch.",
+      "B": "Cấm hoàn toàn tất cả các phương tiện giao thông cá nhân di chuyển trong lãnh thổ Châu Âu.",
+      "C": "Di dời toàn bộ các nhà máy công nghiệp sang khu vực các châu lục khác.",
+      "D": "Đóng cửa tất cả các mỏ khai thác khoáng sản và ngừng sản xuất điện lực."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bằng chứng nào rõ rệt nhất phản ảnh tác động của biến đổi khí hậu đang diễn ra ngày càng khốc liệt tại Châu Âu những năm gần đây?",
+    "answers": {
+      "A": "Gia tăng các đợt nắng nóng kỷ lục gây cháy rừng nghiêm trọng ở Nam Âu và mưa lớn bất thường gây lũ lụt ở Tây và Trung Âu.",
+      "B": "Toàn bộ băng tuyết ở khu vực Bắc Âu đã tan chảy hoàn toàn vào mùa hè.",
+      "C": "Các dòng sông lớn như Vôn-ga và Đa-ni-úp bị đóng băng vĩnh cửu quanh năm.",
+      "D": "Sa mạc hóa toàn bộ khu vực đồng bằng Bắc Âu."
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Tại sao việc xây dựng hạ tầng ưu tiên xe đạp, giao thông công cộng và vùng phát thải thấp lại được xem là hành động thiết thực của học sinh Châu Âu trong việc bảo vệ môi trường?",
+    "answers": {
+      "A": "Giúp giảm thiểu tiêu thụ nhiên liệu hóa thạch trực tiếp từ phương tiện cá nhân, từ đó giảm ô nhiễm không khí và lượng khí thải nhà kính.",
+      "B": "Vì xe đạp là phương tiện duy nhất được phép lưu thông trên đường phố Châu Âu.",
+      "C": "Nhằm mục đích tiết kiệm chi phí mua nhiên liệu cho ngân sách gia đình.",
+      "D": "Vì đây là quy định bắt buộc đối với tất cả học sinh dưới 18 tuổi."
+    },
+    "correct": "A"
+  }
+]
