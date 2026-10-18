@@ -1,0 +1,808 @@
+[
+  {
+    "question": "Sau khi đã thu thập mẫu vật, dữ liệu để nghiên cứu, các nhà khoa học lựa chọn các mẫu vật, dữ liệu có cùng đặc điểm giống nhau để sắp xếp thành các nhóm. Đây chính là kỹ năng gì?",
+    "answers": {
+      "A": "Kĩ năng dự báo",
+      "B": "Kĩ năng phân loại",
+      "C": "Kĩ năng liên kết",
+      "D": "Kĩ năng đo"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi nghiên cứu sự phát triển của cây trồng, ta có thể dự báo thời gian cây trưởng thành để lập kế hoạch thu hoạch đúng thời điểm. Nhà khí tượng học có thể dự báo thời tiết các ngày trong tuần dựa vào các quy luật về khí tượng trước đó. Ví dụ trên dựa trên kỹ năng nào dưới đây?",
+    "answers": {
+      "A": "Kĩ năng dự báo",
+      "B": "Kĩ năng phân loại",
+      "C": "Kĩ năng liên kết",
+      "D": "Kĩ năng đo"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Phương pháp tìm hiểu tự nhiên được thực hiện qua các bước:\n(1) Hình thành giả thuyết;\n(2) Rút ra kết luận;\n(3) Lập kế hoạch kiểm tra giả thuyết;\n(4) Quan sát và đặt câu hỏi nghiên cứu;\n(5) Thực hiện kế hoạch.\nEm hãy sắp xếp các bước trên cho đúng thứ tự của phương pháp tìm hiểu tự nhiên.",
+    "answers": {
+      "A": "(1); (2); (3); (4); (5)",
+      "B": "(5); (4); (3); (2); (1)",
+      "C": "(4); (1); (3); (5); (2)",
+      "D": "(3); (4); (1); (5); (2)"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Cho các bước sau:\n(1) Thực hiện phép đo, ghi kết quả đo và xử lý số liệu đo.\n(2) Ước lượng để lựa chọn dụng cụ/thiết bị đo phù hợp.\n(3) Phân tích kết quả và thảo luận về kết quả nghiên cứu thu được.\n(4) Đánh giá độ chính xác của kết quả đo căn cứ vào loại dụng cụ đo và cách đo.\nTrình tự các bước hình thành kỹ năng đo là:",
+    "answers": {
+      "A": "(1) -> (2) -> (3) -> (4)",
+      "B": "(1) -> (3) -> (2) -> (4)",
+      "C": "(3) -> (2) -> (4) -> (1)",
+      "D": "(2) -> (1) -> (4) -> (3)"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khối lượng nguyên tử được tính bằng đơn vị là:",
+    "answers": {
+      "A": "amu",
+      "B": "gam",
+      "C": "mol",
+      "D": "Lít"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Khối lượng của nguyên tử tập trung ở:",
+    "answers": {
+      "A": "vỏ nguyên tử",
+      "B": "hạt nhân",
+      "C": "neutron",
+      "D": "proton và electron"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong hạt nhân nguyên tử, hạt mang điện là:",
+    "answers": {
+      "A": "electron",
+      "B": "proton",
+      "C": "neutron",
+      "D": "proton và electron"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Khối lượng gần đúng của nguyên tử sodium (11p, 12n) là:",
+    "answers": {
+      "A": "11 amu",
+      "B": "12 amu",
+      "C": "23 amu",
+      "D": "34 amu"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Khối lượng gần đúng của nguyên tử carbon (6p, 6n) là:",
+    "answers": {
+      "A": "6 amu",
+      "B": "12 amu",
+      "C": "18 amu",
+      "D": "24 amu"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nguyên tử Sodium có 11 hạt proton trong hạt nhân. Nguyên tử Sodium có số lớp electron là:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nguyên tử Magnesium có 12 hạt proton trong hạt nhân. Nguyên tử Magnesium có số lớp electron là:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nguyên tử trong mô hình cấu tạo dưới đây (hạt nhân ký hiệu +8), có số lớp electron là:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nguyên tử trong mô hình cấu tạo dưới đây (hạt nhân ký hiệu +12), có số electron là:",
+    "answers": {
+      "A": "2",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nguyên tố hóa học là tập hợp nguyên tử cùng loại có cùng:",
+    "answers": {
+      "A": "số neutron trong hạt nhân",
+      "B": "số proton trong hạt nhân",
+      "C": "số electron trong hạt nhân",
+      "D": "số proton và số neutron"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Các nguyên tử của cùng một nguyên tố hóa học có cùng:",
+    "answers": {
+      "A": "số protons trong hạt nhân",
+      "B": "số neutrons trong hạt nhân",
+      "C": "số electrons trong vỏ nguyên tử",
+      "D": "khối lượng nguyên tử"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho thành phần các nguyên tử như sau: A (17p, 17e, 16n); B (20p, 19n, 20e); C (17p, 17e, 17n); D (19p, 19e, 20n). Có số nguyên tố hóa học là:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Cho thành phần các nguyên tử như sau: A (7p, 7e, 6n); B (20p, 19n, 20e); C (7p, 7e, 6n); D (20p, 20e, 20n). Có số nguyên tố hóa học là:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Kí hiệu hóa học của nguyên tố gồm........(1)........ có trong tên gọi của nguyên tố; trong đó.........(2).......... được viết ở dạng in hoa, chữ cái sau (nếu có) viết thường.",
+    "answers": {
+      "A": "một hoặc hai chữ cái; chữ cái đầu",
+      "B": "ba hoặc hai chữ cái; chữ cái đầu",
+      "C": "một chữ cái; chữ cái đầu",
+      "D": "hai chữ cái; chữ cái đầu"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "........(1)........ của nguyên tố gồm..........(2)........ có trong tên gọi của nguyên tố; trong đó chữ cái đầu được viết ở dạng in hoa, chữ cái sau (nếu có) viết thường.",
+    "answers": {
+      "A": "Kí hiệu hóa học; một hoặc hai chữ cái",
+      "B": "Kí hiệu hóa học; ba hoặc hai chữ cái",
+      "C": "Kí hiệu hóa học; một chữ cái",
+      "D": "Kí hiệu hóa học; hai chữ cái"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Tên gọi theo IUPAC của nguyên tố ứng với kí hiệu hóa học N là",
+    "answers": {
+      "A": "Natri",
+      "B": "Nitrogen",
+      "C": "Natrium",
+      "D": "Sodium"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Tên gọi theo IUPAC của nguyên tố ứng với kí hiệu hóa học Na là",
+    "answers": {
+      "A": "Natri",
+      "B": "Nitrogen",
+      "C": "Natrium",
+      "D": "Sodium"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Kí hiệu biểu diễn nguyên tử Chlorine là:",
+    "answers": {
+      "A": "Cl",
+      "B": "C",
+      "C": "CL",
+      "D": "cl"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Kí hiệu biểu diễn nguyên tử Aluminium là:",
+    "answers": {
+      "A": "Al",
+      "B": "A",
+      "C": "AL",
+      "D": "al"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trong bảng tuần hoàn, các nguyên tố hóa học được xếp theo chiều:",
+    "answers": {
+      "A": "tăng dần của số electron trong nguyên tử",
+      "B": "tăng dần của điện tích hạt nhân nguyên tử",
+      "C": "giảm dần của điện tích hạt nhân nguyên tử",
+      "D": "giảm dần của số electron trong nguyên tử"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong bảng tuần hoàn, các nguyên tố hóa học được xếp trong cùng một hàng có:",
+    "answers": {
+      "A": "số electron lớp ngoài cùng bằng nhau",
+      "B": "số lớp electron bằng nhau",
+      "C": "số điện tích hạt nhân nguyên tử bằng nhau",
+      "D": "số hạt trong nguyên tử bằng nhau"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong bảng tuần hoàn, các nguyên tố hóa học được xếp trong cùng một cột có:",
+    "answers": {
+      "A": "tính chất hóa học tương tự nhau",
+      "B": "tính chất vật lí tương tự nhau",
+      "C": "tính chất hóa học không giống nhau",
+      "D": "tính chất vật lí khác nhau"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Bảng tuần hoàn hiện nay có 118 nguyên tố và các nguyên tố được sắp xếp theo nguyên tắc là:",
+    "answers": {
+      "A": "theo chiều tăng dần của điện tích hạt nhân",
+      "B": "trong cùng một hàng có cùng số lớp e trong nguyên tử",
+      "C": "trong cùng một cột có tính chất hóa học giống nhau",
+      "D": "Cả 3 nguyên tắc a, b và c"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Bảng tuần hoàn các nguyên tố hoá học được cấu tạo từ",
+    "answers": {
+      "A": "ô nguyên tố, chu kì, nhóm",
+      "B": "chu kì, nhóm",
+      "C": "ô nguyên tố",
+      "D": "chu kì"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Nhóm A là tập hợp các nguyên tố mà nguyên tử:",
+    "answers": {
+      "A": "có số electron lớp ngoài cùng bằng nhau",
+      "B": "có số lớp electron bằng nhau",
+      "C": "có điện tích hạt nhân bằng nhau",
+      "D": "có số hạt trong nguyên tử bằng nhau"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Chu kì là tập hợp các nguyên tố mà các nguyên tử:",
+    "answers": {
+      "A": "có số electron lớp ngoài cùng bằng nhau",
+      "B": "có cùng số lớp electron",
+      "C": "có điện tích hạt nhân bằng nhau",
+      "D": "có số hạt trong nguyên tử bằng nhau"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Số thứ tự của chu kì bằng:",
+    "answers": {
+      "A": "số lớp electron trong nguyên tử của các nguyên tố trong chu kì đó",
+      "B": "số electron trong nguyên tử của các nguyên tố trong chu kì đó",
+      "C": "số electron lớp ngoài cùng trong nguyên tử của các nguyên tố trong chu kì đó",
+      "D": "số electron lớp trong cùng trong nguyên tử của các nguyên tố trong chu kì đó"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho các sơ đồ nguyên tử của các nguyên tố:\nLithium (+3)\nCarbon (+6)\nSodium (+11)\nOxygen (+8)\nCác nguyên tố được xếp cùng một chu kì trong bảng tuần hoàn là:",
+    "answers": {
+      "A": "Lithium, Carbon",
+      "B": "Lithium, Carbon, Oxygen",
+      "C": "Sodium, Oxygen",
+      "D": "Lithium, Sodium, Oxygen"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Quan sát ô nguyên tố và cho biết nguyên tố\n+12\nMg\nMagnesium\n24\nnằm ở chu kì ........ trong bảng tuần hoàn các nguyên tố hoá học:",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Quan sát ô nguyên tố và cho biết nguyên tố\n+16\nS\nSulfur\n32\nnằm ở ô số ........ trong bảng tuần hoàn các nguyên tố hoá học:",
+    "answers": {
+      "A": "6",
+      "B": "2",
+      "C": "32",
+      "D": "16"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Quan sát ô nguyên tố và cho biết nguyên tố\n+10\nNe\nNeon\n20\ncó bao nhiêu electron trong nguyên tử:",
+    "answers": {
+      "A": "6",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Các nguyên tố ở nhóm ......... đều là kim loại điển hình (trừ hydrogen)",
+    "answers": {
+      "A": "IVA",
+      "B": "IIIA",
+      "C": "IIA",
+      "D": "IA"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Các nguyên tố ở nhóm .................... hầu hết là phi kim điển hình (trừ Ts)",
+    "answers": {
+      "A": "IVA",
+      "B": "VA",
+      "C": "VIA",
+      "D": "VIIA"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Tất cả các nguyên tố nằm trong nhóm VIIIA là nguyên tố:",
+    "answers": {
+      "A": "kim loại",
+      "B": "phi kim",
+      "C": "phi kim mạnh",
+      "D": "khí hiếm"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Phân tử là hạt đại diện cho chất, gồm một số ................ liên kết với nhau và thể hiện đầy đủ tính chất hóa học của chất.",
+    "answers": {
+      "A": "đơn chất",
+      "B": "hợp chất",
+      "C": "nguyên tử",
+      "D": "nguyên tố"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "................ là hạt đại diện cho chất, gồm một số nguyên tử liên kết với nhau và thể hiện đầy đủ tính chất hóa học của chất.",
+    "answers": {
+      "A": "Đơn chất",
+      "B": "Phân tử",
+      "C": "Nguyên tố",
+      "D": "Nguyên tử"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Những chất được tạo nên từ ........ nguyên tố hóa học là đơn chất",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Những chất được tạo nên từ ........ nguyên tố hóa học trở lên là hợp chất",
+    "answers": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phân tử đường ăn được cấu tạo từ carbon, hydrogen, oxygen. Đường ăn là:",
+    "answers": {
+      "A": "đơn chất",
+      "B": "hợp chất",
+      "C": "kim loại",
+      "D": "phi kim"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Phân tử glucose được cấu tạo từ carbon, hydrogen, oxygen. Glucose là:",
+    "answers": {
+      "A": "đơn chất",
+      "B": "hợp chất",
+      "C": "kim loại",
+      "D": "phi kim"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Những chất được tạo nên từ 1 nguyên tố hóa học là:",
+    "answers": {
+      "A": "đơn chất",
+      "B": "hợp chất",
+      "C": "kim loại",
+      "D": "phi kim"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Những chất được tạo nên từ 2 nguyên tố hóa học trở lên là:",
+    "answers": {
+      "A": "đơn chất",
+      "B": "hợp chất",
+      "C": "kim loại",
+      "D": "phi kim"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Các khí hiếm tồn tại dưới dạng đơn nguyên tử bền vững, khó bị biến đổi hóa học vì:",
+    "answers": {
+      "A": "số lượng các nguyên tố khí hiếm rất nhỏ",
+      "B": "các nguyên tử khí hiếm có kích thước rất nhỏ",
+      "C": "các nguyên tử khí hiếm có lớp electron ngoài cùng bền vững",
+      "D": "các khí hiếm ở thể khí trong điều kiện thường"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Nguyên tử khí hiếm là nguyên tử có:",
+    "answers": {
+      "A": "số electron trong nguyên tử là số chẵn",
+      "B": "số proton bằng số neutron",
+      "C": "tám electron ở lớp ngoài cùng (trừ He)",
+      "D": "tám electron trong nguyên tử (trừ He)"
+    },
+    "correct": "C"
+  },
+  {
+    "question": "Liên kết cộng hóa trị là liên kết được tạo nên giữa hai nguyên tử bằng:",
+    "answers": {
+      "A": "lực hút tĩnh điện yếu giữa các nguyên tử cùng hoá trị cộng lại với nhau",
+      "B": "một hoặc nhiều cặp electron dùng chung để tạo ra lớp vỏ electron giống khí hiếm",
+      "C": "các đám mây electron liên kết lại và cộng hoá trị với nhau",
+      "D": "các electron có hoá trị giống nhau liên kết lại cùng với nhau"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Liên kết giữa các nguyên tử trong phân tử nước là liên kết:",
+    "answers": {
+      "A": "cộng hóa trị",
+      "B": "ion",
+      "C": "phi kim",
+      "D": "kim loại"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Trong phân tử potassium chloride, nguyên tử K (potassium) và nguyên tử Cl (chlorine) liên kết với nhau bằng liên kết",
+    "answers": {
+      "A": "cộng hóa trị",
+      "B": "ion",
+      "C": "phi kim",
+      "D": "kim loại"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Khi hai nguyên tử A và B tạo ra liên kết ion với nhau thì:",
+    "answers": {
+      "A": "mỗi nguyên tử A và B đều nhận thêm electron",
+      "B": "một nguyên tử nhận thêm electron, một nguyên tử nhường electron",
+      "C": "proton được chuyển từ nguyên tử này sang nguyên tử kia",
+      "D": "mỗi nguyên tử A và B đều cho đi electron"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Trong phân tử oxygen (O₂), khi hai nguyên tử oxygen liên kết với nhau, chúng:",
+    "answers": {
+      "A": "góp chung proton",
+      "B": "chuyển electron từ nguyên tử này sang nguyên tử kia",
+      "C": "chuyển proton từ nguyên tử này sang nguyên tử kia",
+      "D": "góp chung electron"
+    },
+    "correct": "D"
+  },
+  {
+    "question": "Nguyên tử Magnesium (Mg) nằm ở ô số 12, chu kì 3, nhóm IIA và nguyên tử Oxygen (O) nằm ở ô số 8, chu kì 2, nhóm VIA. Khi Mg kết hợp O tạo thành magnesium oxide bằng liên kết:",
+    "answers": {
+      "A": "cộng hóa trị",
+      "B": "ion",
+      "C": "phi kim",
+      "D": "kim loại"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Nguyên tử Sodium (Na) nằm ở ô số 11, chu kì 3, nhóm IA và nguyên tử Oxygen (O) nằm ở ô số 8, chu kì 2, nhóm VIA. Khi Na kết hợp O tạo thành Sodium oxide bằng liên kết:",
+    "answers": {
+      "A": "cộng hóa trị",
+      "B": "ion",
+      "C": "phi kim",
+      "D": "kim loại"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Hạt nhân nguyên tử Y có 14 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố Y có số hiệu nguyên tử là 14.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt nhân nguyên tử Y có 14 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố Y thuộc chu kì 2 của bảng tuần hoàn.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Hạt nhân nguyên tử Y có 14 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố Y thuộc nhóm IVA của bảng tuần hoàn.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt nhân nguyên tử Y có 14 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố Y có 3 lớp electron và 4 electron ở lớp ngoài cùng.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt nhân nguyên tử M có 12 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố M thuộc chu kì 3.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt nhân nguyên tử M có 12 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tử M có 1 electron ở lớp electron ngoài cùng.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Hạt nhân nguyên tử M có 12 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố M thuộc nhóm IIA (nhóm 2).'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Hạt nhân nguyên tử M có 12 proton. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố M có số hiệu nguyên tử là 10.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét mô hình nguyên tử Rutherford – Bohr và các hạt cấu tạo. Phát biểu sau đây Đúng hay Sai: 'Theo mô hình Rutherford – Bohr, nguyên tử gồm hạt nhân mang điện tích dương ở tâm và các electron mang điện tích âm chuyển động xung quanh.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét mô hình nguyên tử Rutherford – Bohr và các hạt cấu tạo. Phát biểu sau đây Đúng hay Sai: 'Hạt nhân nguyên tử gồm hai loại hạt: proton (kí hiệu p, mang điện tích +1) và neutron (kí hiệu n, không mang điện).'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét mô hình nguyên tử Rutherford – Bohr và các hạt cấu tạo. Phát biểu sau đây Đúng hay Sai: 'Trong một nguyên tử trung hoà về điện, tổng số hạt proton luôn bằng tổng số hạt electron.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét mô hình nguyên tử Rutherford – Bohr và các hạt cấu tạo. Phát biểu sau đây Đúng hay Sai: 'Mỗi electron ở vỏ nguyên tử mang một đơn vị điện tích âm, quy ước giá trị điện tích là +1.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét sự phân bố electron và khối lượng nguyên tử. Phát biểu sau đây Đúng hay Sai: 'Vỏ nguyên tử sắp xếp thành từng lớp: lớp thứ nhất (gần hạt nhân nhất) chứa tối đa 2 electron, lớp thứ hai chứa tối đa 8 electron.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét sự phân bố electron và khối lượng nguyên tử. Phát biểu sau đây Đúng hay Sai: 'Các electron ở lớp ngoài cùng đóng vai trò quyết định tính chất hoá học của nguyên tử.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét sự phân bố electron và khối lượng nguyên tử. Phát biểu sau đây Đúng hay Sai: 'Khối lượng nguyên tử tập trung chủ yếu ở vỏ electron do vỏ chứa nhiều hạt electron.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét sự phân bố electron và khối lượng nguyên tử. Phát biểu sau đây Đúng hay Sai: 'Khối lượng nguyên tử tính theo đơn vị amu, trong đó 1 proton và 1 neutron đều có khối lượng xấp xỉ bằng 1 amu.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho các phát biểu về nguyên tố hoá học và kí hiệu hoá học. Phát biểu sau đây Đúng hay Sai: 'Nguyên tố hoá học là tập hợp những nguyên tử có cùng số proton trong hạt nhân.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho các phát biểu về nguyên tố hoá học và kí hiệu hoá học. Phát biểu sau đây Đúng hay Sai: 'Số proton trong hạt nhân chính là số hiệu nguyên tử, mỗi nguyên tố chỉ có duy nhất một số hiệu nguyên tử.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho các phát biểu về nguyên tố hoá học và kí hiệu hoá học. Phát biểu sau đây Đúng hay Sai: 'Kí hiệu hoá học gồm một hoặc hai chữ cái (chữ đầu in hoa, chữ sau viết thường) biểu diễn theo tiêu chuẩn IUPAC.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Cho các phát biểu về nguyên tố hoá học và kí hiệu hoá học. Phát biểu sau đây Đúng hay Sai: 'Tất cả các nguyên tử thuộc cùng một nguyên tố hoá học bắt buộc phải có số neutron bằng nhau.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét nguyên tắc cấu tạo của bảng tuần hoàn. Phát biểu sau đây Đúng hay Sai: 'Bảng tuần hoàn gồm 118 nguyên tố, được sắp xếp theo chiều tăng dần của điện tích hạt nhân nguyên tử.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét nguyên tắc cấu tạo của bảng tuần hoàn. Phát biểu sau đây Đúng hay Sai: 'Các nguyên tố thuộc cùng một chu kì (hàng ngang) có cùng số lớp electron trong nguyên tử.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét nguyên tắc cấu tạo của bảng tuần hoàn. Phát biểu sau đây Đúng hay Sai: 'Số thứ tự của nhóm A bằng số electron ở lớp ngoài cùng của nguyên tử các nguyên tố trong nhóm đó (trừ He).'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét nguyên tắc cấu tạo của bảng tuần hoàn. Phát biểu sau đây Đúng hay Sai: 'Trong bảng tuần hoàn, các nguyên tố kim loại tập trung chủ yếu ở góc trên bên phải.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét sự hình thành liên kết ion. Phát biểu sau đây Đúng hay Sai: 'Lớp electron ngoài cùng của nguyên tử khí hiếm chứa 8 electron (riêng He chứa 2 electron) tạo nên cấu trúc bền vững.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét sự hình thành liên kết ion. Phát biểu sau đây Đúng hay Sai: 'Nguyên tử các nguyên tố khác có xu hướng nhường, nhận hoặc dùng chung electron để đạt lớp vỏ bền vững giống khí hiếm.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét sự hình thành liên kết ion. Phát biểu sau đây Đúng hay Sai: 'Liên kết ion được hình thành do lực hút giữa các ion mang điện tích trái dấu.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét sự hình thành liên kết ion. Phát biểu sau đây Đúng hay Sai: 'Ở điều kiện thường, hợp chất ion rất dễ bay hơi, dễ nóng chảy và không tan được trong nước.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét bản chất liên kết cộng hoá trị. Phát biểu sau đây Đúng hay Sai: 'Liên kết cộng hoá trị là liên kết được tạo nên giữa hai nguyên tử bằng sự dùng chung một hay nhiều cặp electron.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét bản chất liên kết cộng hoá trị. Phát biểu sau đây Đúng hay Sai: 'Liên kết trong phân tử nước (H₂O) và phân tử oxygen (O₂) đều thuộc loại liên kết cộng hoá trị.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  },
+  {
+    "question": "Xét bản chất liên kết cộng hoá trị. Phát biểu sau đây Đúng hay Sai: 'Sự tạo thành ion dương xảy ra khi nguyên tử phi kim nhận thêm electron từ nguyên tử kim loại.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "B"
+  },
+  {
+    "question": "Xét bản chất liên kết cộng hoá trị. Phát biểu sau đây Đúng hay Sai: 'Các chất cộng hoá trị thường có nhiệt độ nóng chảy và nhiệt độ sôi thấp.'",
+    "answers": {
+      "A": "Đúng",
+      "B": "Sai"
+    },
+    "correct": "A"
+  }
+]
