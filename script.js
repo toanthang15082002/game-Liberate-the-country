@@ -6,8 +6,21 @@ const questionDiv = document.getElementById("questionDiv");
 const questionText = document.getElementById("questionText");
 const loadingMessage = document.getElementById("loadingMessage");
 const restartBtn = document.getElementById("restartBtn");
-
 const answerButtons = Array.from(document.querySelectorAll("#questionDiv button"));
+// --- Hàm random màu ---
+function randomColor() {
+  const colors = [
+    "#00BF7D",
+    "#FF5722",
+    "#3A86FF",
+    "#FFD600",
+    "#7B2CBF",
+    "#121212",
+    "#FF4D80",
+    "#E60000",
+  ];
+  return colors[Math.floor(Math.random() * colors.length)];
+}
 // --- Các tỉnh đã đỏ sẵn ---
 const initialLiberated = new Set([
   "VN-13-Quang-Ninh",
@@ -18,7 +31,8 @@ const questionFiles = {
   "Sử địa": "./grade_seventh/history_geography_ses1_mid.json",
   "Tiếng Anh": "./grade_seventh/english_ses1_mid.json",
   "Công nghệ": "./grade_seventh/technology_ses1_mid.json",
-  "Từ vựng": "./grade_seventh/vocabulary_practice_ses1_mid.json"
+  "Từ vựng": "./grade_seventh/vocabulary_practice_ses1_mid.json",
+  "Khoa học": "./grade_seventh/science_ses1_mid.json"
 };
 
 const LOG_API_URL = "https://game-history-api.toanthang15082002.workers.dev";
@@ -228,6 +242,7 @@ document.querySelectorAll("svg path").forEach((path) => {
           document.querySelectorAll("svg path").forEach(p => p.style.pointerEvents = "auto");
           if (text === correctAnswer) {
             currentPath?.classList?.add("liberated");
+            currentPath?.style?.setProperty("--liberated-color", randomColor());
             liberatedCount++;
             checkVictory();
           } else {
