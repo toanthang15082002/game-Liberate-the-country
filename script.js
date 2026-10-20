@@ -7,6 +7,9 @@ const questionText = document.getElementById("questionText");
 const loadingMessage = document.getElementById("loadingMessage");
 const restartBtn = document.getElementById("restartBtn");
 const answerButtons = Array.from(document.querySelectorAll("#questionDiv button"));
+
+const totalProvinces = 63; // Số tỉnh cần giải phóng để thắng
+
 // --- Hàm random màu ---
 function randomColor() {
   const colors = [
@@ -65,7 +68,6 @@ readyBtn.addEventListener("click", function () {
   rulesDiv.style.display = "none";
   gameStarted = true;
 });
-const totalProvinces = 34;
 let liberatedCount = 0;
 
 async function recordGameResult(result) {
